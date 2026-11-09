@@ -1,0 +1,563 @@
+id,label,kind,community,degree,pagerank
+character:euan_abercrombie,Euan Abercrombie,character,0,2,0.00066
+character:stewart_ackerley,Stewart Ackerley,character,0,1,0.00054
+character:albino_peacock,Albino peacock,character,6,1,0.00051
+character:aragog,Aragog,character,10,1,0.0006
+character:arnold,Arnold,character,3,1,0.00045
+character:bertram_aubrey,Bertram Aubrey,character,0,1,0.00048
+character:avery_i,Avery I,character,0,3,0.00089
+character:avery_ii,Avery II,character,2,4,0.00116
+character:malcolm_baddock,Malcolm Baddock,character,0,1,0.00048
+character:badgered_boy,Badgered Boy,character,0,1,0.00048
+character:ludovic_bagman,Ludovic Bagman,character,1,1,0.00048
+character:bane,Bane,character,0,2,0.0008
+character:heathcote_barbary,Heathcote Barbary,character,0,1,0.00093
+character:basil,Basil,character,1,2,0.00077
+character:damocles_belby,Damocles Belby,character,0,2,0.00072
+character:marcus_belby,Marcus Belby,character,0,3,0.00095
+character:bem,Bem,character,0,3,0.00082
+character:bernie,Bernie,character,1,1,0.00048
+character:bilius,Bilius,character,3,2,0.00099
+character:binky,Binky,character,3,1,0.00058
+character:cuthbert_binns,Cuthbert Binns,character,0,1,0.00048
+character:black_knight,Black Knight,character,0,1,0.00048
+character:arcturus_black_iii,Arcturus Black III,character,10,1,0.00067
+character:orion_black,Orion Black,character,10,4,0.00285
+character:regulus_black,Regulus Black,character,10,4,0.00265
+character:sirius_black,Sirius Black,character,10,18,0.00684
+character:miles_bletchley,Miles Bletchley,character,0,3,0.00091
+character:bloody_baron,Bloody Baron,character,0,2,0.0007
+character:bob,Bob,character,1,2,0.00069
+character:broderick_bode,Broderick Bode,character,1,2,0.00082
+character:bogrod,Bogrod,character,7,1,0.00071
+character:lucian_bole,Lucian Bole,character,0,3,0.00091
+character:amelia_bones_father,Amelia Bones' father,character,10,2,0.00126
+character:edgar_bones,Edgar Bones,character,10,3,0.0014
+character:mungo_bonham,Mungo Bonham,character,9,1,0.00071
+character:terry_boot,Terry Boot,character,0,3,0.00091
+character:borgin,Borgin,character,2,1,0.00074
+character:boris_the_bewildered,Boris the Bewildered,character,0,1,0.00048
+character:bozo,Bozo,character,1,1,0.00057
+character:buckbeak,Buckbeak,character,10,7,0.00175
+character:caractacus_burke,Caractacus Burke,character,2,1,0.00074
+character:cadogan,Cadogan,character,0,2,0.00066
+character:cadwallader,Cadwallader,character,0,2,0.00081
+character:eddie_carmichael,Eddie Carmichael,character,0,2,0.00075
+character:amycus_carrow,Amycus Carrow,character,2,3,0.00094
+character:alfred_cattermole,Alfred Cattermole,character,1,1,0.0011
+character:reginald_cattermole,Reginald Cattermole,character,1,2,0.00132
+character:owen_cauldwell,Owen Cauldwell,character,0,1,0.00053
+character:chambers,Chambers,character,0,3,0.00103
+character:ritchie_coote,Ritchie Coote,character,0,3,0.0008
+character:michael_corner,Michael Corner,character,0,3,0.00091
+character:crabbe,Crabbe,character,2,3,0.00095
+character:vincent_crabbe,Vincent Crabbe,character,0,7,0.00182
+character:colin_creevey,Colin Creevey,character,0,5,0.00172
+character:dennis_creevey,Dennis Creevey,character,0,4,0.00151
+character:creevey_brothers_father,Creevey brothers' father,character,0,1,0.00095
+character:dirk_cresswell,Dirk Cresswell,character,8,3,0.00099
+character:saul_croaker,Saul Croaker,character,1,2,0.00082
+character:crookshanks,Crookshanks,character,3,4,0.0018
+character:bartemius_crouch_junior,Bartemius Crouch Junior,character,2,5,0.0029
+character:bartemius_crouch_senior,Bartemius Crouch Senior,character,2,4,0.00228
+character:gideon_crumb,Gideon Crumb,character,0,1,0.00093
+character:barnabas_cuffe,Barnabas Cuffe,character,1,2,0.00077
+character:roger_davies,Roger Davies,character,0,3,0.00103
+character:john_dawlish,John Dawlish,character,1,3,0.00087
+character:caradoc_dearborn,Caradoc Dearborn,character,1,1,0.00041
+character:squat_wheezy_man,"Squat, wheezy man",character,2,2,0.00073
+character:delacour_sisters_father,Delacour sisters' father,character,7,1,0.00076
+character:patrick_delaney_podmore,Patrick Delaney-Podmore,character,0,1,0.00048
+character:derek,Derek,character,0,1,0.00048
+character:peregrine_derrick,Peregrine Derrick,character,0,3,0.00091
+character:dedalus_diggle,Dedalus Diggle,character,1,3,0.00082
+character:amos_diggory,Amos Diggory,character,4,4,0.00223
+character:cedric_diggory,Cedric Diggory,character,4,9,0.00405
+character:vasily_dimitrov,Vasily Dimitrov,character,10,1,0.00086
+character:harold_dingle,Harold Dingle,character,0,1,0.00048
+character:armando_dippet,Armando Dippet,character,0,1,0.00048
+character:dishevelled_wizard,Dishevelled Wizard,character,5,1,0.00069
+character:dobby,Dobby,character,6,10,0.00258
+character:elphias_doge,Elphias Doge,character,1,5,0.00128
+character:antonin_dolohov,Antonin Dolohov,character,2,3,0.00133
+character:double_ended_newt_wizard,Double-ended-newt wizard,character,3,1,0.00062
+character:dragon_keeper,Dragon keeper,character,10,1,0.00057
+character:kirley_duke,Kirley Duke,character,0,2,0.00114
+character:aberforth_dumbledore,Aberforth Dumbledore,character,5,7,0.0039
+character:percival_dumbledore,Percival Dumbledore,character,5,4,0.0032
+character:dudley_dursley,Dudley Dursley,character,10,7,0.00398
+character:vernon_dursley,Vernon Dursley,character,10,6,0.0039
+character:errol,Errol,character,3,1,0.00062
+character:evans_sisters_father,Evans sisters' father,character,10,1,0.00073
+character:everard,Everard,character,0,1,0.00048
+character:fallen_fifty,Fallen Fifty,character,4,4,0.001
+character:fang,Fang,character,10,1,0.00093
+character:fat_friar,Fat Friar,character,0,2,0.00074
+character:fawkes,Fawkes,character,5,3,0.00113
+character:benjy_fenwick,Benjy Fenwick,character,1,1,0.00041
+character:argus_filch,Argus Filch,character,0,4,0.00246
+character:justin_finch_fletchley,Justin Finch-Fletchley,character,0,3,0.0009
+character:seamus_finnigan,Seamus Finnigan,character,0,3,0.00082
+character:firenze,Firenze,character,0,4,0.00111
+character:nicolas_flamel,Nicolas Flamel,character,5,2,0.00077
+character:mundungus_fletcher,Mundungus Fletcher,character,5,4,0.00109
+character:marcus_flint,Marcus Flint,character,0,3,0.00091
+character:filius_flitwick,Filius Flitwick,character,0,3,0.00116
+character:fluffy,Fluffy,character,10,3,0.00146
+character:ambrosius_flume,Ambrosius Flume,character,0,2,0.00067
+character:dexter_fortescue,Dexter Fortescue,character,0,1,0.00048
+character:foul_smelling_snatcher,Foul-smelling Snatcher,character,2,1,0.00063
+character:cornelius_fudge,Cornelius Fudge,character,0,4,0.00119
+character:ulick_gamp,Ulick Gamp,character,1,2,0.00074
+character:marvolo_gaunt,Marvolo Gaunt,character,2,4,0.00298
+character:morfin_gaunt,Morfin Gaunt,character,2,3,0.00198
+character:gibbon,Gibbon,character,2,2,0.00073
+character:anthony_goldstein,Anthony Goldstein,character,0,3,0.00091
+character:golgomath,Golgomath,character,2,2,0.00073
+character:dragomir_gorgovitch,Dragomir Gorgovitch,character,10,1,0.00071
+character:gornuk,Gornuk,character,7,1,0.00071
+character:goyle,Goyle,character,2,3,0.00095
+character:gregory_goyle,Gregory Goyle,character,0,7,0.00182
+character:merton_graves,Merton Graves,character,0,1,0.00093
+character:grawp,Grawp,character,10,2,0.00113
+character:greek_man,Greek man,character,10,1,0.00076
+character:fenrir_greyback,Fenrir Greyback,character,2,3,0.00138
+character:gellert_grindelwald,Gellert Grindelwald,character,5,3,0.00157
+character:gringotts_head_goblin,Gringotts Head Goblin,character,7,1,0.00071
+character:griphook,Griphook,character,7,1,0.00071
+character:edmund_grubb,Edmund Grubb,character,0,1,0.00048
+character:godric_gryffindor,Godric Gryffindor,character,0,2,0.00066
+character:davey_gudgeon,Davey Gudgeon,character,0,1,0.00048
+character:rubeus_hagrid,Rubeus Hagrid,character,10,13,0.00559
+character:harper,Harper,character,0,3,0.00091
+character:hermes,Hermes,character,3,1,0.00044
+character:terence_higgs,Terence Higgs,character,0,3,0.00091
+character:hogwarts_express_conductor,Hogwarts Express conductor,character,0,1,0.00048
+character:hogwarts_school_mice,Hogwarts school mice,character,1,3,0.00108
+character:geoffrey_hooper,Geoffrey Hooper,character,0,2,0.00066
+character:house_of_black_house_elves,House of Black house-elves,character,10,1,0.00067
+character:joey_jenkins,Joey Jenkins,character,10,1,0.00071
+character:arsenius_jigger,Arsenius Jigger,character,0,1,0.00048
+character:lee_jordan,Lee Jordan,character,0,5,0.00118
+character:jugson,Jugson,character,2,2,0.00073
+character:karkaroff_s_aide,Karkaroff’s Aide,character,2,2,0.00102
+character:igor_karkaroff,Igor Karkaroff,character,2,4,0.00161
+character:silvanus_kettleburn,Silvanus Kettleburn,character,0,2,0.00074
+character:andrew_kirke,Andrew Kirke,character,0,3,0.0008
+character:kreacher,Kreacher,character,10,3,0.00129
+character:viktor_krum,Viktor Krum,character,3,4,0.00179
+character:lachlan_the_lanky,Lachlan the Lanky,character,0,1,0.00048
+character:lancelot_healer,Lancelot (Healer),character,3,2,0.00108
+character:lestrange,Lestrange,character,0,3,0.00089
+character:rabastan_lestrange,Rabastan Lestrange,character,2,2,0.00073
+character:rodolphus_lestrange,Rodolphus Lestrange,character,6,2,0.00135
+character:alexei_levski,Alexei Levski,character,10,1,0.00086
+character:gilderoy_lockhart,Gilderoy Lockhart,character,0,8,0.00362
+character:frank_longbottom,Frank Longbottom,character,8,8,0.00472
+character:neville_longbottom,Neville Longbottom,character,8,17,0.00675
+character:xenophilius_lovegood,Xenophilius Lovegood,character,9,7,0.00328
+character:lyall_lupin,Lyall Lupin,character,6,4,0.00138
+character:remus_lupin,Remus Lupin,character,6,16,0.00618
+character:edward_lupin,Edward Lupin,character,6,9,0.00442
+character:ernest_macmillan,Ernest Macmillan,character,0,3,0.0009
+character:walden_macnair,Walden Macnair,character,2,3,0.00095
+character:magorian,Magorian,character,0,2,0.0008
+character:abraxas_malfoy,Abraxas Malfoy,character,6,3,0.00119
+character:draco_malfoy,Draco Malfoy,character,6,11,0.00551
+character:lucius_malfoy,Lucius Malfoy,character,6,9,0.00421
+character:scorpius_malfoy,Scorpius Malfoy,character,6,3,0.00195
+character:marauders,Marauders,character,4,4,0.00112
+character:marius,Marius,character,7,1,0.00071
+character:cormac_mclaggen,Cormac McLaggen,character,0,5,0.00116
+character:merlin,Merlin,character,0,3,0.00094
+character:nicholas_de_mimsy_porpington,Nicholas de Mimsy-Porpington,character,0,2,0.00066
+character:cuthbert_mockridge,Cuthbert Mockridge,character,8,1,0.00058
+character:graham_montague,Graham Montague,character,0,4,0.00113
+character:alastor_moody,Alastor Moody,character,1,6,0.00156
+character:mr_paws,Mr Paws,character,5,1,0.00073
+character:mr_tibbles,Mr Tibbles,character,5,1,0.00073
+character:mulciber_i,Mulciber I,character,2,2,0.00073
+character:eric_munch,Eric Munch,character,1,1,0.00048
+character:nott,Nott,character,2,3,0.00094
+character:theodore_nott,Theodore Nott,character,0,3,0.00088
+character:oblansk,Oblansk,character,10,1,0.00086
+character:roberts_obliviator,Roberts' Obliviator,character,8,1,0.00058
+character:bob_ogden,Bob Ogden,character,1,2,0.00067
+character:tiberius_ogden,Tiberius Ogden,character,1,2,0.00084
+character:ogg,Ogg,character,0,1,0.00048
+character:garrick_ollivander,Garrick Ollivander,character,4,3,0.00097
+character:painting_of_sinister_looking_monks,Painting of sinister-looking monks,character,0,1,0.00048
+character:patil_twins_father,Patil twins' father,character,10,1,0.00101
+character:jimmy_peakes,Jimmy Peakes,character,0,3,0.0008
+character:arnold_peasegood,Arnold Peasegood,character,8,1,0.00058
+character:peeves,Peeves,character,1,3,0.00078
+character:perkins,Perkins,character,1,1,0.00048
+character:peter_pettigrew,Peter Pettigrew,character,4,13,0.00459
+character:antioch_peverell,Antioch Peverell,character,4,4,0.00219
+character:cadmus_peverell,Cadmus Peverell,character,4,5,0.00248
+character:ignotus_peverell,Ignotus Peverell,character,4,5,0.00242
+character:pigwidgeon,Pigwidgeon,character,3,1,0.00045
+character:sturgis_podmore,Sturgis Podmore,character,1,2,0.0006
+character:poliakoff,Poliakoff,character,2,1,0.00057
+character:piers_polkiss,Piers Polkiss,character,10,1,0.0005
+character:albus_potter,Albus Potter,character,4,7,0.00327
+character:fleamont_potter,Fleamont Potter,character,4,4,0.00144
+character:harry_potter,Harry Potter,character,4,53,0.02193
+character:james_potter_i,James Potter I,character,4,17,0.00653
+character:james_potter_ii,James Potter II,character,4,6,0.00296
+character:ernest_prang,Ernest Prang,character,5,2,0.00094
+character:fabian_prewett,Fabian Prewett,character,3,2,0.00078
+character:gideon_prewett,Gideon Prewett,character,3,2,0.00078
+character:apollyon_pringle,Apollyon Pringle,character,0,1,0.00048
+character:graham_pritchard,Graham Pritchard,character,0,2,0.0007
+character:adrian_pucey,Adrian Pucey,character,0,3,0.00091
+character:pyrites,Pyrites,character,2,2,0.00073
+character:quirinus_quirrell,Quirinus Quirrell,character,2,5,0.0021
+character:urquhart_rackharrow,Urquhart Rackharrow,character,9,1,0.00071
+character:ragnok,Ragnok,character,7,1,0.00071
+character:thomas_riddle,Thomas Riddle,character,2,1,0.00095
+character:lord_voldemort,Lord Voldemort,character,2,55,0.02364
+character:tom_riddle_senior,Tom Riddle Senior,character,2,4,0.00333
+character:ripper,Ripper,character,10,1,0.00053
+character:gawain_robards,Gawain Robards,character,1,3,0.00088
+character:ronan,Ronan,character,0,2,0.0008
+character:augustus_rookwood,Augustus Rookwood,character,2,4,0.00129
+character:rosier_male,Rosier (male),character,2,2,0.00073
+character:evan_rosier,Evan Rosier,character,0,3,0.00088
+character:thorfinn_rowle,Thorfinn Rowle,character,2,2,0.00073
+character:scabior,Scabior,character,0,3,0.00106
+character:newton_scamander,Newton Scamander,character,5,6,0.00166
+character:scouthibou,Scouthibou,character,0,1,0.00048
+character:rufus_scrimgeour,Rufus Scrimgeour,character,1,3,0.00111
+character:selwyn,Selwyn,character,2,4,0.00117
+character:kingsley_shacklebolt,Kingsley Shacklebolt,character,1,6,0.00143
+character:stanley_shunpike,Stanley Shunpike,character,5,2,0.00087
+character:jack_sloper,Jack Sloper,character,0,3,0.0008
+character:horace_slughorn,Horace Slughorn,character,2,7,0.00209
+character:salazar_slytherin,Salazar Slytherin,character,0,2,0.0007
+character:hippocrates_smethwyck,Hippocrates Smethwyck,character,9,1,0.00071
+character:zacharias_smith,Zacharias Smith,character,0,4,0.00118
+character:severus_snape,Severus Snape,character,10,14,0.00674
+character:tobias_snape,Tobias Snape,character,10,4,0.00284
+character:stunned_death_eater,Stunned Death Eater,character,2,2,0.00073
+character:summers,Summers,character,0,2,0.00074
+character:teffington,Teffington,character,7,1,0.00071
+character:tenebrus,Tenebrus,character,10,2,0.00081
+character:pius_thicknesse,Pius Thicknesse,character,1,3,0.00085
+character:thomas_vace,Thomas Vace,character,0,1,0.00048
+character:dean_thomas,Dean Thomas,character,0,4,0.00096
+character:orsino_thruston,Orsino Thruston,character,0,1,0.00093
+character:tiberius,Tiberius,character,8,2,0.00078
+character:timothy_butler,Timothy Butler,character,0,1,0.00048
+character:tom,Tom,character,8,1,0.00077
+character:edward_tonks,Edward Tonks,character,6,4,0.00241
+character:kenneth_towler,Kenneth Towler,character,0,2,0.00066
+character:travers,Travers,character,2,2,0.00073
+character:donaghan_tremlett,Donaghan Tremlett,character,0,1,0.00093
+character:trevor,Trevor,character,8,1,0.00052
+character:quentin_trimble,Quentin Trimble,character,0,1,0.00048
+character:wilkie_twycross,Wilkie Twycross,character,1,2,0.0007
+character:uric_the_oddball,Uric the Oddball,character,0,2,0.00075
+character:urquhart,Urquhart,character,0,3,0.00091
+character:vaisey,Vaisey,character,0,3,0.00091
+character:vindictus_viridian,Vindictus Viridian,character,0,1,0.00048
+character:ivan_volkov,Ivan Volkov,character,10,1,0.00086
+character:pyotr_vulchanov,Pyotr Vulchanov,character,10,1,0.00086
+character:myron_wagtail,Myron Wagtail,character,0,2,0.00114
+character:cassius_warrington,Cassius Warrington,character,0,4,0.00113
+character:weasley_family_ghoul,Weasley family ghoul,character,3,1,0.00062
+character:arthur_weasley,Arthur Weasley,character,3,18,0.00841
+character:charles_weasley,Charles Weasley,character,3,16,0.00666
+character:fred_weasley,Fred Weasley,character,3,19,0.00745
+character:george_weasley,George Weasley,character,3,18,0.00725
+character:hugo_granger_weasley,Hugo Granger-Weasley,character,3,6,0.00338
+character:percy_weasley,Percy Weasley,character,3,15,0.00682
+character:ronald_weasley,Ronald Weasley,character,3,32,0.01379
+character:bill_weasley,Bill Weasley,character,3,18,0.00841
+character:kevin_whitby,Kevin Whitby,character,0,1,0.00053
+character:willy_widdershins,Willy Widdershins,character,1,1,0.00048
+character:wilfred_the_wistful,Wilfred the Wistful,character,0,1,0.00048
+character:williamson,Williamson,character,1,2,0.00067
+character:gilbert_wimple,Gilbert Wimple,character,8,1,0.00058
+character:herman_wintringham,Herman Wintringham,character,0,1,0.00093
+character:oliver_wood,Oliver Wood,character,0,4,0.00095
+character:hengist_of_woodcroft,Hengist of Woodcroft,character,0,2,0.00074
+character:eldred_worple,Eldred Worple,character,0,2,0.00067
+character:blaise_zabini,Blaise Zabini,character,0,5,0.00133
+character:lev_zograf,Lev Zograf,character,10,1,0.00086
+character:hannah_abbott,Hannah Abbott,character,8,5,0.00193
+character:agnes,Agnes,character,9,1,0.00071
+character:millicent_bagnold,Millicent Bagnold,character,0,3,0.00097
+character:bathilda_bagshot,Bathilda Bagshot,character,5,3,0.00123
+character:katie_bell,Katie Bell,character,0,4,0.00096
+character:elladora_black,Elladora Black,character,10,1,0.00067
+character:walburga_black,Walburga Black,character,10,4,0.00285
+character:amelia_bones_mother,Amelia Bones' mother,character,10,2,0.00126
+character:edgar_bones_wife,Edgar Bones' wife,character,10,1,0.001
+character:amelia_bones,Amelia Bones,character,1,4,0.00116
+character:susan_bones,Susan Bones,character,10,4,0.00163
+character:betty_braithwaite,Betty Braithwaite,character,1,1,0.00057
+character:eleanor_branstone,Eleanor Branstone,character,0,2,0.00074
+character:rita_skeeter,Rita Skeeter,character,3,6,0.00227
+character:mandy_brocklehurst,Mandy Brocklehurst,character,0,2,0.00075
+character:lavender_brown,Lavender Brown,character,3,5,0.00169
+character:millicent_bulstrode,Millicent Bulstrode,character,0,3,0.00091
+character:charity_burbage,Charity Burbage,character,0,1,0.00048
+character:alecto_carrow,Alecto Carrow,character,2,3,0.00094
+character:ellie_cattermole,Ellie Cattermole,character,1,1,0.0011
+character:maisie_cattermole,Maisie Cattermole,character,1,1,0.0011
+character:mary_cattermole,Mary Cattermole,character,1,1,0.0011
+character:cecilia,Cecilia,character,2,1,0.00095
+character:cho_chang,Cho Chang,character,4,7,0.0026
+character:penelope_clearwater,Penelope Clearwater,character,0,2,0.00075
+character:elfrida_cragg,Elfrida Cragg,character,1,1,0.00048
+character:doris_crockford,Doris Crockford,character,8,1,0.00077
+character:delacour_sisters_cousins,Delacour sisters' cousins,character,7,1,0.00076
+character:apolline_delacour,Apolline Delacour,character,7,1,0.00076
+character:fleur_delacour,Fleur Delacour,character,7,10,0.00428
+character:gabrielle_delacour,Gabrielle Delacour,character,7,3,0.00174
+character:dilys_derwent,Dilys Derwent,character,9,2,0.00092
+character:emma_dobbs,Emma Dobbs,character,0,1,0.00048
+character:ariana_dumbledore,Ariana Dumbledore,character,5,5,0.00356
+character:kendra_dumbledore,Kendra Dumbledore,character,5,4,0.0032
+character:durmstrang_girl,Durmstrang girl,character,2,1,0.00057
+character:marjorie_dursley,Marjorie Dursley,character,10,3,0.00188
+character:petunia_dursley,Petunia Dursley,character,10,7,0.00426
+character:edgecombe,Edgecombe,character,1,2,0.00077
+character:marietta_edgecombe,Marietta Edgecombe,character,0,4,0.00113
+character:evans_sisters_mother,Evans sisters' mother,character,10,1,0.00073
+character:fat_lady,Fat Lady,character,0,2,0.00066
+character:fawcett,Fawcett,character,0,2,0.00075
+character:arabella_figg,Arabella Figg,character,5,4,0.0019
+character:perenelle_flamel,Perenelle Flamel,character,7,1,0.00052
+character:florence,Florence,character,0,1,0.00048
+character:fridwulfa,Fridwulfa,character,10,1,0.00098
+character:vicky_frobisher,Vicky Frobisher,character,0,2,0.00066
+character:miranda_goshawk,Miranda Goshawk,character,0,1,0.00048
+character:hermione_granger,Hermione Granger,character,3,23,0.00955
+character:daphne_greengrass,Daphne Greengrass,character,0,2,0.0007
+character:wilhelmina_grubbly_plank,Wilhelmina Grubbly-Plank,character,0,1,0.00048
+character:curious_gryffindor_girl,Curious Gryffindor Girl,character,0,1,0.00045
+character:gladys_gudgeon,Gladys Gudgeon,character,0,1,0.0009
+character:gimlet_eyed_hogwarts_headmistress,Gimlet-eyed Hogwarts Headmistress,character,5,3,0.00095
+character:hedwig,Hedwig,character,4,1,0.0007
+character:rolanda_hooch,Rolanda Hooch,character,0,1,0.00048
+character:mafalda_hopkirk,Mafalda Hopkirk,character,1,2,0.00066
+character:olive_hornby,Olive Hornby,character,0,1,0.00048
+character:hope_howell,Hope Howell,character,6,1,0.00074
+character:helga_hufflepuff,Helga Hufflepuff,character,0,2,0.00074
+character:clara_ivanova,Clara Ivanova,character,10,1,0.00086
+character:angelina_johnson,Angelina Johnson,character,0,5,0.00132
+character:gwenog_jones,Gwenog Jones,character,0,2,0.00067
+character:hestia_jones,Hestia Jones,character,1,3,0.00082
+character:bertha_jorkins,Bertha Jorkins,character,1,3,0.001
+character:leanne,Leanne,character,0,3,0.0009
+character:bellatrix_lestrange,Bellatrix Lestrange,character,6,12,0.00539
+character:alice_longbottom,Alice Longbottom,character,8,6,0.00346
+character:augusta_longbottom,Augusta Longbottom,character,8,4,0.00215
+character:luna_lovegood,Luna Lovegood,character,9,9,0.00382
+character:pandora_lovegood,Pandora Lovegood,character,9,2,0.00118
+character:mary_macdonald,Mary Macdonald,character,0,1,0.00048
+character:morag_macdougal,Morag MacDougal,character,0,1,0.00048
+character:laura_madley,Laura Madley,character,0,1,0.00053
+character:mafalda,Mafalda,character,3,3,0.00106
+character:magical_menagerie_saleswoman,Magical Menagerie saleswoman,character,3,2,0.00096
+character:astoria_malfoy,Astoria Malfoy,character,6,2,0.00097
+character:narcissa_malfoy,Narcissa Malfoy,character,6,7,0.00421
+character:griselda_marchbanks,Griselda Marchbanks,character,1,2,0.00074
+character:olympe_maxime,Olympe Maxime,character,7,2,0.00066
+character:natalie_mcdonald,Natalie McDonald,character,0,1,0.00045
+character:minerva_mcgonagall,Minerva McGonagall,character,1,11,0.00277
+character:marlene_mckinnon,Marlene McKinnon,character,1,1,0.00041
+character:dorcas_meadowes,Dorcas Meadowes,character,1,1,0.00041
+character:melinda_bobbin,Melinda Bobbin,character,0,2,0.00067
+character:galatea_merrythought,Galatea Merrythought,character,0,1,0.00048
+character:eloise_midgen,Eloise Midgen,character,0,2,0.00066
+character:montgomery_sisters,Montgomery sisters,character,0,1,0.00048
+character:lily_moon,Lily Moon,character,0,2,0.00066
+character:murcus,Murcus,character,5,1,0.00052
+character:muriel,Muriel,character,3,3,0.00113
+character:nagini,Nagini,character,2,2,0.00175
+character:norberta,Norberta,character,10,3,0.0013
+character:mrs_norris,Mrs Norris,character,0,2,0.00194
+character:pansy_parkinson,Pansy Parkinson,character,0,5,0.00132
+character:patil_twins_mother,Patil twins' mother,character,10,1,0.00101
+character:padma_patil,Padma Patil,character,10,4,0.00166
+character:parvati_patil,Parvati Patil,character,10,4,0.00156
+character:sally_anne_perks,Sally-Anne Perks,character,0,2,0.00066
+character:irma_pince,Irma Pince,character,0,1,0.00048
+character:poppy_pomfrey,Poppy Pomfrey,character,5,2,0.00073
+character:euphemia_potter,Euphemia Potter,character,4,1,0.00062
+character:lily_l_potter,Lily L. Potter,character,4,7,0.00332
+character:lily_j_potter,Lily J. Potter,character,4,14,0.00589
+character:eileen_prince,Eileen Prince,character,10,6,0.00323
+character:doris_purkiss,Doris Purkiss,character,9,1,0.00053
+character:orla_quirke,Orla Quirke,character,0,1,0.00054
+character:helena_ravenclaw,Helena Ravenclaw,character,0,2,0.00075
+character:rowena_ravenclaw,Rowena Ravenclaw,character,0,2,0.00075
+character:maisy_reynolds,Maisy Reynolds,character,0,2,0.00075
+character:mary_riddle,Mary Riddle,character,2,1,0.00095
+character:riddles_cook,Riddles' cook,character,2,1,0.00095
+character:riddles_maid,Riddles' maid,character,2,1,0.00095
+character:demelza_robins,Demelza Robins,character,0,3,0.0008
+character:rosmerta,Rosmerta,character,6,1,0.0005
+character:aurora_sinistra,Aurora Sinistra,character,0,1,0.00048
+character:sixth_year_inquisitorial_squad_member,Sixth-Year Inquisitorial Squad Member,character,0,3,0.00091
+character:enid_smeek,Enid Smeek,character,3,1,0.00072
+character:veronica_smethley,Veronica Smethley,character,0,1,0.0009
+character:alicia_spinnet,Alicia Spinnet,character,0,4,0.00096
+character:phyllida_spore,Phyllida Spore,character,0,1,0.00048
+character:pomona_sprout,Pomona Sprout,character,0,4,0.00104
+character:patricia_stimpson,Patricia Stimpson,character,0,1,0.00048
+character:miriam_strout,Miriam Strout,character,9,1,0.00071
+character:andromeda_tonks,Andromeda Tonks,character,6,5,0.0036
+character:nymphadora_tonks,Nymphadora Tonks,character,6,15,0.00621
+character:sybill_trelawney,Sybill Trelawney,character,0,6,0.0016
+character:trolley_witch,Trolley witch,character,5,1,0.00052
+character:lisa_turpin,Lisa Turpin,character,0,1,0.00054
+character:dolores_umbridge,Dolores Umbridge,character,4,3,0.00114
+character:emmeline_vance,Emmeline Vance,character,1,2,0.0006
+character:romilda_vane,Romilda Vane,character,0,3,0.00082
+character:septima_vector,Septima Vector,character,0,1,0.00048
+character:verity,Verity,character,3,1,0.00046
+character:wakanda,Wakanda,character,1,1,0.00048
+character:celestina_warbeck,Celestina Warbeck,character,0,2,0.00066
+character:myrtle_warren,Myrtle Warren,character,6,6,0.00163
+character:ginny_weasley,Ginny Weasley,character,3,26,0.01198
+character:molly_weasley,Molly Weasley,character,3,17,0.00862
+character:rose_granger_weasley,Rose Granger-Weasley,character,3,9,0.00391
+character:victoire_weasley,Victoire Weasley,character,3,4,0.00169
+character:winky,Winky,character,2,3,0.00111
+character:rose_zeller,Rose Zeller,character,0,2,0.00074
+character:albus_dumbledore,Albus Dumbledore,character,5,35,0.01443
+house:gryffindor,Gryffindor,house,0,58,0.01235
+org:hogwarts_school_of_witchcraft_and_wizardry,Hogwarts School of Witchcraft and Wizardry,org,0,218,0.0546
+house:ravenclaw,Ravenclaw,house,0,30,0.00961
+house:slytherin,Slytherin,house,0,44,0.01127
+org:slug_club,Slug Club,org,0,20,0.00459
+org:death_eaters,Death Eaters,org,2,38,0.00801
+org:british_ministry_of_magic,British Ministry of Magic,org,1,47,0.01206
+org:forbidden_forest_centaur_colony,Forbidden Forest Centaur colony,org,0,4,0.00153
+org:the_weird_sisters,The Weird Sisters,org,0,4,0.00314
+org:department_of_magical_transportation,Department of Magical Transportation,org,1,3,0.00101
+org:order_of_merlin,Order of Merlin,org,0,6,0.00171
+org:dumbledore_s_army,Dumbledore's Army,org,0,43,0.00805
+family:weasley_family,Weasley family,family,3,25,0.01044
+family:prewett_family,Prewett family,family,3,19,0.00821
+family:house_of_black,House of Black,family,10,8,0.00383
+org:order_of_the_phoenix,Order of the Phoenix,org,1,61,0.01038
+family:potter_family,Potter family,family,4,19,0.00799
+org:slytherin_quidditch_team,Slytherin Quidditch team,org,0,14,0.00349
+org:department_for_the_regulation_and_control_of_magical_creatures,Department for the Regulation and Control of Magical Creatures,org,1,5,0.00121
+org:department_of_mysteries,Department of Mysteries,org,1,3,0.00118
+org:gringotts_wizarding_bank,Gringotts Wizarding Bank,org,7,9,0.00472
+house:hufflepuff,Hufflepuff,house,0,25,0.00766
+family:bones_family,Bones family,family,10,5,0.00431
+org:st_mungo_s_hospital_for_magical_maladies_and_injuries,St Mungo's Hospital for Magical Maladies and Injuries,org,9,8,0.00418
+org:borgin_and_burkes,Borgin and Burkes,org,2,3,0.00167
+org:daily_prophet,Daily Prophet,org,1,6,0.00217
+org:hufflepuff_quidditch_team,Hufflepuff Quidditch team,org,0,3,0.00098
+family:cattermole_family,Cattermole family,family,1,5,0.00493
+org:ravenclaw_quidditch_team,Ravenclaw Quidditch team,org,0,4,0.0013
+org:gryffindor_quidditch_team,Gryffindor Quidditch team,org,0,20,0.00338
+org:draco_malfoy_s_gang,Draco Malfoy's gang,org,0,4,0.00108
+org:inquisitorial_squad,Inquisitorial Squad,org,0,8,0.00205
+family:creevey_family,Creevey family,family,0,3,0.00243
+org:ministry_of_magic,Ministry of Magic,org,8,10,0.00372
+org:magical_menagerie,Magical Menagerie,org,3,3,0.00123
+org:department_of_magical_law_enforcement,Department of Magical Law Enforcement,org,1,9,0.00194
+org:weird_sisters,Weird Sisters,org,0,4,0.00314
+org:auror_office,Auror Office,org,1,6,0.00149
+family:delacour_family,Delacour family,family,7,7,0.00403
+org:advance_guard,Advance Guard,org,1,9,0.00199
+org:circle_of_khanna,Circle of Khanna,org,3,6,0.00089
+org:bulgarian_national_quidditch_team,Bulgarian National Quidditch team,org,10,8,0.00565
+org:knight_bus,Knight Bus,org,5,3,0.00149
+org:s_p_e_w,S.P.E.W.,org,8,5,0.00082
+family:malfoy_family,Malfoy family,family,6,6,0.00345
+org:wizengamot,Wizengamot,org,1,7,0.0021
+org:romanian_dragon_sanctuary,Romanian Dragon Sanctuary,org,10,3,0.00105
+family:dumbledore_family,Dumbledore family,family,5,6,0.00278
+family:evans_family,Evans family,family,10,6,0.0033
+family:dursley_family,Dursley family,family,10,4,0.00218
+org:beauxbatons_academy_of_magic,Beauxbatons Academy of Magic,org,7,5,0.00146
+org:snatchers,Snatchers,org,2,3,0.00128
+family:house_of_gaunt,House of Gaunt,family,2,2,0.00121
+org:chudley_cannons,Chudley Cannons,org,10,3,0.00157
+family:hagrid_family,Hagrid family,family,10,3,0.00253
+org:durmstrang_institute,Durmstrang Institute,org,2,6,0.00211
+org:transfiguration_department,Transfiguration department,org,1,3,0.00081
+org:potterwatch,Potterwatch,org,1,3,0.00075
+family:house_of_black_formerly,House of Black (formerly),family,10,2,0.0012
+family:longbottom_family,Longbottom family,family,8,5,0.0031
+org:auror_department,Auror Department,org,1,6,0.00132
+family:lovegood_family,Lovegood family,family,9,3,0.00228
+org:the_quibbler,The Quibbler,org,9,4,0.00125
+family:lupin_family,Lupin family,family,6,5,0.00279
+family:tonks_family,Tonks family,family,6,4,0.00188
+family:patil_family,Patil family,family,10,4,0.00352
+family:peverell_family,Peverell family,family,4,4,0.00199
+family:riddle_family,Riddle family,family,2,6,0.00482
+family:snape_family,Snape family,family,10,3,0.00152
+family:prince_family,Prince family,family,10,3,0.00152
+org:leaky_cauldron,Leaky Cauldron,org,8,3,0.00178
+org:weasleys_wizard_wheezes,Weasleys' Wizard Wheezes,org,3,4,0.00093
+family:granger_family,Granger family,family,3,4,0.00183
+character:merope_gaunt,Merope Gaunt,character,2,3,0.00336
+place:privet_drive,Privet Drive,place,10,4,0.00117
+place:the_burrow,The Burrow,place,3,4,0.00097
+place:godric_s_hollow,Godric's Hollow,place,4,2,0.0007
+place:grimmauld_place,Grimmauld Place,place,10,2,0.00074
+place:shell_cottage,Shell Cottage,place,7,2,0.00069
+place:malfoy_manor,Malfoy Manor,place,6,3,0.00094
+place:little_hangleton,Little Hangleton,place,2,3,0.001
+object:tom_riddle_s_diary,Tom Riddle's Diary,object,4,2,0.00077
+object:marvolo_gaunt_s_ring,Marvolo Gaunt's Ring,object,5,2,0.0008
+object:slytherin_s_locket,Slytherin's Locket,object,2,2,0.00074
+object:hufflepuff_s_cup,Hufflepuff's Cup,object,2,2,0.00078
+object:ravenclaw_s_diadem,Ravenclaw's Diadem,object,2,1,0.00055
+object:elder_wand,Elder Wand,object,5,5,0.00147
+object:resurrection_stone,Resurrection Stone,object,4,3,0.00095
+object:cloak_of_invisibility,Cloak of Invisibility,object,4,3,0.0009
+actor:daniel_radcliffe,Daniel Radcliffe,actor,-1,1,0.00033
+actor:rupert_grint,Rupert Grint,actor,-1,1,0.00032
+actor:emma_watson,Emma Watson,actor,-1,1,0.00033
+actor:alan_rickman,Alan Rickman,actor,-1,1,0.00033
+actor:robbie_coltrane,Robbie Coltrane,actor,-1,1,0.00037
+actor:maggie_smith,Maggie Smith,actor,-1,1,0.00038
+actor:richard_harris,Richard Harris,actor,-1,1,0.00034
+actor:michael_gambon,Michael Gambon,actor,-1,1,0.00034
+actor:ralph_fiennes,Ralph Fiennes,actor,-1,1,0.00035
+actor:tom_felton,Tom Felton,actor,-1,1,0.00034
+actor:gary_oldman,Gary Oldman,actor,-1,1,0.00033
+actor:david_thewlis,David Thewlis,actor,-1,1,0.00033
+actor:bonnie_wright,Bonnie Wright,actor,-1,1,0.00032
+actor:matthew_lewis,Matthew Lewis,actor,-1,1,0.00034
+actor:evanna_lynch,Evanna Lynch,actor,-1,1,0.00036
+actor:helena_bonham_carter,Helena Bonham Carter,actor,-1,1,0.00033
+actor:natalia_tena,Natalia Tena,actor,-1,1,0.00033
+actor:james_phelps,James Phelps,actor,-1,1,0.00032
+actor:oliver_phelps,Oliver Phelps,actor,-1,1,0.00032
+actor:imelda_staunton,Imelda Staunton,actor,-1,1,0.00039
+actor:robert_pattinson,Robert Pattinson,actor,-1,1,0.00037
+actor:kenneth_branagh,Kenneth Branagh,actor,-1,1,0.00046
+actor:ian_hart,Ian Hart,actor,-1,1,0.00039
+actor:christian_coulson,Christian Coulson,actor,-1,1,0.00035
+actor:miranda_richardson,Miranda Richardson,actor,-1,1,0.0004
+actor:jason_isaacs,Jason Isaacs,actor,-1,1,0.00034
+actor:jim_broadbent,Jim Broadbent,actor,-1,1,0.00038
+actor:timothy_spall,Timothy Spall,actor,-1,1,0.00034
+actor:julie_walters,Julie Walters,actor,-1,1,0.00032
+actor:mark_williams,Mark Williams,actor,-1,1,0.00032
+actor:brendan_gleeson,Brendan Gleeson,actor,-1,1,0.00041
+actor:richard_griffiths,Richard Griffiths,actor,-1,1,0.00034
+actor:fiona_shaw,Fiona Shaw,actor,-1,1,0.00033
+actor:harry_melling,Harry Melling,actor,-1,1,0.00034
+actor:geraldine_somerville,Geraldine Somerville,actor,-1,1,0.00033
+actor:adrian_rawlins,Adrian Rawlins,actor,-1,1,0.00033
+actor:katie_leung,Katie Leung,actor,-1,1,0.00037
+actor:cl_mence_po_sy,Clémence Poésy,actor,-1,1,0.00034
+actor:warwick_davis,Warwick Davis,actor,-1,1,0.00048
+actor:emma_thompson,Emma Thompson,actor,-1,1,0.00041
+actor:david_bradley,David Bradley,actor,-1,1,0.00041
+actor:bill_nighy,Bill Nighy,actor,-1,1,0.00048

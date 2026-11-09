@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "HPArchive: the Harry Potter universe as an evidence-typed network"
+version: 1.0.0
+authors:
+  - name: "Archiving Out"
+repository-code: "https://github.com/<your-user>/HPArchive"
+license: MIT
+notes: "Unofficial fan project. Data: wiki-derived character dataset (see README) plus a curated canon layer. No book or film text or images."
