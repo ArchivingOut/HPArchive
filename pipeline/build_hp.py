@@ -181,7 +181,7 @@ for b_,bt,ps in ST.STORY:
         ids=[nid("character",canon(x)) for x in p["ch"] if nid("character",canon(x)) in nodes];mp+=[x for x in p["ch"] if nid("character",canon(x)) not in nodes]
         panels.append({"b":b_,"bt":bt,"i":k,"t":p["t"],"w":p["w"],"sky":p["sky"],"it":p["it"],"tx":p["tx"],"ch":ids,"fx":p["fx"],"theme":p.get("theme","")})
 recon={"source_records":len(raw),"junk":junk,"unnamed":len(relraw),"unnamed_linked":sum(1 for r in relatives if r["of"]),"merged":[[n,c] for n,c in rawcount.items() if c>1],"unique_named":len(chars),"dir":len(directory)}
-DATA.update({"spells":spells,"potions":potions,"panels":panels,"recon":recon,"houseInfo":C.HOUSE_INFO,"missingPanel":sorted(set(mp))});DATA["meta"].update({"spells":len(spells),"potions":len(potions),"panels":len(panels),"named":recon["unique_named"],"unnamed":len(relraw)})
+DATA.update({"spells":spells,"potions":potions,"storyOverviews":panels,"recon":recon,"houseInfo":C.HOUSE_INFO,"missingPanel":sorted(set(mp))});panels=json.load(open(os.path.join(os.path.dirname(__file__),"story_panels.json"),encoding="utf-8"));DATA["panels"]=panels;DATA["meta"].update({"spells":len(spells),"potions":len(potions),"panels":len(panels),"named":recon["unique_named"],"unnamed":len(relraw)})
 s=json.dumps(DATA,ensure_ascii=False,separators=(',',':'));open(f"{OUT}/hp.json","w",encoding="utf-8").write(s)
 man={"hp.json":hashlib.sha256(s.encode()).hexdigest(),"source_harry.json":hashlib.sha256(open(SRC,"rb").read()).hexdigest()}
 with open(f"{OUT}/nodes.csv","w",newline="",encoding="utf-8") as f:

@@ -10,7 +10,9 @@ https://archivingout.github.io/HPArchive/
 
 - 704 directory records in this build: 598 named-character records and 106 unnamed-relative references. The new data also distinguishes named people from unnamed family references instead of treating every source label as a character.
 - Coverage follows the seven novels and eight film adaptations. The source is not an exhaustive census of every Wizarding World character across plays, prequels, games, adaptations, and other publications.
-- The Story Journey gives one concise, original summary per novel, with spoiler filtering and original symbolic vector art. It is a companion, not a scene-by-scene comic or substitute for the books.
+- The Story Journey contains 56 spoiler-heavy, fan-written beats supplied in the project HTML, grouped by novel, with original vector scenes, animated symbolic character tokens, book filters, playback, and clickable cast links. It is a companion, not a substitute for the books or an official adaptation.
+- The seven short book overviews remain available alongside the slides. Memory cards and a just-for-fun house quiz use the archive directory.
+- The homepage uses an original HPArchive fan mark, not the official Harry Potter film logo. No official character imagery or film stills are used.
 - The Spellbook lists names and categories only. Character profiles and story links use the archive's relationship data.
 
 ## Use

@@ -1,0 +1,1189 @@
+[
+ {
+  "b": 1,
+  "bt": "The Boy Who Lived",
+  "i": 0,
+  "t": "The night everything changed",
+  "w": "31 October 1981",
+  "sky": "night",
+  "it": [
+   "stars",
+   "moon",
+   "house",
+   "bolt",
+   "mist"
+  ],
+  "tx": "Voldemort strikes at Godric's Hollow. Lily and James die protecting their son. The killing curse rebounds on the baby, leaving a lightning scar, and the Dark Lord loses his body.",
+  "ch": [
+   "character:lord_voldemort",
+   "character:james_potter_i",
+   "character:lily_j_potter",
+   "character:harry_potter"
+  ],
+  "fx": "CRACK!"
+ },
+ {
+  "b": 1,
+  "bt": "The Boy Who Lived",
+  "i": 1,
+  "t": "A cupboard under the stairs",
+  "w": "1981-1991",
+  "sky": "dusk",
+  "it": [
+   "house",
+   "cupboard",
+   "owl"
+  ],
+  "tx": "Dumbledore, McGonagall and Hagrid leave baby Harry with his aunt and uncle at Privet Drive. He grows up unloved, never told he is a wizard.",
+  "ch": [
+   "character:albus_dumbledore",
+   "character:minerva_mcgonagall",
+   "character:rubeus_hagrid",
+   "character:petunia_dursley",
+   "character:vernon_dursley",
+   "character:harry_potter"
+  ],
+  "fx": ""
+ },
+ {
+  "b": 1,
+  "bt": "The Boy Who Lived",
+  "i": 2,
+  "t": "Letters by the hundred",
+  "w": "July 1991",
+  "sky": "day",
+  "it": [
+   "letter",
+   "owl",
+   "house"
+  ],
+  "tx": "On the eve of his eleventh birthday, hundreds of Hogwarts letters flood the house. Hagrid breaks down the door of a remote hut with the news: Harry is a wizard.",
+  "ch": [
+   "character:rubeus_hagrid",
+   "character:harry_potter",
+   "character:vernon_dursley"
+  ],
+  "fx": "BOOM!"
+ },
+ {
+  "b": 1,
+  "bt": "The Boy Who Lived",
+  "i": 3,
+  "t": "Diagon Alley and Platform 9¾",
+  "w": "1 September 1991",
+  "sky": "day",
+  "it": [
+   "wand",
+   "train",
+   "stars"
+  ],
+  "tx": "Harry gets his wand, a holly one with a phoenix-feather core, and boards the Hogwarts Express where he meets Ron Weasley and Hermione Granger.",
+  "ch": [
+   "character:harry_potter",
+   "character:ronald_weasley",
+   "character:hermione_granger",
+   "character:garrick_ollivander"
+  ],
+  "fx": "CHOO-CHOO!"
+ },
+ {
+  "b": 1,
+  "bt": "The Boy Who Lived",
+  "i": 4,
+  "t": "The Sorting",
+  "w": "September 1991",
+  "sky": "night",
+  "it": [
+   "hat",
+   "castle",
+   "stars"
+  ],
+  "tx": "The Sorting Hat places Harry in Gryffindor. A rivalry begins with Draco Malfoy, and Professor Snape seems to dislike Harry at once.",
+  "ch": [
+   "character:harry_potter",
+   "character:draco_malfoy",
+   "character:severus_snape",
+   "character:minerva_mcgonagall"
+  ],
+  "fx": ""
+ },
+ {
+  "b": 1,
+  "bt": "The Boy Who Lived",
+  "i": 5,
+  "t": "A troll at Halloween",
+  "w": "31 October 1991",
+  "sky": "dark",
+  "it": [
+   "castle",
+   "mist"
+  ],
+  "tx": "Ron and Harry rescue Hermione from a mountain troll in the dungeons. From that night, the three are inseparable friends.",
+  "ch": [
+   "character:harry_potter",
+   "character:ronald_weasley",
+   "character:hermione_granger"
+  ],
+  "fx": "SMASH!"
+ },
+ {
+  "b": 1,
+  "bt": "The Boy Who Lived",
+  "i": 6,
+  "t": "The mirror and the Stone",
+  "w": "Winter 1991-92",
+  "sky": "night",
+  "it": [
+   "mirror",
+   "stone",
+   "stars"
+  ],
+  "tx": "Harry finds the Mirror of Erised, which shows what the heart most desires. The trio learn a three-headed dog guards the Philosopher's Stone, made by Nicolas Flamel.",
+  "ch": [
+   "character:harry_potter",
+   "character:albus_dumbledore",
+   "character:nicolas_flamel"
+  ],
+  "fx": ""
+ },
+ {
+  "b": 1,
+  "bt": "The Boy Who Lived",
+  "i": 7,
+  "t": "Through the trapdoor",
+  "w": "June 1992",
+  "sky": "fire",
+  "it": [
+   "key",
+   "chess",
+   "flask",
+   "fire"
+  ],
+  "tx": "Harry, Ron and Hermione pass Devil's Snare, flying keys, a giant chess game and a potion puzzle. Harry meets Professor Quirrell, with Voldemort hidden beneath his turban, and wins the Stone through the mirror.",
+  "ch": [
+   "character:harry_potter",
+   "character:ronald_weasley",
+   "character:hermione_granger",
+   "character:quirinus_quirrell",
+   "character:lord_voldemort"
+  ],
+  "fx": "WHOOSH!"
+ },
+ {
+  "b": 2,
+  "bt": "The Chamber of Secrets",
+  "i": 0,
+  "t": "A warning from Dobby",
+  "w": "Summer 1992",
+  "sky": "night",
+  "it": [
+   "house",
+   "owl",
+   "mist"
+  ],
+  "tx": "A house-elf named Dobby warns Harry not to return to Hogwarts. The Dursleys lock him in, until Fred, George and Ron rescue him in a flying car.",
+  "ch": [
+   "character:dobby",
+   "character:harry_potter",
+   "character:fred_weasley",
+   "character:george_weasley",
+   "character:ronald_weasley"
+  ],
+  "fx": "VROOM!"
+ },
+ {
+  "b": 2,
+  "bt": "The Chamber of Secrets",
+  "i": 1,
+  "t": "The barrier that closed",
+  "w": "1 September 1992",
+  "sky": "dusk",
+  "it": [
+   "car",
+   "willow",
+   "trees"
+  ],
+  "tx": "The barrier at Platform 9¾ will not open, so Harry and Ron fly the enchanted car to school and crash into the Whomping Willow.",
+  "ch": [
+   "character:harry_potter",
+   "character:ronald_weasley"
+  ],
+  "fx": "CRASH!"
+ },
+ {
+  "b": 2,
+  "bt": "The Chamber of Secrets",
+  "i": 2,
+  "t": "Enemies of the heir, beware",
+  "w": "Autumn 1992",
+  "sky": "dark",
+  "it": [
+   "mist",
+   "castle",
+   "snake"
+  ],
+  "tx": "A message on the wall announces the Chamber of Secrets is open. Students are found petrified, and Harry hears a voice no one else can hear: he can speak Parseltongue.",
+  "ch": [
+   "character:harry_potter",
+   "character:hermione_granger",
+   "character:colin_creevey"
+  ],
+  "fx": "HISSS"
+ },
+ {
+  "b": 2,
+  "bt": "The Chamber of Secrets",
+  "i": 3,
+  "t": "Polyjuice plan",
+  "w": "Winter 1992",
+  "sky": "green",
+  "it": [
+   "cauldron",
+   "flask",
+   "mist"
+  ],
+  "tx": "Hermione brews Polyjuice Potion so the trio can question Draco Malfoy disguised as his friends. He turns out to know nothing.",
+  "ch": [
+   "character:hermione_granger",
+   "character:harry_potter",
+   "character:ronald_weasley",
+   "character:draco_malfoy",
+   "character:vincent_crabbe",
+   "character:gregory_goyle"
+  ],
+  "fx": "BLUB"
+ },
+ {
+  "b": 2,
+  "bt": "The Chamber of Secrets",
+  "i": 4,
+  "t": "A diary and a memory",
+  "w": "Spring 1993",
+  "sky": "dark",
+  "it": [
+   "book",
+   "mist",
+   "moon"
+  ],
+  "tx": "Harry finds a diary belonging to one Tom Riddle. Through it he sees a memory pointing at Hagrid, and does not yet understand who Riddle really is.",
+  "ch": [
+   "character:harry_potter",
+   "character:lord_voldemort",
+   "character:rubeus_hagrid"
+  ],
+  "fx": ""
+ },
+ {
+  "b": 2,
+  "bt": "The Chamber of Secrets",
+  "i": 5,
+  "t": "Aragog and the pipes",
+  "w": "Spring 1993",
+  "sky": "green",
+  "it": [
+   "trees",
+   "mist",
+   "snake"
+  ],
+  "tx": "Following spiders into the Forbidden Forest, Harry and Ron meet Aragog. Hermione, petrified, leaves a clue in her hand: the monster is a basilisk travelling through the pipes.",
+  "ch": [
+   "character:harry_potter",
+   "character:ronald_weasley",
+   "character:aragog",
+   "character:hermione_granger"
+  ],
+  "fx": ""
+ },
+ {
+  "b": 2,
+  "bt": "The Chamber of Secrets",
+  "i": 6,
+  "t": "Into the Chamber",
+  "w": "June 1993",
+  "sky": "green",
+  "it": [
+   "snake",
+   "sword",
+   "fire",
+   "stone"
+  ],
+  "tx": "Ginny is taken into the Chamber. Harry faces Riddle's memory and a basilisk, with help from the phoenix Fawkes and a sword. He destroys the diary with a basilisk fang and saves Ginny.",
+  "ch": [
+   "character:harry_potter",
+   "character:ginny_weasley",
+   "character:fawkes",
+   "character:lord_voldemort"
+  ],
+  "fx": "SLASH!"
+ },
+ {
+  "b": 2,
+  "bt": "The Chamber of Secrets",
+  "i": 7,
+  "t": "A free elf",
+  "w": "June 1993",
+  "sky": "day",
+  "it": [
+   "castle",
+   "sock"
+  ],
+  "tx": "Harry tricks Lucius Malfoy into handing a sock to Dobby, which frees him. Hogwarts celebrates as the petrified students wake.",
+  "ch": [
+   "character:harry_potter",
+   "character:dobby",
+   "character:lucius_malfoy"
+  ],
+  "fx": "POP!"
+ },
+ {
+  "b": 3,
+  "bt": "The Prisoner of Azkaban",
+  "i": 0,
+  "t": "A very wrong birthday",
+  "w": "Summer 1993",
+  "sky": "dusk",
+  "it": [
+   "bus",
+   "mist"
+  ],
+  "tx": "After inflating his aunt in anger, Harry runs away and is carried by the Knight Bus to the Leaky Cauldron. The Ministry warns that Sirius Black has escaped Azkaban and is hunting him.",
+  "ch": [
+   "character:harry_potter",
+   "character:cornelius_fudge",
+   "character:sirius_black",
+   "character:marjorie_dursley"
+  ],
+  "fx": "BANG!"
+ },
+ {
+  "b": 3,
+  "bt": "The Prisoner of Azkaban",
+  "i": 1,
+  "t": "Dementors on the train",
+  "w": "1 September 1993",
+  "sky": "dark",
+  "it": [
+   "train",
+   "mist",
+   "glow"
+  ],
+  "tx": "Dementors search the Hogwarts Express and Harry collapses. Professor Lupin drives them off, and later teaches Harry to cast a Patronus.",
+  "ch": [
+   "character:harry_potter",
+   "character:remus_lupin"
+  ],
+  "fx": ""
+ },
+ {
+  "b": 3,
+  "bt": "The Prisoner of Azkaban",
+  "i": 2,
+  "t": "The Marauder's Map",
+  "w": "Autumn 1993",
+  "sky": "night",
+  "it": [
+   "map",
+   "castle",
+   "stars"
+  ],
+  "tx": "Fred and George give Harry a magical map of Hogwarts and its secret passages. It was made by four school friends who called themselves Moony, Wormtail, Padfoot and Prongs.",
+  "ch": [
+   "character:harry_potter",
+   "character:fred_weasley",
+   "character:george_weasley",
+   "character:remus_lupin",
+   "character:sirius_black",
+   "character:james_potter_i",
+   "character:peter_pettigrew"
+  ],
+  "fx": ""
+ },
+ {
+  "b": 3,
+  "bt": "The Prisoner of Azkaban",
+  "i": 3,
+  "t": "Hagrid's hippogriff",
+  "w": "Spring 1994",
+  "sky": "day",
+  "it": [
+   "trees",
+   "broom"
+  ],
+  "tx": "Draco is scratched by Buckbeak and Hagrid's hippogriff is sentenced to death. Hermione is also using a secret device to take extra classes.",
+  "ch": [
+   "character:rubeus_hagrid",
+   "character:draco_malfoy",
+   "character:hermione_granger"
+  ],
+  "fx": ""
+ },
+ {
+  "b": 3,
+  "bt": "The Prisoner of Azkaban",
+  "i": 4,
+  "t": "The Shrieking Shack",
+  "w": "June 1994",
+  "sky": "dark",
+  "it": [
+   "house",
+   "willow",
+   "moon"
+  ],
+  "tx": "Sirius drags Ron into the Willow tunnel. In the old house, the truth comes out: Sirius is innocent, Scabbers is Peter Pettigrew in disguise, and Lupin is a werewolf.",
+  "ch": [
+   "character:sirius_black",
+   "character:ronald_weasley",
+   "character:harry_potter",
+   "character:peter_pettigrew",
+   "character:remus_lupin"
+  ],
+  "fx": "CRASH!"
+ },
+ {
+  "b": 3,
+  "bt": "The Prisoner of Azkaban",
+  "i": 5,
+  "t": "The real betrayer",
+  "w": "June 1994",
+  "sky": "night",
+  "it": [
+   "moon",
+   "mist"
+  ],
+  "tx": "Pettigrew was the secret-keeper who betrayed Harry's parents. When the full moon rises Lupin transforms, and Pettigrew escapes.",
+  "ch": [
+   "character:peter_pettigrew",
+   "character:remus_lupin",
+   "character:sirius_black"
+  ],
+  "fx": ""
+ },
+ {
+  "b": 3,
+  "bt": "The Prisoner of Azkaban",
+  "i": 6,
+  "t": "A stag across the lake",
+  "w": "June 1994",
+  "sky": "night",
+  "it": [
+   "water",
+   "glow",
+   "stars"
+  ],
+  "tx": "Dementors close in on Harry and Sirius. A silver stag Patronus drives them away, and Harry realises it was himself, from the future.",
+  "ch": [
+   "character:harry_potter",
+   "character:hermione_granger",
+   "character:sirius_black"
+  ],
+  "fx": "WHOOSH!"
+ },
+ {
+  "b": 3,
+  "bt": "The Prisoner of Azkaban",
+  "i": 7,
+  "t": "Turning back time",
+  "w": "June 1994",
+  "sky": "dusk",
+  "it": [
+   "clock",
+   "castle",
+   "moon"
+  ],
+  "tx": "Dumbledore hints that Harry and Hermione can use her Time-Turner to change the night. They free Buckbeak and Sirius, who flies away on the hippogriff.",
+  "ch": [
+   "character:harry_potter",
+   "character:hermione_granger",
+   "character:albus_dumbledore",
+   "character:sirius_black"
+  ],
+  "fx": "TICK"
+ },
+ {
+  "b": 4,
+  "bt": "The Goblet of Fire",
+  "i": 0,
+  "t": "The Quidditch World Cup",
+  "w": "Summer 1994",
+  "sky": "night",
+  "it": [
+   "stars",
+   "fire",
+   "stone"
+  ],
+  "tx": "The Weasleys and Harry watch the World Cup final. Afterward, masked wizards attack campers and a Dark Mark glows in the sky above the forest.",
+  "ch": [
+   "character:harry_potter",
+   "character:arthur_weasley",
+   "character:hermione_granger",
+   "character:ronald_weasley"
+  ],
+  "fx": "BOOM!"
+ },
+ {
+  "b": 4,
+  "bt": "The Goblet of Fire",
+  "i": 1,
+  "t": "Two schools arrive",
+  "w": "31 October 1994",
+  "sky": "night",
+  "it": [
+   "water",
+   "castle",
+   "mist"
+  ],
+  "tx": "Beauxbatons and Durmstrang arrive for the Triwizard Tournament. Hogwarts picks Cedric Diggory, but the Goblet also names Harry Potter as a fourth champion.",
+  "ch": [
+   "character:harry_potter",
+   "character:cedric_diggory",
+   "character:fleur_delacour",
+   "character:viktor_krum",
+   "character:albus_dumbledore"
+  ],
+  "fx": ""
+ },
+ {
+  "b": 4,
+  "bt": "The Goblet of Fire",
+  "i": 2,
+  "t": "Dragons",
+  "w": "November 1994",
+  "sky": "day",
+  "it": [
+   "dragon",
+   "fire",
+   "stone"
+  ],
+  "tx": "The first task is to steal a golden egg from a dragon. Harry summons his broom and escapes the Hungarian Horntail.",
+  "ch": [
+   "character:harry_potter",
+   "character:cedric_diggory",
+   "character:charles_weasley",
+   "character:rubeus_hagrid"
+  ],
+  "fx": "ROAR!"
+ },
+ {
+  "b": 4,
+  "bt": "The Goblet of Fire",
+  "i": 3,
+  "t": "The Yule Ball",
+  "w": "25 December 1994",
+  "sky": "night",
+  "it": [
+   "stars",
+   "castle",
+   "egg"
+  ],
+  "tx": "Ron and Harry fall out over the Yule Ball. Hermione dances with Viktor Krum, and Harry learns the golden egg's secret in the prefects' bath.",
+  "ch": [
+   "character:hermione_granger",
+   "character:viktor_krum",
+   "character:harry_potter",
+   "character:ronald_weasley",
+   "character:cedric_diggory"
+  ],
+  "fx": ""
+ },
+ {
+  "b": 4,
+  "bt": "The Goblet of Fire",
+  "i": 4,
+  "t": "The lake",
+  "w": "February 1995",
+  "sky": "day",
+  "it": [
+   "water",
+   "stone"
+  ],
+  "tx": "In the second task, Harry rescues Gabrielle Delacour as well as his friend Ron, whatever the rules say about time. The judges reward his loyalty.",
+  "ch": [
+   "character:harry_potter",
+   "character:fleur_delacour",
+   "character:gabrielle_delacour"
+  ],
+  "fx": "SPLASH!"
+ },
+ {
+  "b": 4,
+  "bt": "The Goblet of Fire",
+  "i": 5,
+  "t": "The maze and the graveyard",
+  "w": "June 1995",
+  "sky": "dark",
+  "it": [
+   "maze",
+   "cup",
+   "grave",
+   "mist"
+  ],
+  "tx": "Harry and Cedric reach the cup together. It is a Portkey that takes them to a graveyard. Pettigrew kills Cedric, and Voldemort is reborn using Harry's blood.",
+  "ch": [
+   "character:harry_potter",
+   "character:cedric_diggory",
+   "character:peter_pettigrew",
+   "character:lord_voldemort"
+  ],
+  "fx": "FLASH!"
+ },
+ {
+  "b": 4,
+  "bt": "The Goblet of Fire",
+  "i": 6,
+  "t": "Priori Incantatem",
+  "w": "June 1995",
+  "sky": "dark",
+  "it": [
+   "wand",
+   "glow",
+   "grave"
+  ],
+  "tx": "Harry's and Voldemort's wands share a core and lock together. Echoes of those Voldemort killed emerge, including Harry's parents, giving Harry time to escape.",
+  "ch": [
+   "character:harry_potter",
+   "character:lord_voldemort",
+   "character:lily_j_potter",
+   "character:james_potter_i",
+   "character:cedric_diggory"
+  ],
+  "fx": ""
+ },
+ {
+  "b": 4,
+  "bt": "The Goblet of Fire",
+  "i": 7,
+  "t": "Moody was not Moody",
+  "w": "June 1995",
+  "sky": "night",
+  "it": [
+   "tower",
+   "flask"
+  ],
+  "tx": "The teacher Alastor Moody turns out to be Barty Crouch Jr. in disguise, who put Harry in the tournament. Dumbledore tells the school that Voldemort has returned, though the Ministry refuses to believe it.",
+  "ch": [
+   "character:alastor_moody",
+   "character:bartemius_crouch_junior",
+   "character:albus_dumbledore",
+   "character:cornelius_fudge"
+  ],
+  "fx": ""
+ },
+ {
+  "b": 5,
+  "bt": "The Order of the Phoenix",
+  "i": 0,
+  "t": "Dementors in Little Whinging",
+  "w": "Summer 1995",
+  "sky": "dark",
+  "it": [
+   "house",
+   "mist",
+   "glow"
+  ],
+  "tx": "Dementors attack Harry and Dudley. Harry uses a Patronus in front of a Muggle and is called to a Ministry hearing, while the Order of the Phoenix gathers at Grimmauld Place.",
+  "ch": [
+   "character:harry_potter",
+   "character:dudley_dursley",
+   "character:arabella_figg",
+   "character:sirius_black"
+  ],
+  "fx": ""
+ },
+ {
+  "b": 5,
+  "bt": "The Order of the Phoenix",
+  "i": 1,
+  "t": "Disbelief",
+  "w": "Autumn 1995",
+  "sky": "dusk",
+  "it": [
+   "tower",
+   "mist"
+  ],
+  "tx": "The Ministry and the Daily Prophet paint Harry and Dumbledore as liars. Dolores Umbridge is sent to Hogwarts, teaching Defence and passing more and more decrees.",
+  "ch": [
+   "character:dolores_umbridge",
+   "character:cornelius_fudge",
+   "character:harry_potter",
+   "character:albus_dumbledore"
+  ],
+  "fx": ""
+ },
+ {
+  "b": 5,
+  "bt": "The Order of the Phoenix",
+  "i": 2,
+  "t": "Dumbledore's Army",
+  "w": "Winter 1995-96",
+  "sky": "night",
+  "it": [
+   "stars",
+   "door",
+   "wand"
+  ],
+  "tx": "Hermione persuades Harry to teach students real defence in secret. They meet in the Room of Requirement and name themselves Dumbledore's Army.",
+  "ch": [
+   "character:harry_potter",
+   "character:hermione_granger",
+   "character:neville_longbottom",
+   "character:luna_lovegood",
+   "character:ginny_weasley",
+   "character:cho_chang"
+  ],
+  "fx": "EXPELLIARMUS!"
+ },
+ {
+  "b": 5,
+  "bt": "The Order of the Phoenix",
+  "i": 3,
+  "t": "Occlumency and a nightmare",
+  "w": "Winter 1995-96",
+  "sky": "dark",
+  "it": [
+   "snake",
+   "mist",
+   "moon"
+  ],
+  "tx": "Harry keeps dreaming through Voldemort's eyes, and sees Nagini attack Arthur Weasley. Snape tries to teach Harry Occlumency, with little success.",
+  "ch": [
+   "character:harry_potter",
+   "character:severus_snape",
+   "character:arthur_weasley",
+   "character:nagini"
+  ],
+  "fx": ""
+ },
+ {
+  "b": 5,
+  "bt": "The Order of the Phoenix",
+  "i": 4,
+  "t": "The Inquisitor's reign",
+  "w": "Spring 1996",
+  "sky": "fire",
+  "it": [
+   "fire",
+   "castle"
+  ],
+  "tx": "When Umbridge discovers the D.A., Dumbledore escapes arrest. Umbridge becomes Headmistress, and Fred and George leave school in a blaze of fireworks.",
+  "ch": [
+   "character:dolores_umbridge",
+   "character:albus_dumbledore",
+   "character:fred_weasley",
+   "character:george_weasley",
+   "character:marietta_edgecombe"
+  ],
+  "fx": "BANG!"
+ },
+ {
+  "b": 5,
+  "bt": "The Order of the Phoenix",
+  "i": 5,
+  "t": "The Department of Mysteries",
+  "w": "June 1996",
+  "sky": "dark",
+  "it": [
+   "arch",
+   "mist",
+   "orb"
+  ],
+  "tx": "Tricked by a false vision of Sirius in danger, Harry and friends fly to the Ministry. Death Eaters wait for a prophecy orb, and the Order arrives to fight.",
+  "ch": [
+   "character:harry_potter",
+   "character:hermione_granger",
+   "character:ronald_weasley",
+   "character:neville_longbottom",
+   "character:luna_lovegood",
+   "character:ginny_weasley",
+   "character:lucius_malfoy"
+  ],
+  "fx": "CRACK!"
+ },
+ {
+  "b": 5,
+  "bt": "The Order of the Phoenix",
+  "i": 6,
+  "t": "Sirius falls",
+  "w": "June 1996",
+  "sky": "dark",
+  "it": [
+   "arch",
+   "mist"
+  ],
+  "tx": "Bellatrix's curse sends Sirius through the veil. Voldemort appears in the Ministry atrium, and Dumbledore duels him while Fudge finally sees him.",
+  "ch": [
+   "character:sirius_black",
+   "character:bellatrix_lestrange",
+   "character:lord_voldemort",
+   "character:albus_dumbledore",
+   "character:cornelius_fudge"
+  ],
+  "fx": "NOOO!"
+ },
+ {
+  "b": 6,
+  "bt": "The Half-Blood Prince",
+  "i": 0,
+  "t": "Spinner's End",
+  "w": "Summer 1996",
+  "sky": "dark",
+  "it": [
+   "house",
+   "mist",
+   "moon"
+  ],
+  "tx": "Narcissa and Bellatrix visit Snape. He makes an Unbreakable Vow to protect Draco and, if need be, to finish a task Draco was given.",
+  "ch": [
+   "character:severus_snape",
+   "character:narcissa_malfoy",
+   "character:bellatrix_lestrange"
+  ],
+  "fx": ""
+ },
+ {
+  "b": 6,
+  "bt": "The Half-Blood Prince",
+  "i": 1,
+  "t": "The Potions book",
+  "w": "Autumn 1996",
+  "sky": "day",
+  "it": [
+   "book",
+   "flask",
+   "cauldron"
+  ],
+  "tx": "Harry finds an old Potions book marked by the Half-Blood Prince and starts to excel in class. Professor Slughorn is delighted and gives him a vial of Felix Felicis.",
+  "ch": [
+   "character:harry_potter",
+   "character:horace_slughorn",
+   "character:hermione_granger"
+  ],
+  "fx": ""
+ },
+ {
+  "b": 6,
+  "bt": "The Half-Blood Prince",
+  "i": 2,
+  "t": "Memories of Tom Riddle",
+  "w": "Winter 1996-97",
+  "sky": "night",
+  "it": [
+   "glow",
+   "mist",
+   "book"
+  ],
+  "tx": "In Dumbledore's Pensieve, Harry sees Voldemort's past: his parents, the orphanage and a memory altered by Slughorn. Dumbledore explains Horcruxes, fragments of a split soul.",
+  "ch": [
+   "character:harry_potter",
+   "character:albus_dumbledore",
+   "character:horace_slughorn",
+   "character:merope_riddle",
+   "character:tom_riddle_senior"
+  ],
+  "fx": ""
+ },
+ {
+  "b": 6,
+  "bt": "The Half-Blood Prince",
+  "i": 3,
+  "t": "Draco's secret",
+  "w": "Spring 1997",
+  "sky": "dark",
+  "it": [
+   "cabinet",
+   "tower",
+   "mist"
+  ],
+  "tx": "Draco has been repairing a Vanishing Cabinet. Katie Bell is cursed through a necklace, and Ron is poisoned by mistake. Harry suspects Draco.",
+  "ch": [
+   "character:draco_malfoy",
+   "character:katie_bell",
+   "character:ronald_weasley",
+   "character:harry_potter"
+  ],
+  "fx": ""
+ },
+ {
+  "b": 6,
+  "bt": "The Half-Blood Prince",
+  "i": 4,
+  "t": "Love in the air",
+  "w": "Spring 1997",
+  "sky": "day",
+  "it": [
+   "stars",
+   "broom"
+  ],
+  "tx": "Ron dates Lavender, Hermione is hurt, and Harry and Ginny finally get together after a Quidditch victory.",
+  "ch": [
+   "character:harry_potter",
+   "character:ginny_weasley",
+   "character:ronald_weasley",
+   "character:lavender_brown",
+   "character:hermione_granger"
+  ],
+  "fx": ""
+ },
+ {
+  "b": 6,
+  "bt": "The Half-Blood Prince",
+  "i": 5,
+  "t": "The cave",
+  "w": "June 1997",
+  "sky": "night",
+  "it": [
+   "water",
+   "cup",
+   "mist"
+  ],
+  "tx": "Dumbledore and Harry journey to a sea cave to find a Horcrux. Dumbledore drinks a draining potion, and they escape the Inferi. The locket is a fake.",
+  "ch": [
+   "character:albus_dumbledore",
+   "character:harry_potter"
+  ],
+  "fx": "SPLASH!"
+ },
+ {
+  "b": 6,
+  "bt": "The Half-Blood Prince",
+  "i": 6,
+  "t": "The Astronomy Tower",
+  "w": "June 1997",
+  "sky": "dark",
+  "it": [
+   "tower",
+   "moon",
+   "bolt"
+  ],
+  "tx": "Death Eaters storm Hogwarts. Draco lowers his wand, but Snape kills Dumbledore. Harry chases, and Snape reveals he is the Half-Blood Prince.",
+  "ch": [
+   "character:albus_dumbledore",
+   "character:severus_snape",
+   "character:draco_malfoy",
+   "character:harry_potter"
+  ],
+  "fx": "AVADA KEDAVRA"
+ },
+ {
+  "b": 6,
+  "bt": "The Half-Blood Prince",
+  "i": 7,
+  "t": "The funeral",
+  "w": "June 1997",
+  "sky": "dusk",
+  "it": [
+   "stars",
+   "stone",
+   "fire"
+  ],
+  "tx": "The wizarding world mourns Dumbledore. Harry ends things with Ginny to protect her and resolves to hunt Voldemort's remaining Horcruxes, with Ron and Hermione at his side.",
+  "ch": [
+   "character:harry_potter",
+   "character:ginny_weasley",
+   "character:ronald_weasley",
+   "character:hermione_granger",
+   "character:rubeus_hagrid"
+  ],
+  "fx": ""
+ },
+ {
+  "b": 7,
+  "bt": "The Deathly Hallows",
+  "i": 0,
+  "t": "Seven Potters",
+  "w": "July 1997",
+  "sky": "night",
+  "it": [
+   "broom",
+   "stars",
+   "moon"
+  ],
+  "tx": "Harry leaves Privet Drive in a convoy of decoys, each looking like him. Death Eaters attack, Hedwig and Moody are killed, and Harry reaches the Burrow.",
+  "ch": [
+   "character:harry_potter",
+   "character:alastor_moody",
+   "character:hedwig",
+   "character:rubeus_hagrid",
+   "character:fred_weasley",
+   "character:george_weasley"
+  ],
+  "fx": "BOOM!"
+ },
+ {
+  "b": 7,
+  "bt": "The Deathly Hallows",
+  "i": 1,
+  "t": "A wedding broken",
+  "w": "August 1997",
+  "sky": "day",
+  "it": [
+   "stars",
+   "wand",
+   "mist"
+  ],
+  "tx": "Bill and Fleur's wedding ends with news that the Ministry has fallen. The trio disapparate to London and go into hiding at Grimmauld Place.",
+  "ch": [
+   "character:bill_weasley",
+   "character:fleur_delacour",
+   "character:harry_potter",
+   "character:hermione_granger",
+   "character:ronald_weasley",
+   "character:pius_thicknesse"
+  ],
+  "fx": ""
+ },
+ {
+  "b": 7,
+  "bt": "The Deathly Hallows",
+  "i": 2,
+  "t": "The Horcrux hunt",
+  "w": "Autumn 1997",
+  "sky": "dark",
+  "it": [
+   "ring",
+   "cup",
+   "trees",
+   "mist"
+  ],
+  "tx": "The trio work to find Horcruxes. They learn of the Hallows, visit Godric's Hollow where Nagini ambushes Harry, and find Gryffindor's sword in a frozen pool. Ron destroys the locket.",
+  "ch": [
+   "character:harry_potter",
+   "character:hermione_granger",
+   "character:ronald_weasley",
+   "character:bathilda_bagshot",
+   "character:nagini"
+  ],
+  "fx": "SLASH!"
+ },
+ {
+  "b": 7,
+  "bt": "The Deathly Hallows",
+  "i": 3,
+  "t": "Malfoy Manor",
+  "w": "Spring 1998",
+  "sky": "dark",
+  "it": [
+   "manor",
+   "stars"
+  ],
+  "tx": "Captured by snatchers, the trio are taken to the Malfoys. Bellatrix tortures Hermione. Dobby apparates in to rescue them and is killed.",
+  "ch": [
+   "character:hermione_granger",
+   "character:bellatrix_lestrange",
+   "character:dobby",
+   "character:lucius_malfoy",
+   "character:narcissa_malfoy",
+   "character:draco_malfoy"
+  ],
+  "fx": "POP!"
+ },
+ {
+  "b": 7,
+  "bt": "The Deathly Hallows",
+  "i": 4,
+  "t": "Gringotts",
+  "w": "Spring 1998",
+  "sky": "fire",
+  "it": [
+   "vault",
+   "cup",
+   "fire"
+  ],
+  "tx": "With Griphook's help, the trio break into Bellatrix's vault at Gringotts, steal the cup, and escape on a dragon.",
+  "ch": [
+   "character:harry_potter",
+   "character:hermione_granger",
+   "character:ronald_weasley",
+   "character:griphook",
+   "character:bellatrix_lestrange"
+  ],
+  "fx": "ROAR!"
+ },
+ {
+  "b": 7,
+  "bt": "The Deathly Hallows",
+  "i": 5,
+  "t": "Battle of Hogwarts",
+  "w": "2 May 1998",
+  "sky": "fire",
+  "it": [
+   "castle",
+   "fire",
+   "stars"
+  ],
+  "tx": "Hogwarts rises: teachers, students and the Order defend the castle. Fred, Lupin and Tonks fall, and Voldemort demands that Harry surrender.",
+  "ch": [
+   "character:harry_potter",
+   "character:neville_longbottom",
+   "character:minerva_mcgonagall",
+   "character:fred_weasley",
+   "character:remus_lupin",
+   "character:nymphadora_tonks"
+  ],
+  "fx": "BOOM!"
+ },
+ {
+  "b": 7,
+  "bt": "The Deathly Hallows",
+  "i": 6,
+  "t": "The Forest",
+  "w": "2 May 1998",
+  "sky": "dark",
+  "it": [
+   "trees",
+   "stone",
+   "glow"
+  ],
+  "tx": "Harry learns from Snape's memories that he must die. He walks into the Forest, uses the Resurrection Stone and offers himself to Voldemort.",
+  "ch": [
+   "character:harry_potter",
+   "character:severus_snape",
+   "character:lord_voldemort"
+  ],
+  "fx": ""
+ },
+ {
+  "b": 7,
+  "bt": "The Deathly Hallows",
+  "i": 7,
+  "t": "King's Cross and the last duel",
+  "w": "2 May 1998",
+  "sky": "day",
+  "it": [
+   "station",
+   "fire",
+   "stars"
+  ],
+  "tx": "Harry wakes in a bright place and speaks with Dumbledore, then returns. Molly kills Bellatrix, Neville kills Nagini, and Voldemort's own curse rebounds.",
+  "ch": [
+   "character:harry_potter",
+   "character:albus_dumbledore",
+   "character:molly_weasley",
+   "character:bellatrix_lestrange",
+   "character:neville_longbottom",
+   "character:lord_voldemort"
+  ],
+  "fx": "FLASH!"
+ },
+ {
+  "b": 7,
+  "bt": "The Deathly Hallows",
+  "i": 8,
+  "t": "Nineteen years later",
+  "w": "1 September 2017",
+  "sky": "day",
+  "it": [
+   "train",
+   "stars"
+  ],
+  "tx": "On Platform 9¾, Harry and Ginny send Albus Severus off to Hogwarts, along with Rose and Scorpius. All is well.",
+  "ch": [
+   "character:harry_potter",
+   "character:ginny_weasley",
+   "character:albus_potter",
+   "character:ronald_weasley",
+   "character:hermione_granger",
+   "character:draco_malfoy"
+  ],
+  "fx": ""
+ }
+]
