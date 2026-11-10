@@ -1,25 +1,31 @@
-# HPArchive: the wizarding world as a network
-An interactive Digital Humanities archive of the Harry Potter novels and films: a 3D network of characters, houses, families, groups, places, objects and film cast, with typed, evidence-labelled relationships.
-**Run:** open `index.html` (single file, works offline). **Host:** GitHub Pages (Settings → Pages → main).
+# HPArchive — a fan reference companion
 
-## Features
-3D network (colour by house/community/type, filter by relationship family, evidence class and book, shortest path, focus mode) · Characters directory (610, filterable) · Family trees · Timeline · Compare two characters · Books & films · Insights (PageRank, communities, house × ancestry) · guided stories · exports for Gephi (GraphML), CSV and Neo4j.
+An interactive, static archive about the Harry Potter main series. Browse a searchable character directory, relationship network, family trees, timeline, book and film notes, a seven-book story journey, and searchable spell and potion names.
 
-## Evidence classes (every link has one)
-- `dataset`: houses and groups from a wiki-derived character JSON (Laboratoria/BOG005-data-lovers, no stated licence; content from the Harry Potter Fandom wiki, CC BY-SA). Kept in `data/source_harry.json`.
-- `canon`: relationships we encoded from the novels (family, mentors, enemies, killings, Horcruxes, Hallows, homes), with book numbers. `medium` confidence = verify against the books.
-- `film`: cast and directors for the eight films; film numbers only where confident.
+## Open the public site
 
-## Rebuild
+https://archivingout.github.io/HPArchive/
+
+## Coverage
+
+- 704 directory records in this build: 598 named-character records and 106 unnamed-relative references. The new data also distinguishes named people from unnamed family references instead of treating every source label as a character.
+- Coverage follows the seven novels and eight film adaptations. The source is not an exhaustive census of every Wizarding World character across plays, prequels, games, adaptations, and other publications.
+- The Story Journey gives one concise, original summary per novel, with spoiler filtering and original symbolic vector art. It is a companion, not a scene-by-scene comic or substitute for the books.
+- The Spellbook lists names and categories only. Character profiles and story links use the archive's relationship data.
+
+## Use
+
+Open `index.html` for the offline version. The online site deploys from `main` with GitHub Pages whenever the Pages workflow succeeds.
+
+To rebuild data locally, install `networkx` and `numpy`, then run:
+
 ```
-pip install networkx numpy
 python pipeline/build_hp.py data/source_harry.json data
 python pipeline/build_site.py pipeline/template.html data/hp.json index.html
 ```
-## Add verified data
-Edit `pipeline/curated.py`: `r("Harry Potter","Sirius Black","GODPARENT_OF","godfather",[3],"high")`, then rebuild.
-## Rights
-No book or film text, scripts or images are included: only facts and relationships. Unofficial; not affiliated with J.K. Rowling, Warner Bros. or Wizarding World. Code: MIT. Verify the dataset's licence before commercial reuse.
-## Known limits
-Group links are not time-bound · only 7 novels + 8 films · centrality reflects documentation density, not story importance · minor characters unevenly covered.
 
+## Sources and rights
+
+The structured character data originates in a wiki-derived dataset associated with [Laboratoria/BOG005-data-lovers](https://github.com/Laboratoria/BOG005-data-lovers). The upstream project's source is based on the [Harry Potter Wiki](https://harrypotter.fandom.com/), whose community text is published under [CC BY-SA](https://harrypotter.fandom.com/wiki/Harry_Potter_Wiki:Copyrights), except where stated otherwise. Attribution and share-alike terms apply to wiki-derived material; review the source notices before reuse.
+
+Relationship curation, code and story summaries are maintained separately. No novel text, film scripts, official stills or official character artwork are included. For licensed encyclopedia content, see the [official Harry Potter Fact Files](https://www.harrypotter.com/fact-file). Unofficial fan project; not affiliated with or endorsed by the rights holders.

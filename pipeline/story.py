@@ -1,0 +1,17 @@
+"""Seven short, original book-level recaps for HPArchive.
+
+This is a spoiler-heavy reading companion, not a scene-by-scene retelling.
+Artwork in the site is original symbolic SVG; it uses no official imagery.
+"""
+def P(t,w,sky,items,tx,ch,fx="",theme=""):
+    return {"t":t,"w":w,"sky":sky,"it":items.split(),"tx":tx,"ch":ch,"fx":fx,"theme":theme}
+
+STORY=[
+(1, "Harry Potter and the Philosopher's Stone", [P("A world opens", "1991–92", "night", "letter star key stone", "Harry discovers that he belongs to a magical community, and friendship gives him a home at Hogwarts. When an old danger resurfaces, courage and trust matter more than fame.", ["Harry Potter","Ronald Weasley","Hermione Granger","Albus Dumbledore","Lord Voldemort"], theme="Belonging · friendship · courage")]),
+(2, "Harry Potter and the Chamber of Secrets", [P("A voice in the walls", "1992–93", "green", "book snake torch", "A season of fear at Hogwarts forces Harry to question where he belongs. A hidden history connects a present threat to Voldemort's past, and loyalty helps Harry protect a friend.", ["Harry Potter","Ginny Weasley","Ronald Weasley","Hermione Granger","Dobby","Lord Voldemort"], theme="Identity · prejudice · loyalty")]),
+(3, "Harry Potter and the Prisoner of Azkaban", [P("The past changes shape", "1993–94", "blue", "moon map stag", "A prisoner escapes, and Harry learns that the story he was told about his parents is incomplete. New knowledge about friendship, betrayal and family changes whom he trusts and what justice means.", ["Harry Potter","Sirius Black","Remus Lupin","Peter Pettigrew","Hermione Granger"], theme="Memory · justice · chosen family")]),
+(4, "Harry Potter and the Goblet of Fire", [P("A contest turns dangerous", "1994–95", "fire", "cup maze dragon", "A school tournament draws Harry into a larger conflict. Competition, public attention and a devastating loss mark the end of childhood certainty as Voldemort returns to power.", ["Harry Potter","Cedric Diggory","Lord Voldemort","Alastor Moody","Peter Pettigrew"], theme="Choice · loss · return")]),
+(5, "Harry Potter and the Order of the Phoenix", [P("Learning to resist", "1995–96", "violet", "orb phoenix door", "As authorities deny the danger, Harry faces isolation and grief. Students build a secret community to learn and protect one another, while a vision pulls Harry toward a painful confrontation.", ["Harry Potter","Hermione Granger","Ronald Weasley","Dolores Umbridge","Sirius Black","Albus Dumbledore"], theme="Truth · resistance · grief")]),
+(6, "Harry Potter and the Half-Blood Prince", [P("The shape of a soul", "1996–97", "gold", "memory ring cave tower", "Harry and Dumbledore investigate the choices that made Voldemort powerful. The search reveals a way to weaken him, while fear and divided loyalties close in around Hogwarts.", ["Harry Potter","Albus Dumbledore","Severus Snape","Draco Malfoy","Lord Voldemort"], theme="Memory · mortality · trust")]),
+(7, "Harry Potter and the Deathly Hallows", [P("The last choice", "1997–98", "dawn", "forest wand hallows star", "Away from school, Harry, Ron and Hermione pursue the remaining pieces of Voldemort's power. Their journey tests friendship and sacrifice; the final conflict turns on the choices people make when fear offers an easier path.", ["Harry Potter","Ronald Weasley","Hermione Granger","Neville Longbottom","Molly Weasley","Lord Voldemort"], theme="Sacrifice · solidarity · choice")]),
+]

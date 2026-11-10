@@ -10,17 +10,17 @@ character:avery_i,house:slytherin,HOUSE,dataset,high,,
 character:avery_i,org:slug_club,MEMBER_OF,dataset,high,,
 character:avery_i,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:avery_ii,house:slytherin,HOUSE,dataset,high,,
+character:avery_ii,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:avery_ii,character:lord_voldemort,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:avery_ii,org:death_eaters,MEMBER_OF,dataset,high,,
-character:avery_ii,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:malcolm_baddock,house:slytherin,HOUSE,dataset,high,,
 character:badgered_boy,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:ludovic_bagman,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
-character:bane,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:bane,org:forbidden_forest_centaur_colony,MEMBER_OF,dataset,high,,
+character:bane,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:heathcote_barbary,org:the_weird_sisters,MEMBER_OF,dataset,high,,
-character:basil,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:basil,org:department_of_magical_transportation,MEMBER_OF,dataset,high,,
+character:basil,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:damocles_belby,org:order_of_merlin,MEMBER_OF,dataset,high,,
 character:damocles_belby,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:marcus_belby,house:ravenclaw,HOUSE,dataset,high,,
@@ -39,28 +39,25 @@ character:arcturus_black_iii,family:house_of_black,FAMILY_MEMBER,dataset,high,,f
 character:orion_black,family:house_of_black,FAMILY_MEMBER,dataset,high,,family named in the source's house field
 character:regulus_black,family:house_of_black,FAMILY_MEMBER,dataset,high,,family named in the source's house field
 character:sirius_black,house:gryffindor,HOUSE,dataset,high,,
-character:sirius_black,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
 character:sirius_black,family:potter_family,FAMILY_MEMBER,dataset,high,,
+character:sirius_black,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
 character:sirius_black,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:sirius_black,character:marauders,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:miles_bletchley,house:slytherin,HOUSE,dataset,high,,
-character:miles_bletchley,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:miles_bletchley,org:slytherin_quidditch_team,MEMBER_OF,dataset,high,,
+character:miles_bletchley,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:bloody_baron,house:slytherin,HOUSE,dataset,high,,
 character:bloody_baron,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
-character:bob,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:bob,org:department_for_the_regulation_and_control_of_magical_creatures,MEMBER_OF,dataset,high,,
-character:broderick_bode,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
+character:bob,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:broderick_bode,org:department_of_mysteries,MEMBER_OF,dataset,high,,
+character:broderick_bode,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:bogrod,org:gringotts_wizarding_bank,MEMBER_OF,dataset,high,,
 character:lucian_bole,house:slytherin,HOUSE,dataset,high,,
-character:lucian_bole,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:lucian_bole,org:slytherin_quidditch_team,MEMBER_OF,dataset,high,,
-character:amelia_bones_father,house:hufflepuff,HOUSE,dataset,high,,
-character:amelia_bones_father,family:bones_family,FAMILY_MEMBER,dataset,high,,
+character:lucian_bole,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:edgar_bones,house:hufflepuff,HOUSE,dataset,medium,,house uncertain in source
 character:edgar_bones,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
-character:edgar_bones,family:bones_family,FAMILY_MEMBER,dataset,high,,
 character:mungo_bonham,org:st_mungo_s_hospital_for_magical_maladies_and_injuries,MEMBER_OF,dataset,high,,
 character:terry_boot,house:ravenclaw,HOUSE,dataset,high,,
 character:terry_boot,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
@@ -68,10 +65,10 @@ character:terry_boot,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,da
 character:borgin,org:borgin_and_burkes,MEMBER_OF,dataset,high,,
 character:boris_the_bewildered,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:bozo,org:daily_prophet,MEMBER_OF,dataset,high,,
+character:buckbeak,character:hermione_granger,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:buckbeak,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
 character:buckbeak,character:rubeus_hagrid,ASSOCIATED_WITH,dataset,high,,owner
 character:buckbeak,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
-character:buckbeak,character:hermione_granger,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:buckbeak,character:harry_potter,ASSOCIATED_WITH,dataset,high,,owner
 character:buckbeak,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:buckbeak,character:sirius_black,ASSOCIATED_WITH,dataset,high,,owner
@@ -86,8 +83,8 @@ character:amycus_carrow,character:lord_voldemort,ASSOCIATED_WITH,dataset,high,,a
 character:amycus_carrow,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:amycus_carrow,org:death_eaters,MEMBER_OF,dataset,high,,
 character:alfred_cattermole,family:cattermole_family,FAMILY_MEMBER,dataset,high,,
-character:reginald_cattermole,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:reginald_cattermole,family:cattermole_family,FAMILY_MEMBER,dataset,high,,
+character:reginald_cattermole,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:owen_cauldwell,house:hufflepuff,HOUSE,dataset,high,,
 character:chambers,house:ravenclaw,HOUSE,dataset,high,,
 character:chambers,org:ravenclaw_quidditch_team,MEMBER_OF,dataset,high,,
@@ -102,152 +99,147 @@ character:crabbe,house:slytherin,HOUSE,dataset,high,,
 character:crabbe,character:lord_voldemort,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:crabbe,org:death_eaters,MEMBER_OF,dataset,high,,
 character:vincent_crabbe,house:slytherin,HOUSE,dataset,high,,
+character:vincent_crabbe,org:inquisitorial_squad,MEMBER_OF,dataset,high,,
+character:vincent_crabbe,org:draco_malfoy_s_gang,MEMBER_OF,dataset,high,,
 character:vincent_crabbe,character:lord_voldemort,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:vincent_crabbe,org:slytherin_quidditch_team,MEMBER_OF,dataset,high,,
-character:vincent_crabbe,org:draco_malfoy_s_gang,MEMBER_OF,dataset,high,,
-character:vincent_crabbe,org:death_eaters,MEMBER_OF,dataset,high,,unofficially
-character:vincent_crabbe,org:inquisitorial_squad,MEMBER_OF,dataset,high,,
 character:vincent_crabbe,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:vincent_crabbe,org:death_eaters,MEMBER_OF,dataset,high,,unofficially
 character:colin_creevey,house:gryffindor,HOUSE,dataset,high,,
-character:colin_creevey,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
-character:colin_creevey,family:creevey_family,FAMILY_MEMBER,dataset,high,,
-character:colin_creevey,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:colin_creevey,character:harry_potter,ASSOCIATED_WITH,dataset,high,,associated group in source
+character:colin_creevey,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
+character:colin_creevey,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:dennis_creevey,house:gryffindor,HOUSE,dataset,high,,
-character:dennis_creevey,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
 character:dennis_creevey,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
-character:dennis_creevey,family:creevey_family,FAMILY_MEMBER,dataset,high,,
-character:creevey_brothers_father,family:creevey_family,FAMILY_MEMBER,dataset,high,,
+character:dennis_creevey,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
+character:dirk_cresswell,org:ministry_of_magic,MEMBER_OF,dataset,high,,
 character:dirk_cresswell,org:slug_club,MEMBER_OF,dataset,high,,
 character:dirk_cresswell,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
-character:dirk_cresswell,org:ministry_of_magic,MEMBER_OF,dataset,high,,
-character:saul_croaker,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:saul_croaker,org:department_of_mysteries,MEMBER_OF,dataset,high,,
-character:crookshanks,character:sirius_black,ASSOCIATED_WITH,dataset,high,,associated group in source
+character:saul_croaker,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:crookshanks,org:magical_menagerie,MEMBER_OF,dataset,high,,
-character:crookshanks,character:magical_menagerie_saleswoman,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:crookshanks,character:hermione_granger,ASSOCIATED_WITH,dataset,high,,owner
+character:crookshanks,character:magical_menagerie_saleswoman,ASSOCIATED_WITH,dataset,high,,associated group in source
+character:crookshanks,character:sirius_black,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:bartemius_crouch_junior,character:lord_voldemort,ASSOCIATED_WITH,dataset,high,,associated group in source
-character:bartemius_crouch_junior,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:bartemius_crouch_junior,org:death_eaters,MEMBER_OF,dataset,high,,
-character:bartemius_crouch_senior,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
+character:bartemius_crouch_junior,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:bartemius_crouch_senior,org:department_of_magical_law_enforcement,MEMBER_OF,dataset,high,,
+character:bartemius_crouch_senior,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:gideon_crumb,org:weird_sisters,MEMBER_OF,dataset,high,,
 character:barnabas_cuffe,org:slug_club,MEMBER_OF,dataset,high,,
 character:barnabas_cuffe,org:daily_prophet,MEMBER_OF,dataset,high,,
 character:roger_davies,house:ravenclaw,HOUSE,dataset,high,,
 character:roger_davies,org:ravenclaw_quidditch_team,MEMBER_OF,dataset,high,,
 character:roger_davies,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
-character:john_dawlish,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:john_dawlish,org:auror_office,MEMBER_OF,dataset,high,,
 character:john_dawlish,org:death_eaters,MEMBER_OF,dataset,high,,indirectly
+character:john_dawlish,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:caradoc_dearborn,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
 character:squat_wheezy_man,character:lord_voldemort,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:squat_wheezy_man,org:death_eaters,MEMBER_OF,dataset,high,,
-character:delacour_sisters_father,family:delacour_family,FAMILY_MEMBER,dataset,high,,
 character:patrick_delaney_podmore,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:derek,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:peregrine_derrick,house:slytherin,HOUSE,dataset,high,,
-character:peregrine_derrick,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:peregrine_derrick,org:slytherin_quidditch_team,MEMBER_OF,dataset,high,,
-character:dedalus_diggle,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
-character:dedalus_diggle,org:advance_guard,MEMBER_OF,dataset,high,,
+character:peregrine_derrick,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:dedalus_diggle,character:harry_potter,ASSOCIATED_WITH,dataset,high,,associated group in source
-character:amos_diggory,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
-character:amos_diggory,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:dedalus_diggle,org:advance_guard,MEMBER_OF,dataset,high,,
+character:dedalus_diggle,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
 character:amos_diggory,org:department_for_the_regulation_and_control_of_magical_creatures,MEMBER_OF,dataset,high,,
+character:amos_diggory,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:amos_diggory,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:cedric_diggory,house:hufflepuff,HOUSE,dataset,high,,
-character:cedric_diggory,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:cedric_diggory,org:circle_of_khanna,MEMBER_OF,dataset,high,,
 character:cedric_diggory,org:hufflepuff_quidditch_team,MEMBER_OF,dataset,high,,
 character:cedric_diggory,org:death_eaters,MEMBER_OF,dataset,high,,alternate timeline
+character:cedric_diggory,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:vasily_dimitrov,org:bulgarian_national_quidditch_team,MEMBER_OF,dataset,high,,
 character:harold_dingle,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:armando_dippet,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:dishevelled_wizard,org:knight_bus,MEMBER_OF,dataset,high,,
 character:dobby,org:s_p_e_w,MEMBER_OF,dataset,high,,
-character:dobby,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
+character:dobby,character:ronald_weasley,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:dobby,character:hermione_granger,ASSOCIATED_WITH,dataset,high,,associated group in source
-character:dobby,character:harry_potter,ASSOCIATED_WITH,dataset,high,,associated group in source
+character:dobby,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
 character:dobby,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
+character:dobby,character:harry_potter,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:dobby,family:malfoy_family,FAMILY_MEMBER,dataset,high,,formerly
 character:dobby,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
-character:dobby,character:ronald_weasley,ASSOCIATED_WITH,dataset,high,,associated group in source
-character:elphias_doge,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
+character:elphias_doge,org:wizengamot,MEMBER_OF,dataset,high,,
+character:elphias_doge,org:advance_guard,MEMBER_OF,dataset,high,,
 character:elphias_doge,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
 character:elphias_doge,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
-character:elphias_doge,org:advance_guard,MEMBER_OF,dataset,high,,
-character:elphias_doge,org:wizengamot,MEMBER_OF,dataset,high,,
+character:elphias_doge,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:antonin_dolohov,character:lord_voldemort,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:antonin_dolohov,org:death_eaters,MEMBER_OF,dataset,high,,
 character:double_ended_newt_wizard,org:magical_menagerie,MEMBER_OF,dataset,high,,
 character:dragon_keeper,org:romanian_dragon_sanctuary,MEMBER_OF,dataset,high,,
-character:kirley_duke,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:kirley_duke,org:weird_sisters,MEMBER_OF,dataset,high,,
+character:kirley_duke,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:aberforth_dumbledore,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:aberforth_dumbledore,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
 character:aberforth_dumbledore,family:dumbledore_family,FAMILY_MEMBER,dataset,high,,
-character:aberforth_dumbledore,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:percival_dumbledore,family:dumbledore_family,FAMILY_MEMBER,dataset,high,,
 character:dudley_dursley,family:evans_family,FAMILY_MEMBER,dataset,high,,
 character:dudley_dursley,family:dursley_family,FAMILY_MEMBER,dataset,high,,
 character:vernon_dursley,family:dursley_family,FAMILY_MEMBER,dataset,high,,
 character:errol,family:weasley_family,FAMILY_MEMBER,dataset,high,,owners
-character:evans_sisters_father,family:evans_family,FAMILY_MEMBER,dataset,high,,
 character:everard,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
-character:fallen_fifty,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
-character:fallen_fifty,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
-character:fallen_fifty,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:fallen_fifty,character:harry_potter,ASSOCIATED_WITH,dataset,high,,associated group in source
+character:fallen_fifty,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
+character:fallen_fifty,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
+character:fallen_fifty,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:fang,character:rubeus_hagrid,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:fat_friar,house:hufflepuff,HOUSE,dataset,high,,
 character:fat_friar,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
-character:fawkes,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
-character:fawkes,character:albus_dumbledore,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:fawkes,character:harry_potter,ASSOCIATED_WITH,dataset,high,,associated group in source
+character:fawkes,character:albus_dumbledore,ASSOCIATED_WITH,dataset,high,,associated group in source
+character:fawkes,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
 character:benjy_fenwick,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
+character:argus_filch,character:mrs_norris,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:argus_filch,org:inquisitorial_squad,MEMBER_OF,dataset,high,,formerly
 character:argus_filch,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
-character:argus_filch,character:mrs_norris,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:justin_finch_fletchley,house:hufflepuff,HOUSE,dataset,high,,
 character:justin_finch_fletchley,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
 character:justin_finch_fletchley,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:seamus_finnigan,house:gryffindor,HOUSE,dataset,high,,
-character:seamus_finnigan,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
 character:seamus_finnigan,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:seamus_finnigan,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
+character:firenze,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,during the Battle of Hogwarts
+character:firenze,org:forbidden_forest_centaur_colony,MEMBER_OF,dataset,high,,
 character:firenze,org:dumbledore_s_army,MEMBER_OF,dataset,high,,during the Battle of Hogwarts
 character:firenze,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
-character:firenze,org:forbidden_forest_centaur_colony,MEMBER_OF,dataset,high,,
-character:firenze,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,during the Battle of Hogwarts
-character:nicolas_flamel,org:beauxbatons_academy_of_magic,MEMBER_OF,dataset,high,,
 character:nicolas_flamel,character:albus_dumbledore,ASSOCIATED_WITH,dataset,high,,associated group in source
+character:nicolas_flamel,org:beauxbatons_academy_of_magic,MEMBER_OF,dataset,high,,
 character:mundungus_fletcher,character:albus_dumbledore,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:mundungus_fletcher,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
 character:mundungus_fletcher,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:mundungus_fletcher,character:harry_potter,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:marcus_flint,house:slytherin,HOUSE,dataset,high,,
-character:marcus_flint,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:marcus_flint,org:slytherin_quidditch_team,MEMBER_OF,dataset,high,,
+character:marcus_flint,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:filius_flitwick,house:ravenclaw,HOUSE,dataset,high,,
 character:filius_flitwick,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
-character:fluffy,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:fluffy,character:rubeus_hagrid,ASSOCIATED_WITH,dataset,high,,associated group in source
+character:fluffy,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:ambrosius_flume,org:slug_club,MEMBER_OF,dataset,high,,
 character:ambrosius_flume,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:dexter_fortescue,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:foul_smelling_snatcher,org:snatchers,MEMBER_OF,dataset,high,,
 character:cornelius_fudge,org:order_of_merlin,MEMBER_OF,dataset,high,,
-character:cornelius_fudge,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
-character:cornelius_fudge,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:cornelius_fudge,org:wizengamot,MEMBER_OF,dataset,high,,
-character:ulick_gamp,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
+character:cornelius_fudge,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:cornelius_fudge,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:ulick_gamp,org:wizengamot,MEMBER_OF,dataset,high,,
+character:ulick_gamp,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:marvolo_gaunt,family:house_of_gaunt,FAMILY_MEMBER,dataset,high,,family named in the source's house field
 character:morfin_gaunt,family:house_of_gaunt,FAMILY_MEMBER,dataset,high,,family named in the source's house field
 character:gibbon,character:lord_voldemort,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:gibbon,org:death_eaters,MEMBER_OF,dataset,high,,
 character:anthony_goldstein,house:ravenclaw,HOUSE,dataset,high,,
-character:anthony_goldstein,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
 character:anthony_goldstein,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:anthony_goldstein,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
 character:golgomath,character:lord_voldemort,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:golgomath,org:death_eaters,MEMBER_OF,dataset,high,,
 character:dragomir_gorgovitch,org:chudley_cannons,MEMBER_OF,dataset,high,,
@@ -256,19 +248,19 @@ character:goyle,house:slytherin,HOUSE,dataset,medium,,house uncertain in source
 character:goyle,character:lord_voldemort,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:goyle,org:death_eaters,MEMBER_OF,dataset,high,,
 character:gregory_goyle,house:slytherin,HOUSE,dataset,high,,
-character:gregory_goyle,character:lord_voldemort,ASSOCIATED_WITH,dataset,high,,associated group in source
-character:gregory_goyle,org:slytherin_quidditch_team,MEMBER_OF,dataset,high,,
-character:gregory_goyle,org:death_eaters,MEMBER_OF,dataset,high,,unofficially
 character:gregory_goyle,org:inquisitorial_squad,MEMBER_OF,dataset,high,,
 character:gregory_goyle,org:draco_malfoy_s_gang,MEMBER_OF,dataset,high,,formerly
+character:gregory_goyle,character:lord_voldemort,ASSOCIATED_WITH,dataset,high,,associated group in source
+character:gregory_goyle,org:slytherin_quidditch_team,MEMBER_OF,dataset,high,,
 character:gregory_goyle,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:gregory_goyle,org:death_eaters,MEMBER_OF,dataset,high,,unofficially
 character:merton_graves,org:the_weird_sisters,MEMBER_OF,dataset,high,,
 character:grawp,family:hagrid_family,FAMILY_MEMBER,dataset,high,,
 character:grawp,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,during the Battle of Hogwarts
 character:greek_man,character:fluffy,ASSOCIATED_WITH,dataset,high,,associated group in source
+character:fenrir_greyback,org:snatchers,MEMBER_OF,dataset,high,,
 character:fenrir_greyback,character:lord_voldemort,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:fenrir_greyback,org:death_eaters,MEMBER_OF,dataset,high,,unofficially
-character:fenrir_greyback,org:snatchers,MEMBER_OF,dataset,high,,
 character:gellert_grindelwald,org:durmstrang_institute,MEMBER_OF,dataset,high,,
 character:gringotts_head_goblin,org:gringotts_wizarding_bank,MEMBER_OF,dataset,high,,
 character:griphook,org:gringotts_wizarding_bank,MEMBER_OF,dataset,high,,
@@ -280,18 +272,18 @@ character:rubeus_hagrid,house:gryffindor,HOUSE,dataset,high,,
 character:rubeus_hagrid,character:albus_dumbledore,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:rubeus_hagrid,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
 character:rubeus_hagrid,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
-character:rubeus_hagrid,family:hagrid_family,FAMILY_MEMBER,dataset,high,,
 character:rubeus_hagrid,character:harry_potter,ASSOCIATED_WITH,dataset,high,,associated group in source
+character:rubeus_hagrid,family:hagrid_family,FAMILY_MEMBER,dataset,high,,
 character:harper,house:slytherin,HOUSE,dataset,high,,
-character:harper,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:harper,org:slytherin_quidditch_team,MEMBER_OF,dataset,high,,
+character:harper,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:hermes,character:percy_weasley,ASSOCIATED_WITH,dataset,high,,owner
 character:terence_higgs,house:slytherin,HOUSE,dataset,high,,
-character:terence_higgs,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:terence_higgs,org:slytherin_quidditch_team,MEMBER_OF,dataset,high,,
+character:terence_higgs,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:hogwarts_express_conductor,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
-character:hogwarts_school_mice,character:minerva_mcgonagall,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:hogwarts_school_mice,org:transfiguration_department,MEMBER_OF,dataset,high,,
+character:hogwarts_school_mice,character:minerva_mcgonagall,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:hogwarts_school_mice,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:geoffrey_hooper,house:gryffindor,HOUSE,dataset,high,,
 character:geoffrey_hooper,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
@@ -299,16 +291,16 @@ character:house_of_black_house_elves,family:house_of_black,FAMILY_MEMBER,dataset
 character:joey_jenkins,org:chudley_cannons,MEMBER_OF,dataset,high,,
 character:arsenius_jigger,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:lee_jordan,house:gryffindor,HOUSE,dataset,high,,
+character:lee_jordan,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
 character:lee_jordan,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
 character:lee_jordan,org:potterwatch,MEMBER_OF,dataset,high,,
-character:lee_jordan,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
 character:lee_jordan,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:jugson,character:lord_voldemort,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:jugson,org:death_eaters,MEMBER_OF,dataset,high,,
 character:karkaroff_s_aide,character:igor_karkaroff,ASSOCIATED_WITH,dataset,high,,formerly
 character:karkaroff_s_aide,org:durmstrang_institute,MEMBER_OF,dataset,high,,
-character:igor_karkaroff,character:lord_voldemort,ASSOCIATED_WITH,dataset,high,,formerly
 character:igor_karkaroff,org:death_eaters,MEMBER_OF,dataset,high,,formerly
+character:igor_karkaroff,character:lord_voldemort,ASSOCIATED_WITH,dataset,high,,formerly
 character:igor_karkaroff,org:durmstrang_institute,MEMBER_OF,dataset,high,,formerly
 character:silvanus_kettleburn,house:hufflepuff,HOUSE,dataset,high,,
 character:silvanus_kettleburn,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
@@ -316,57 +308,57 @@ character:andrew_kirke,house:gryffindor,HOUSE,dataset,high,,
 character:andrew_kirke,org:gryffindor_quidditch_team,MEMBER_OF,dataset,high,,
 character:andrew_kirke,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:kreacher,family:house_of_black_formerly,FAMILY_MEMBER,dataset,high,,family named in the source's house field
-character:viktor_krum,org:bulgarian_national_quidditch_team,MEMBER_OF,dataset,high,,
-character:viktor_krum,org:death_eaters,MEMBER_OF,dataset,high,,Imperiused
 character:viktor_krum,org:durmstrang_institute,MEMBER_OF,dataset,high,,
+character:viktor_krum,org:death_eaters,MEMBER_OF,dataset,high,,Imperiused
+character:viktor_krum,org:bulgarian_national_quidditch_team,MEMBER_OF,dataset,high,,
 character:lachlan_the_lanky,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:lancelot_healer,family:prewett_family,FAMILY_MEMBER,dataset,high,,possibly
 character:lancelot_healer,org:st_mungo_s_hospital_for_magical_maladies_and_injuries,MEMBER_OF,dataset,high,,
 character:lestrange,house:slytherin,HOUSE,dataset,high,,
-character:lestrange,org:slug_club,MEMBER_OF,dataset,high,,
 character:lestrange,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:lestrange,org:slug_club,MEMBER_OF,dataset,high,,
 character:rabastan_lestrange,character:lord_voldemort,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:rabastan_lestrange,org:death_eaters,MEMBER_OF,dataset,high,,
 character:alexei_levski,org:bulgarian_national_quidditch_team,MEMBER_OF,dataset,high,,
 character:gilderoy_lockhart,house:ravenclaw,HOUSE,dataset,high,,
 character:gilderoy_lockhart,org:order_of_merlin,MEMBER_OF,dataset,high,,
-character:gilderoy_lockhart,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,formerly
 character:gilderoy_lockhart,org:ravenclaw_quidditch_team,MEMBER_OF,dataset,high,,
 character:gilderoy_lockhart,org:st_mungo_s_hospital_for_magical_maladies_and_injuries,MEMBER_OF,dataset,high,,
+character:gilderoy_lockhart,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,formerly
 character:frank_longbottom,house:gryffindor,HOUSE,dataset,high,,
-character:frank_longbottom,family:longbottom_family,FAMILY_MEMBER,dataset,high,,
-character:frank_longbottom,org:ministry_of_magic,MEMBER_OF,dataset,high,,formerly
 character:frank_longbottom,org:auror_office,MEMBER_OF,dataset,high,,
+character:frank_longbottom,family:longbottom_family,FAMILY_MEMBER,dataset,high,,
 character:frank_longbottom,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,formerly
+character:frank_longbottom,org:ministry_of_magic,MEMBER_OF,dataset,high,,formerly
 character:neville_longbottom,house:gryffindor,HOUSE,dataset,high,,
-character:neville_longbottom,org:slug_club,MEMBER_OF,dataset,high,,briefly
-character:neville_longbottom,org:auror_department,MEMBER_OF,dataset,high,,formerly
 character:neville_longbottom,org:s_p_e_w,MEMBER_OF,dataset,high,,
 character:neville_longbottom,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
-character:neville_longbottom,character:harry_potter,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:neville_longbottom,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
-character:neville_longbottom,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
-character:neville_longbottom,family:longbottom_family,FAMILY_MEMBER,dataset,high,,
+character:neville_longbottom,character:harry_potter,ASSOCIATED_WITH,dataset,high,,associated group in source
+character:neville_longbottom,org:slug_club,MEMBER_OF,dataset,high,,briefly
+character:neville_longbottom,org:auror_department,MEMBER_OF,dataset,high,,formerly
 character:neville_longbottom,character:albus_dumbledore,ASSOCIATED_WITH,dataset,high,,associated group in source
+character:neville_longbottom,family:longbottom_family,FAMILY_MEMBER,dataset,high,,
 character:neville_longbottom,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:neville_longbottom,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:xenophilius_lovegood,house:ravenclaw,HOUSE,dataset,high,,
-character:xenophilius_lovegood,family:lovegood_family,FAMILY_MEMBER,dataset,high,,
 character:xenophilius_lovegood,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
 character:xenophilius_lovegood,org:the_quibbler,MEMBER_OF,dataset,high,,
-character:xenophilius_lovegood,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:xenophilius_lovegood,character:harry_potter,ASSOCIATED_WITH,dataset,high,,associated group in source
-character:lyall_lupin,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
-character:lyall_lupin,family:lupin_family,FAMILY_MEMBER,dataset,high,,
+character:xenophilius_lovegood,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:xenophilius_lovegood,family:lovegood_family,FAMILY_MEMBER,dataset,high,,
 character:lyall_lupin,org:department_for_the_regulation_and_control_of_magical_creatures,MEMBER_OF,dataset,high,,
+character:lyall_lupin,family:lupin_family,FAMILY_MEMBER,dataset,high,,
 character:lyall_lupin,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:lyall_lupin,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:remus_lupin,house:gryffindor,HOUSE,dataset,high,,
-character:remus_lupin,family:lupin_family,FAMILY_MEMBER,dataset,high,,
-character:remus_lupin,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
-character:remus_lupin,character:marauders,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:remus_lupin,family:tonks_family,FAMILY_MEMBER,dataset,high,,
-character:remus_lupin,family:potter_family,FAMILY_MEMBER,dataset,high,,
 character:remus_lupin,org:advance_guard,MEMBER_OF,dataset,high,,
+character:remus_lupin,family:potter_family,FAMILY_MEMBER,dataset,high,,
+character:remus_lupin,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
+character:remus_lupin,family:lupin_family,FAMILY_MEMBER,dataset,high,,
 character:remus_lupin,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:remus_lupin,character:marauders,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:edward_lupin,house:hufflepuff,HOUSE,dataset,high,,
 character:edward_lupin,family:tonks_family,FAMILY_MEMBER,dataset,high,,
 character:edward_lupin,family:lupin_family,FAMILY_MEMBER,dataset,high,,
@@ -374,24 +366,24 @@ character:edward_lupin,family:potter_family,FAMILY_MEMBER,dataset,high,,
 character:edward_lupin,family:weasley_family,FAMILY_MEMBER,dataset,high,,
 character:edward_lupin,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:ernest_macmillan,house:hufflepuff,HOUSE,dataset,high,,
-character:ernest_macmillan,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
 character:ernest_macmillan,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:ernest_macmillan,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
 character:walden_macnair,character:lord_voldemort,ASSOCIATED_WITH,dataset,high,,associated group in source
-character:walden_macnair,org:death_eaters,MEMBER_OF,dataset,high,,
 character:walden_macnair,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,formerly
-character:magorian,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:walden_macnair,org:death_eaters,MEMBER_OF,dataset,high,,
 character:magorian,org:forbidden_forest_centaur_colony,MEMBER_OF,dataset,high,,
+character:magorian,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:abraxas_malfoy,house:slytherin,HOUSE,dataset,high,,
-character:abraxas_malfoy,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:abraxas_malfoy,family:malfoy_family,FAMILY_MEMBER,dataset,high,,
+character:abraxas_malfoy,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:draco_malfoy,family:malfoy_family,FAMILY_MEMBER,dataset,high,,family named in the source's house field
 character:lucius_malfoy,family:malfoy_family,FAMILY_MEMBER,dataset,high,,family named in the source's house field
 character:scorpius_malfoy,family:malfoy_family,FAMILY_MEMBER,dataset,high,,family named in the source's house field
 character:marius,org:gringotts_wizarding_bank,MEMBER_OF,dataset,high,,
 character:cormac_mclaggen,house:gryffindor,HOUSE,dataset,high,,
-character:cormac_mclaggen,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
-character:cormac_mclaggen,org:slug_club,MEMBER_OF,dataset,high,,
 character:cormac_mclaggen,org:gryffindor_quidditch_team,MEMBER_OF,dataset,high,,
+character:cormac_mclaggen,org:slug_club,MEMBER_OF,dataset,high,,
+character:cormac_mclaggen,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
 character:cormac_mclaggen,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:merlin,house:slytherin,HOUSE,dataset,high,,
 character:merlin,org:order_of_merlin,MEMBER_OF,dataset,high,,
@@ -403,95 +395,93 @@ character:graham_montague,house:slytherin,HOUSE,dataset,high,,
 character:graham_montague,org:slytherin_quidditch_team,MEMBER_OF,dataset,high,,
 character:graham_montague,org:inquisitorial_squad,MEMBER_OF,dataset,high,,
 character:graham_montague,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
-character:alastor_moody,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
-character:alastor_moody,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
-character:alastor_moody,org:advance_guard,MEMBER_OF,dataset,high,,
-character:alastor_moody,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:alastor_moody,org:auror_department,MEMBER_OF,dataset,high,,
+character:alastor_moody,org:advance_guard,MEMBER_OF,dataset,high,,
+character:alastor_moody,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
+character:alastor_moody,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:alastor_moody,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:mr_paws,character:arabella_figg,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:mr_tibbles,character:arabella_figg,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:mulciber_i,character:lord_voldemort,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:mulciber_i,org:death_eaters,MEMBER_OF,dataset,high,,
 character:eric_munch,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:nott,org:death_eaters,MEMBER_OF,dataset,high,,
-character:nott,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:nott,character:lord_voldemort,ASSOCIATED_WITH,dataset,high,,associated group in source
+character:nott,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:theodore_nott,house:slytherin,HOUSE,dataset,high,,
-character:theodore_nott,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:theodore_nott,org:death_eaters,MEMBER_OF,dataset,high,,indirectly
+character:theodore_nott,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:oblansk,org:bulgarian_national_quidditch_team,MEMBER_OF,dataset,high,,
-character:roberts_obliviator,org:ministry_of_magic,MEMBER_OF,dataset,high,,
-character:bob_ogden,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:bob_ogden,org:department_of_magical_law_enforcement,MEMBER_OF,dataset,high,,
-character:tiberius_ogden,org:wizengamot,MEMBER_OF,dataset,high,,formally
+character:bob_ogden,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:tiberius_ogden,org:ministry_of_magic,MEMBER_OF,dataset,high,,
+character:tiberius_ogden,org:wizengamot,MEMBER_OF,dataset,high,,formally
 character:ogg,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:garrick_ollivander,house:ravenclaw,HOUSE,dataset,high,,
 character:garrick_ollivander,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:garrick_ollivander,character:harry_potter,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:painting_of_sinister_looking_monks,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
-character:patil_twins_father,family:patil_family,FAMILY_MEMBER,dataset,high,,
 character:jimmy_peakes,house:gryffindor,HOUSE,dataset,high,,
-character:jimmy_peakes,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:jimmy_peakes,org:gryffindor_quidditch_team,MEMBER_OF,dataset,high,,
+character:jimmy_peakes,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:arnold_peasegood,org:ministry_of_magic,MEMBER_OF,dataset,high,,
+character:peeves,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,during the Battle of Hogwarts
 character:peeves,org:dumbledore_s_army,MEMBER_OF,dataset,high,,during the Battle of Hogwarts
 character:peeves,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
-character:peeves,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,during the Battle of Hogwarts
 character:perkins,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:peter_pettigrew,house:gryffindor,HOUSE,dataset,high,,
-character:peter_pettigrew,character:lord_voldemort,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:peter_pettigrew,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,betrayed
+character:peter_pettigrew,character:lord_voldemort,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:peter_pettigrew,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,formerly
-character:peter_pettigrew,character:marauders,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:peter_pettigrew,family:weasley_family,FAMILY_MEMBER,dataset,high,,as Scabbers) (formerly
+character:peter_pettigrew,character:marauders,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:peter_pettigrew,org:death_eaters,MEMBER_OF,dataset,high,,
 character:antioch_peverell,family:peverell_family,FAMILY_MEMBER,dataset,high,,
 character:cadmus_peverell,family:peverell_family,FAMILY_MEMBER,dataset,high,,
 character:ignotus_peverell,family:peverell_family,FAMILY_MEMBER,dataset,high,,
 character:pigwidgeon,character:ronald_weasley,ASSOCIATED_WITH,dataset,high,,owner
-character:sturgis_podmore,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
 character:sturgis_podmore,org:advance_guard,MEMBER_OF,dataset,high,,
+character:sturgis_podmore,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
 character:poliakoff,org:durmstrang_institute,MEMBER_OF,dataset,high,,
 character:piers_polkiss,character:dudley_dursley,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:albus_potter,house:slytherin,HOUSE,dataset,high,,
-character:albus_potter,family:potter_family,FAMILY_MEMBER,dataset,high,,
 character:albus_potter,family:weasley_family,FAMILY_MEMBER,dataset,high,,
+character:albus_potter,family:potter_family,FAMILY_MEMBER,dataset,high,,
 character:albus_potter,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:fleamont_potter,house:gryffindor,HOUSE,dataset,high,,
 character:fleamont_potter,family:potter_family,FAMILY_MEMBER,dataset,high,,
-character:fleamont_potter,family:peverell_family,FAMILY_MEMBER,dataset,high,,
 character:fleamont_potter,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:fleamont_potter,family:peverell_family,FAMILY_MEMBER,dataset,high,,
 character:harry_potter,house:gryffindor,HOUSE,dataset,high,,
 character:harry_potter,org:s_p_e_w,MEMBER_OF,dataset,high,,
-character:harry_potter,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
-character:harry_potter,org:gryffindor_quidditch_team,MEMBER_OF,dataset,high,,
-character:harry_potter,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
-character:harry_potter,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
-character:harry_potter,character:albus_dumbledore,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:harry_potter,org:auror_office,MEMBER_OF,dataset,high,,
-character:harry_potter,org:slug_club,MEMBER_OF,dataset,high,,
+character:harry_potter,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
 character:harry_potter,family:potter_family,FAMILY_MEMBER,dataset,high,,
+character:harry_potter,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
 character:harry_potter,family:weasley_family,FAMILY_MEMBER,dataset,high,,
-character:harry_potter,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:harry_potter,org:department_of_magical_law_enforcement,MEMBER_OF,dataset,high,,
+character:harry_potter,character:albus_dumbledore,ASSOCIATED_WITH,dataset,high,,associated group in source
+character:harry_potter,org:gryffindor_quidditch_team,MEMBER_OF,dataset,high,,
+character:harry_potter,org:slug_club,MEMBER_OF,dataset,high,,
+character:harry_potter,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:harry_potter,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:james_potter_i,house:gryffindor,HOUSE,dataset,high,,
-character:james_potter_i,family:evans_family,FAMILY_MEMBER,dataset,high,,
-character:james_potter_i,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
-character:james_potter_i,family:potter_family,FAMILY_MEMBER,dataset,high,,
 character:james_potter_i,org:gryffindor_quidditch_team,MEMBER_OF,dataset,high,,
+character:james_potter_i,family:evans_family,FAMILY_MEMBER,dataset,high,,
+character:james_potter_i,family:potter_family,FAMILY_MEMBER,dataset,high,,
+character:james_potter_i,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
 character:james_potter_i,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:james_potter_i,character:marauders,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:james_potter_ii,house:gryffindor,HOUSE,dataset,high,,
-character:james_potter_ii,family:potter_family,FAMILY_MEMBER,dataset,high,,
 character:james_potter_ii,family:weasley_family,FAMILY_MEMBER,dataset,high,,
+character:james_potter_ii,family:potter_family,FAMILY_MEMBER,dataset,high,,
 character:james_potter_ii,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
-character:ernest_prang,org:knight_bus,MEMBER_OF,dataset,high,,
 character:ernest_prang,character:albus_dumbledore,ASSOCIATED_WITH,dataset,high,,associated group in source
-character:fabian_prewett,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
+character:ernest_prang,org:knight_bus,MEMBER_OF,dataset,high,,
 character:fabian_prewett,family:prewett_family,FAMILY_MEMBER,dataset,high,,
-character:gideon_prewett,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
+character:fabian_prewett,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
 character:gideon_prewett,family:prewett_family,FAMILY_MEMBER,dataset,high,,
+character:gideon_prewett,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
 character:apollyon_pringle,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:graham_pritchard,house:slytherin,HOUSE,dataset,high,,
 character:graham_pritchard,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
@@ -507,61 +497,61 @@ character:urquhart_rackharrow,org:st_mungo_s_hospital_for_magical_maladies_and_i
 character:ragnok,org:gringotts_wizarding_bank,MEMBER_OF,dataset,high,,
 character:thomas_riddle,family:riddle_family,FAMILY_MEMBER,dataset,high,,
 character:lord_voldemort,house:slytherin,HOUSE,dataset,high,,
-character:lord_voldemort,org:borgin_and_burkes,MEMBER_OF,dataset,high,,
 character:lord_voldemort,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,only under his control
+character:lord_voldemort,org:borgin_and_burkes,MEMBER_OF,dataset,high,,
 character:lord_voldemort,org:slug_club,MEMBER_OF,dataset,high,,
 character:lord_voldemort,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,formerly
 character:lord_voldemort,org:death_eaters,MEMBER_OF,dataset,high,,
 character:tom_riddle_senior,family:riddle_family,FAMILY_MEMBER,dataset,high,,
 character:ripper,character:marjorie_dursley,ASSOCIATED_WITH,dataset,high,,associated group in source
-character:gawain_robards,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:gawain_robards,org:auror_office,MEMBER_OF,dataset,high,,
 character:gawain_robards,org:department_of_magical_law_enforcement,MEMBER_OF,dataset,high,,
-character:ronan,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:gawain_robards,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:ronan,org:forbidden_forest_centaur_colony,MEMBER_OF,dataset,high,,
+character:ronan,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:augustus_rookwood,character:lord_voldemort,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:augustus_rookwood,org:department_of_mysteries,MEMBER_OF,dataset,high,,formerly
-character:augustus_rookwood,org:death_eaters,MEMBER_OF,dataset,high,,
 character:augustus_rookwood,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,formerly
+character:augustus_rookwood,org:death_eaters,MEMBER_OF,dataset,high,,
 character:rosier_male,character:lord_voldemort,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:rosier_male,org:death_eaters,MEMBER_OF,dataset,high,,
 character:evan_rosier,house:slytherin,HOUSE,dataset,high,,
-character:evan_rosier,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:evan_rosier,org:death_eaters,MEMBER_OF,dataset,high,,
+character:evan_rosier,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:thorfinn_rowle,character:lord_voldemort,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:thorfinn_rowle,org:death_eaters,MEMBER_OF,dataset,high,,
 character:scabior,house:slytherin,HOUSE,dataset,high,,
-character:scabior,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,formerly
 character:scabior,org:snatchers,MEMBER_OF,dataset,high,,
+character:scabior,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,formerly
 character:newton_scamander,house:hufflepuff,HOUSE,dataset,high,,
-character:newton_scamander,org:order_of_merlin,MEMBER_OF,dataset,high,,
-character:newton_scamander,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
-character:newton_scamander,character:albus_dumbledore,ASSOCIATED_WITH,dataset,high,,associated group in source
-character:newton_scamander,org:department_for_the_regulation_and_control_of_magical_creatures,MEMBER_OF,dataset,high,,
 character:newton_scamander,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:newton_scamander,org:department_for_the_regulation_and_control_of_magical_creatures,MEMBER_OF,dataset,high,,
+character:newton_scamander,org:order_of_merlin,MEMBER_OF,dataset,high,,
+character:newton_scamander,character:albus_dumbledore,ASSOCIATED_WITH,dataset,high,,associated group in source
+character:newton_scamander,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:scouthibou,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
-character:rufus_scrimgeour,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:rufus_scrimgeour,org:auror_office,MEMBER_OF,dataset,high,,
+character:rufus_scrimgeour,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:selwyn,house:slytherin,HOUSE,dataset,medium,,house uncertain in source
 character:selwyn,character:lord_voldemort,ASSOCIATED_WITH,dataset,high,,associated group in source
-character:selwyn,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:selwyn,org:death_eaters,MEMBER_OF,dataset,high,,
-character:kingsley_shacklebolt,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
+character:selwyn,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:kingsley_shacklebolt,org:auror_department,MEMBER_OF,dataset,high,,formerly
-character:kingsley_shacklebolt,org:potterwatch,MEMBER_OF,dataset,high,,
-character:kingsley_shacklebolt,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
 character:kingsley_shacklebolt,org:advance_guard,MEMBER_OF,dataset,high,,
+character:kingsley_shacklebolt,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
+character:kingsley_shacklebolt,org:potterwatch,MEMBER_OF,dataset,high,,
 character:kingsley_shacklebolt,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
-character:stanley_shunpike,org:knight_bus,MEMBER_OF,dataset,high,,
+character:kingsley_shacklebolt,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:stanley_shunpike,org:death_eaters,MEMBER_OF,dataset,high,,Imperiused
+character:stanley_shunpike,org:knight_bus,MEMBER_OF,dataset,high,,
 character:jack_sloper,house:gryffindor,HOUSE,dataset,high,,
-character:jack_sloper,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:jack_sloper,org:gryffindor_quidditch_team,MEMBER_OF,dataset,high,,
+character:jack_sloper,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:horace_slughorn,house:slytherin,HOUSE,dataset,high,,
-character:horace_slughorn,org:dumbledore_s_army,MEMBER_OF,dataset,high,,during the Battle of Hogwarts
-character:horace_slughorn,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,during the Battle of Hogwarts
 character:horace_slughorn,org:slug_club,MEMBER_OF,dataset,high,,
 character:horace_slughorn,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:horace_slughorn,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,during the Battle of Hogwarts
+character:horace_slughorn,org:dumbledore_s_army,MEMBER_OF,dataset,high,,during the Battle of Hogwarts
 character:salazar_slytherin,house:slytherin,HOUSE,dataset,high,,
 character:salazar_slytherin,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:hippocrates_smethwyck,org:st_mungo_s_hospital_for_magical_maladies_and_injuries,MEMBER_OF,dataset,high,,
@@ -570,31 +560,33 @@ character:zacharias_smith,org:dumbledore_s_army,MEMBER_OF,dataset,high,,abandone
 character:zacharias_smith,org:hufflepuff_quidditch_team,MEMBER_OF,dataset,high,,
 character:zacharias_smith,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,abandoned
 character:severus_snape,house:slytherin,HOUSE,dataset,high,,
-character:severus_snape,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
 character:severus_snape,character:lily_j_potter,ASSOCIATED_WITH,dataset,high,,associated group in source
-character:severus_snape,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:severus_snape,character:lord_voldemort,ASSOCIATED_WITH,dataset,high,,formerly
-character:severus_snape,org:death_eaters,MEMBER_OF,dataset,high,,defected
+character:severus_snape,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
 character:severus_snape,character:harry_potter,ASSOCIATED_WITH,dataset,high,,associated group in source
-character:severus_snape,character:albus_dumbledore,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:severus_snape,family:snape_family,FAMILY_MEMBER,dataset,high,,
+character:severus_snape,character:albus_dumbledore,ASSOCIATED_WITH,dataset,high,,associated group in source
+character:severus_snape,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:severus_snape,org:death_eaters,MEMBER_OF,dataset,high,,defected
 character:severus_snape,family:prince_family,FAMILY_MEMBER,dataset,high,,
 character:tobias_snape,family:snape_family,FAMILY_MEMBER,dataset,high,,
 character:tobias_snape,family:prince_family,FAMILY_MEMBER,dataset,high,,
+character:stebbins,house:hufflepuff,HOUSE,dataset,high,,
+character:stebbins,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:stunned_death_eater,character:lord_voldemort,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:stunned_death_eater,org:death_eaters,MEMBER_OF,dataset,high,,
 character:summers,house:hufflepuff,HOUSE,dataset,high,,
 character:summers,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:teffington,org:gringotts_wizarding_bank,MEMBER_OF,dataset,high,,
-character:tenebrus,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:tenebrus,character:rubeus_hagrid,ASSOCIATED_WITH,dataset,high,,associated group in source
-character:pius_thicknesse,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
-character:pius_thicknesse,org:death_eaters,MEMBER_OF,dataset,high,,Imperiused
+character:tenebrus,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:pius_thicknesse,org:department_of_magical_law_enforcement,MEMBER_OF,dataset,high,,
+character:pius_thicknesse,org:death_eaters,MEMBER_OF,dataset,high,,Imperiused
+character:pius_thicknesse,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:thomas_vace,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:dean_thomas,house:gryffindor,HOUSE,dataset,high,,
-character:dean_thomas,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
 character:dean_thomas,org:gryffindor_quidditch_team,MEMBER_OF,dataset,high,,
+character:dean_thomas,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
 character:dean_thomas,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:orsino_thruston,org:weird_sisters,MEMBER_OF,dataset,high,,
 character:tiberius,org:slug_club,MEMBER_OF,dataset,high,,formerly
@@ -610,8 +602,8 @@ character:travers,org:death_eaters,MEMBER_OF,dataset,high,,
 character:donaghan_tremlett,org:the_weird_sisters,MEMBER_OF,dataset,high,,
 character:trevor,character:neville_longbottom,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:quentin_trimble,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
-character:wilkie_twycross,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:wilkie_twycross,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:wilkie_twycross,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:uric_the_oddball,house:ravenclaw,HOUSE,dataset,high,,
 character:uric_the_oddball,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:urquhart,house:slytherin,HOUSE,dataset,high,,
@@ -623,90 +615,90 @@ character:vaisey,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,datase
 character:vindictus_viridian,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:ivan_volkov,org:bulgarian_national_quidditch_team,MEMBER_OF,dataset,high,,
 character:pyotr_vulchanov,org:bulgarian_national_quidditch_team,MEMBER_OF,dataset,high,,
-character:myron_wagtail,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:myron_wagtail,org:the_weird_sisters,MEMBER_OF,dataset,high,,
+character:myron_wagtail,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:cassius_warrington,house:slytherin,HOUSE,dataset,high,,
-character:cassius_warrington,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:cassius_warrington,org:slytherin_quidditch_team,MEMBER_OF,dataset,high,,
 character:cassius_warrington,org:inquisitorial_squad,MEMBER_OF,dataset,high,,
+character:cassius_warrington,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:weasley_family_ghoul,family:weasley_family,FAMILY_MEMBER,dataset,high,,
 character:arthur_weasley,house:gryffindor,HOUSE,dataset,high,,
-character:arthur_weasley,family:prewett_family,FAMILY_MEMBER,dataset,high,,
 character:arthur_weasley,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
-character:arthur_weasley,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:arthur_weasley,family:potter_family,FAMILY_MEMBER,dataset,high,,
 character:arthur_weasley,family:weasley_family,FAMILY_MEMBER,dataset,high,,
-character:arthur_weasley,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:arthur_weasley,org:department_of_magical_law_enforcement,MEMBER_OF,dataset,high,,
+character:arthur_weasley,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:arthur_weasley,family:prewett_family,FAMILY_MEMBER,dataset,high,,
+character:arthur_weasley,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:charles_weasley,house:gryffindor,HOUSE,dataset,high,,
-character:charles_weasley,family:prewett_family,FAMILY_MEMBER,dataset,high,,
-character:charles_weasley,org:romanian_dragon_sanctuary,MEMBER_OF,dataset,high,,
 character:charles_weasley,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
-character:charles_weasley,org:gryffindor_quidditch_team,MEMBER_OF,dataset,high,,
-character:charles_weasley,org:circle_of_khanna,MEMBER_OF,dataset,high,,
 character:charles_weasley,family:weasley_family,FAMILY_MEMBER,dataset,high,,
+character:charles_weasley,org:circle_of_khanna,MEMBER_OF,dataset,high,,
+character:charles_weasley,org:romanian_dragon_sanctuary,MEMBER_OF,dataset,high,,
+character:charles_weasley,org:gryffindor_quidditch_team,MEMBER_OF,dataset,high,,
 character:charles_weasley,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:charles_weasley,family:prewett_family,FAMILY_MEMBER,dataset,high,,
 character:fred_weasley,house:gryffindor,HOUSE,dataset,high,,
-character:fred_weasley,family:prewett_family,FAMILY_MEMBER,dataset,high,,
 character:fred_weasley,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
-character:fred_weasley,org:gryffindor_quidditch_team,MEMBER_OF,dataset,high,,
 character:fred_weasley,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
-character:fred_weasley,org:potterwatch,MEMBER_OF,dataset,high,,
 character:fred_weasley,org:weasleys_wizard_wheezes,MEMBER_OF,dataset,high,,
-character:fred_weasley,org:circle_of_khanna,MEMBER_OF,dataset,high,,
 character:fred_weasley,family:weasley_family,FAMILY_MEMBER,dataset,high,,
+character:fred_weasley,org:potterwatch,MEMBER_OF,dataset,high,,
+character:fred_weasley,org:circle_of_khanna,MEMBER_OF,dataset,high,,
+character:fred_weasley,org:gryffindor_quidditch_team,MEMBER_OF,dataset,high,,
 character:fred_weasley,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:fred_weasley,family:prewett_family,FAMILY_MEMBER,dataset,high,,
 character:george_weasley,house:gryffindor,HOUSE,dataset,high,,
-character:george_weasley,family:prewett_family,FAMILY_MEMBER,dataset,high,,
 character:george_weasley,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
-character:george_weasley,org:gryffindor_quidditch_team,MEMBER_OF,dataset,high,,
 character:george_weasley,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
 character:george_weasley,org:weasleys_wizard_wheezes,MEMBER_OF,dataset,high,,
-character:george_weasley,org:circle_of_khanna,MEMBER_OF,dataset,high,,
 character:george_weasley,family:weasley_family,FAMILY_MEMBER,dataset,high,,
+character:george_weasley,org:circle_of_khanna,MEMBER_OF,dataset,high,,
+character:george_weasley,org:gryffindor_quidditch_team,MEMBER_OF,dataset,high,,
 character:george_weasley,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
-character:hugo_granger_weasley,family:potter_family,FAMILY_MEMBER,dataset,high,,
+character:george_weasley,family:prewett_family,FAMILY_MEMBER,dataset,high,,
 character:hugo_granger_weasley,family:weasley_family,FAMILY_MEMBER,dataset,high,,
 character:hugo_granger_weasley,family:prewett_family,FAMILY_MEMBER,dataset,high,,
+character:hugo_granger_weasley,family:potter_family,FAMILY_MEMBER,dataset,high,,
 character:hugo_granger_weasley,family:granger_family,FAMILY_MEMBER,dataset,high,,
 character:percy_weasley,house:gryffindor,HOUSE,dataset,high,,
-character:percy_weasley,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:percy_weasley,org:department_of_magical_transportation,MEMBER_OF,dataset,high,,
 character:percy_weasley,family:prewett_family,FAMILY_MEMBER,dataset,high,,
-character:percy_weasley,family:weasley_family,FAMILY_MEMBER,dataset,high,,
 character:percy_weasley,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:percy_weasley,family:weasley_family,FAMILY_MEMBER,dataset,high,,
+character:percy_weasley,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:ronald_weasley,house:gryffindor,HOUSE,dataset,high,,
-character:ronald_weasley,family:prewett_family,FAMILY_MEMBER,dataset,high,,
 character:ronald_weasley,org:s_p_e_w,MEMBER_OF,dataset,high,,
-character:ronald_weasley,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
-character:ronald_weasley,org:gryffindor_quidditch_team,MEMBER_OF,dataset,high,,
 character:ronald_weasley,org:auror_department,MEMBER_OF,dataset,high,,
-character:ronald_weasley,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
-character:ronald_weasley,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
-character:ronald_weasley,org:chudley_cannons,MEMBER_OF,dataset,high,,
-character:ronald_weasley,org:weasleys_wizard_wheezes,MEMBER_OF,dataset,high,,
 character:ronald_weasley,family:potter_family,FAMILY_MEMBER,dataset,high,,
-character:ronald_weasley,family:weasley_family,FAMILY_MEMBER,dataset,high,,
-character:ronald_weasley,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:ronald_weasley,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
 character:ronald_weasley,family:granger_family,FAMILY_MEMBER,dataset,high,,
+character:ronald_weasley,family:weasley_family,FAMILY_MEMBER,dataset,high,,
+character:ronald_weasley,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
+character:ronald_weasley,org:weasleys_wizard_wheezes,MEMBER_OF,dataset,high,,
+character:ronald_weasley,org:chudley_cannons,MEMBER_OF,dataset,high,,
+character:ronald_weasley,org:gryffindor_quidditch_team,MEMBER_OF,dataset,high,,
+character:ronald_weasley,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:ronald_weasley,family:prewett_family,FAMILY_MEMBER,dataset,high,,
+character:ronald_weasley,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:bill_weasley,house:gryffindor,HOUSE,dataset,high,,
-character:bill_weasley,org:gringotts_wizarding_bank,MEMBER_OF,dataset,high,,
-character:bill_weasley,family:prewett_family,FAMILY_MEMBER,dataset,high,,
 character:bill_weasley,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
-character:bill_weasley,family:delacour_family,FAMILY_MEMBER,dataset,high,,
-character:bill_weasley,org:circle_of_khanna,MEMBER_OF,dataset,high,,
+character:bill_weasley,org:gringotts_wizarding_bank,MEMBER_OF,dataset,high,,
 character:bill_weasley,family:weasley_family,FAMILY_MEMBER,dataset,high,,
+character:bill_weasley,org:circle_of_khanna,MEMBER_OF,dataset,high,,
 character:bill_weasley,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:bill_weasley,family:delacour_family,FAMILY_MEMBER,dataset,high,,
+character:bill_weasley,family:prewett_family,FAMILY_MEMBER,dataset,high,,
 character:kevin_whitby,house:hufflepuff,HOUSE,dataset,high,,
 character:willy_widdershins,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:wilfred_the_wistful,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
-character:williamson,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:williamson,org:auror_department,MEMBER_OF,dataset,high,,
+character:williamson,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:gilbert_wimple,org:ministry_of_magic,MEMBER_OF,dataset,high,,
 character:herman_wintringham,org:weird_sisters,MEMBER_OF,dataset,high,,
 character:oliver_wood,house:gryffindor,HOUSE,dataset,high,,
-character:oliver_wood,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:oliver_wood,org:gryffindor_quidditch_team,MEMBER_OF,dataset,high,,
+character:oliver_wood,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:oliver_wood,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,during the Battle of Hogwarts
 character:hengist_of_woodcroft,house:hufflepuff,HOUSE,dataset,high,,
 character:hengist_of_woodcroft,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
@@ -714,53 +706,49 @@ character:eldred_worple,org:slug_club,MEMBER_OF,dataset,high,,
 character:eldred_worple,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:blaise_zabini,house:slytherin,HOUSE,dataset,high,,
 character:blaise_zabini,org:slytherin_quidditch_team,MEMBER_OF,dataset,high,,
-character:blaise_zabini,org:draco_malfoy_s_gang,MEMBER_OF,dataset,high,,formerly
 character:blaise_zabini,org:slug_club,MEMBER_OF,dataset,high,,
 character:blaise_zabini,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:blaise_zabini,org:draco_malfoy_s_gang,MEMBER_OF,dataset,high,,formerly
 character:lev_zograf,org:bulgarian_national_quidditch_team,MEMBER_OF,dataset,high,,
 character:hannah_abbott,house:hufflepuff,HOUSE,dataset,high,,
-character:hannah_abbott,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
-character:hannah_abbott,org:leaky_cauldron,MEMBER_OF,dataset,high,,
 character:hannah_abbott,family:longbottom_family,FAMILY_MEMBER,dataset,high,,
+character:hannah_abbott,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
 character:hannah_abbott,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:hannah_abbott,org:leaky_cauldron,MEMBER_OF,dataset,high,,
 character:agnes,org:st_mungo_s_hospital_for_magical_maladies_and_injuries,MEMBER_OF,dataset,high,,
 character:millicent_bagnold,house:ravenclaw,HOUSE,dataset,high,,
-character:millicent_bagnold,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:millicent_bagnold,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:millicent_bagnold,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
+character:bathilda_bagshot,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:bathilda_bagshot,family:potter_family,FAMILY_MEMBER,dataset,high,,
 character:bathilda_bagshot,family:dumbledore_family,FAMILY_MEMBER,dataset,high,,
-character:bathilda_bagshot,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:katie_bell,house:gryffindor,HOUSE,dataset,high,,
+character:katie_bell,org:gryffindor_quidditch_team,MEMBER_OF,dataset,high,,
 character:katie_bell,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
 character:katie_bell,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
-character:katie_bell,org:gryffindor_quidditch_team,MEMBER_OF,dataset,high,,
 character:elladora_black,family:house_of_black,FAMILY_MEMBER,dataset,high,,family named in the source's house field
 character:walburga_black,family:house_of_black,FAMILY_MEMBER,dataset,high,,family named in the source's house field
-character:amelia_bones_mother,house:hufflepuff,HOUSE,dataset,high,,
-character:amelia_bones_mother,family:bones_family,FAMILY_MEMBER,dataset,high,,
-character:edgar_bones_wife,family:bones_family,FAMILY_MEMBER,dataset,high,,
-character:amelia_bones,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,indirectly
 character:amelia_bones,org:wizengamot,MEMBER_OF,dataset,high,,
 character:amelia_bones,org:ministry_of_magic,MEMBER_OF,dataset,high,,
 character:amelia_bones,org:department_of_magical_law_enforcement,MEMBER_OF,dataset,high,,
+character:amelia_bones,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,indirectly
 character:susan_bones,house:hufflepuff,HOUSE,dataset,high,,
 character:susan_bones,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
 character:susan_bones,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
-character:susan_bones,family:bones_family,FAMILY_MEMBER,dataset,high,,
 character:betty_braithwaite,org:daily_prophet,MEMBER_OF,dataset,high,,
 character:eleanor_branstone,house:hufflepuff,HOUSE,dataset,high,,
 character:eleanor_branstone,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
-character:rita_skeeter,org:the_quibbler,MEMBER_OF,dataset,high,,
 character:rita_skeeter,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,indirectly
+character:rita_skeeter,org:the_quibbler,MEMBER_OF,dataset,high,,
 character:rita_skeeter,org:daily_prophet,MEMBER_OF,dataset,high,,
 character:mandy_brocklehurst,house:ravenclaw,HOUSE,dataset,high,,
 character:mandy_brocklehurst,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:lavender_brown,house:gryffindor,HOUSE,dataset,high,,
-character:lavender_brown,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
 character:lavender_brown,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:lavender_brown,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
 character:millicent_bulstrode,house:slytherin,HOUSE,dataset,high,,
-character:millicent_bulstrode,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:millicent_bulstrode,org:inquisitorial_squad,MEMBER_OF,dataset,high,,
+character:millicent_bulstrode,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:charity_burbage,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:alecto_carrow,character:lord_voldemort,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:alecto_carrow,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
@@ -771,22 +759,21 @@ character:mary_cattermole,family:cattermole_family,FAMILY_MEMBER,dataset,high,,
 character:cecilia,family:riddle_family,FAMILY_MEMBER,dataset,high,,
 character:cho_chang,house:ravenclaw,HOUSE,dataset,high,,
 character:cho_chang,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
-character:cho_chang,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:cho_chang,org:ravenclaw_quidditch_team,MEMBER_OF,dataset,high,,
+character:cho_chang,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:penelope_clearwater,house:ravenclaw,HOUSE,dataset,high,,
 character:penelope_clearwater,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:elfrida_cragg,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:doris_crockford,org:leaky_cauldron,MEMBER_OF,dataset,high,,
-character:delacour_sisters_cousins,family:delacour_family,FAMILY_MEMBER,dataset,high,,
 character:apolline_delacour,family:delacour_family,FAMILY_MEMBER,dataset,high,,
 character:fleur_delacour,org:gringotts_wizarding_bank,MEMBER_OF,dataset,high,,
-character:fleur_delacour,org:beauxbatons_academy_of_magic,MEMBER_OF,dataset,high,,
 character:fleur_delacour,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
+character:fleur_delacour,character:harry_potter,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:fleur_delacour,family:weasley_family,FAMILY_MEMBER,dataset,high,,
 character:fleur_delacour,family:delacour_family,FAMILY_MEMBER,dataset,high,,
-character:fleur_delacour,character:harry_potter,ASSOCIATED_WITH,dataset,high,,associated group in source
-character:gabrielle_delacour,org:beauxbatons_academy_of_magic,MEMBER_OF,dataset,high,,
+character:fleur_delacour,org:beauxbatons_academy_of_magic,MEMBER_OF,dataset,high,,
 character:gabrielle_delacour,family:delacour_family,FAMILY_MEMBER,dataset,high,,
+character:gabrielle_delacour,org:beauxbatons_academy_of_magic,MEMBER_OF,dataset,high,,
 character:dilys_derwent,org:st_mungo_s_hospital_for_magical_maladies_and_injuries,MEMBER_OF,dataset,high,,
 character:dilys_derwent,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:emma_dobbs,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
@@ -796,19 +783,18 @@ character:durmstrang_girl,org:durmstrang_institute,MEMBER_OF,dataset,high,,
 character:marjorie_dursley,family:dursley_family,FAMILY_MEMBER,dataset,high,,
 character:petunia_dursley,family:evans_family,FAMILY_MEMBER,dataset,high,,
 character:petunia_dursley,family:dursley_family,FAMILY_MEMBER,dataset,high,,
-character:edgecombe,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:edgecombe,org:department_of_magical_transportation,MEMBER_OF,dataset,high,,
+character:edgecombe,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:marietta_edgecombe,house:ravenclaw,HOUSE,dataset,high,,
-character:marietta_edgecombe,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
-character:marietta_edgecombe,org:dumbledore_s_army,MEMBER_OF,dataset,high,,betrayed
 character:marietta_edgecombe,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
-character:evans_sisters_mother,family:evans_family,FAMILY_MEMBER,dataset,high,,
+character:marietta_edgecombe,org:dumbledore_s_army,MEMBER_OF,dataset,high,,betrayed
+character:marietta_edgecombe,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:fat_lady,house:gryffindor,HOUSE,dataset,high,,
 character:fat_lady,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:fawcett,house:ravenclaw,HOUSE,dataset,high,,
 character:fawcett,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
-character:arabella_figg,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
 character:arabella_figg,character:albus_dumbledore,ASSOCIATED_WITH,dataset,high,,associated group in source
+character:arabella_figg,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
 character:perenelle_flamel,org:beauxbatons_academy_of_magic,MEMBER_OF,dataset,high,,
 character:florence,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:fridwulfa,family:hagrid_family,FAMILY_MEMBER,dataset,high,,
@@ -817,89 +803,89 @@ character:vicky_frobisher,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_
 character:miranda_goshawk,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:hermione_granger,house:gryffindor,HOUSE,dataset,high,,
 character:hermione_granger,org:s_p_e_w,MEMBER_OF,dataset,high,,
+character:hermione_granger,family:potter_family,FAMILY_MEMBER,dataset,high,,
+character:hermione_granger,family:granger_family,FAMILY_MEMBER,dataset,high,,
+character:hermione_granger,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
+character:hermione_granger,family:weasley_family,FAMILY_MEMBER,dataset,high,,
 character:hermione_granger,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
 character:hermione_granger,org:department_for_the_regulation_and_control_of_magical_creatures,MEMBER_OF,dataset,high,,
-character:hermione_granger,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
-character:hermione_granger,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
-character:hermione_granger,org:slug_club,MEMBER_OF,dataset,high,,
-character:hermione_granger,family:potter_family,FAMILY_MEMBER,dataset,high,,
-character:hermione_granger,family:weasley_family,FAMILY_MEMBER,dataset,high,,
-character:hermione_granger,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
-character:hermione_granger,family:granger_family,FAMILY_MEMBER,dataset,high,,
 character:hermione_granger,org:department_of_magical_law_enforcement,MEMBER_OF,dataset,high,,
+character:hermione_granger,org:slug_club,MEMBER_OF,dataset,high,,
+character:hermione_granger,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:hermione_granger,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:daphne_greengrass,house:slytherin,HOUSE,dataset,high,,
 character:daphne_greengrass,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:wilhelmina_grubbly_plank,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:curious_gryffindor_girl,house:gryffindor,HOUSE,dataset,high,,
 character:gladys_gudgeon,character:gilderoy_lockhart,ASSOCIATED_WITH,dataset,high,,associated group in source
-character:gimlet_eyed_hogwarts_headmistress,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
-character:gimlet_eyed_hogwarts_headmistress,character:albus_dumbledore,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:gimlet_eyed_hogwarts_headmistress,character:harry_potter,ASSOCIATED_WITH,dataset,high,,associated group in source
+character:gimlet_eyed_hogwarts_headmistress,character:albus_dumbledore,ASSOCIATED_WITH,dataset,high,,associated group in source
+character:gimlet_eyed_hogwarts_headmistress,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:hedwig,character:harry_potter,ASSOCIATED_WITH,dataset,high,,owner
 character:rolanda_hooch,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
-character:mafalda_hopkirk,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:mafalda_hopkirk,org:death_eaters,MEMBER_OF,dataset,high,,indirectly
+character:mafalda_hopkirk,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:olive_hornby,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:hope_howell,family:lupin_family,FAMILY_MEMBER,dataset,high,,
 character:helga_hufflepuff,house:hufflepuff,HOUSE,dataset,high,,
 character:helga_hufflepuff,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:clara_ivanova,org:bulgarian_national_quidditch_team,MEMBER_OF,dataset,high,,
 character:angelina_johnson,house:gryffindor,HOUSE,dataset,high,,
+character:angelina_johnson,org:gryffindor_quidditch_team,MEMBER_OF,dataset,high,,
 character:angelina_johnson,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
 character:angelina_johnson,family:weasley_family,FAMILY_MEMBER,dataset,high,,
 character:angelina_johnson,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
-character:angelina_johnson,org:gryffindor_quidditch_team,MEMBER_OF,dataset,high,,
-character:gwenog_jones,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:gwenog_jones,org:slug_club,MEMBER_OF,dataset,high,,
-character:hestia_jones,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
-character:hestia_jones,org:advance_guard,MEMBER_OF,dataset,high,,
+character:gwenog_jones,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:hestia_jones,character:harry_potter,ASSOCIATED_WITH,dataset,high,,associated group in source
-character:bertha_jorkins,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
+character:hestia_jones,org:advance_guard,MEMBER_OF,dataset,high,,
+character:hestia_jones,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
 character:bertha_jorkins,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:bertha_jorkins,org:daily_prophet,MEMBER_OF,dataset,high,,formerly
+character:bertha_jorkins,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:leanne,house:hufflepuff,HOUSE,dataset,high,,
 character:leanne,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
 character:leanne,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:bellatrix_lestrange,family:house_of_black,FAMILY_MEMBER,dataset,high,,family named in the source's house field
-character:alice_longbottom,org:ministry_of_magic,MEMBER_OF,dataset,high,,formerly
-character:alice_longbottom,family:longbottom_family,FAMILY_MEMBER,dataset,high,,
 character:alice_longbottom,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,formerly
 character:alice_longbottom,org:auror_office,MEMBER_OF,dataset,high,,formerly
+character:alice_longbottom,family:longbottom_family,FAMILY_MEMBER,dataset,high,,
+character:alice_longbottom,org:ministry_of_magic,MEMBER_OF,dataset,high,,formerly
 character:augusta_longbottom,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
 character:augusta_longbottom,family:longbottom_family,FAMILY_MEMBER,dataset,high,,
 character:augusta_longbottom,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:luna_lovegood,house:ravenclaw,HOUSE,dataset,high,,
+character:luna_lovegood,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:luna_lovegood,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
 character:luna_lovegood,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
-character:luna_lovegood,family:lovegood_family,FAMILY_MEMBER,dataset,high,,
 character:luna_lovegood,org:the_quibbler,MEMBER_OF,dataset,high,,
-character:luna_lovegood,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:luna_lovegood,family:lovegood_family,FAMILY_MEMBER,dataset,high,,
 character:pandora_lovegood,house:ravenclaw,HOUSE,dataset,medium,,house uncertain in source
 character:pandora_lovegood,family:lovegood_family,FAMILY_MEMBER,dataset,high,,
 character:mary_macdonald,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:morag_macdougal,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:laura_madley,house:hufflepuff,HOUSE,dataset,high,,
 character:mafalda,house:slytherin,HOUSE,dataset,high,,
-character:mafalda,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:mafalda,family:prewett_family,FAMILY_MEMBER,dataset,high,,
+character:mafalda,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:magical_menagerie_saleswoman,org:magical_menagerie,MEMBER_OF,dataset,high,,
-character:astoria_malfoy,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:astoria_malfoy,family:malfoy_family,FAMILY_MEMBER,dataset,high,,
+character:astoria_malfoy,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:narcissa_malfoy,family:house_of_black,FAMILY_MEMBER,dataset,high,,family named in the source's house field
-character:griselda_marchbanks,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:griselda_marchbanks,org:wizengamot,MEMBER_OF,dataset,high,,
-character:olympe_maxime,org:beauxbatons_academy_of_magic,MEMBER_OF,dataset,high,,
+character:griselda_marchbanks,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:olympe_maxime,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
+character:olympe_maxime,org:beauxbatons_academy_of_magic,MEMBER_OF,dataset,high,,
 character:natalie_mcdonald,house:gryffindor,HOUSE,dataset,high,,
 character:minerva_mcgonagall,house:gryffindor,HOUSE,dataset,high,,
-character:minerva_mcgonagall,org:transfiguration_department,MEMBER_OF,dataset,high,,
 character:minerva_mcgonagall,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
+character:minerva_mcgonagall,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
+character:minerva_mcgonagall,org:department_of_magical_law_enforcement,MEMBER_OF,dataset,high,,
+character:minerva_mcgonagall,character:albus_dumbledore,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:minerva_mcgonagall,org:gryffindor_quidditch_team,MEMBER_OF,dataset,high,,
 character:minerva_mcgonagall,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,formerly
-character:minerva_mcgonagall,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
-character:minerva_mcgonagall,character:albus_dumbledore,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:minerva_mcgonagall,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
-character:minerva_mcgonagall,org:department_of_magical_law_enforcement,MEMBER_OF,dataset,high,,
+character:minerva_mcgonagall,org:transfiguration_department,MEMBER_OF,dataset,high,,
 character:marlene_mckinnon,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
 character:dorcas_meadowes,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
 character:melinda_bobbin,org:slug_club,MEMBER_OF,dataset,high,,
@@ -915,25 +901,22 @@ character:muriel,family:weasley_family,FAMILY_MEMBER,dataset,high,,
 character:muriel,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,indirectly
 character:muriel,family:prewett_family,FAMILY_MEMBER,dataset,high,,
 character:nagini,character:lord_voldemort,ASSOCIATED_WITH,dataset,high,,associated group in source
-character:norberta,org:romanian_dragon_sanctuary,MEMBER_OF,dataset,high,,
-character:norberta,character:rubeus_hagrid,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:norberta,character:quirinus_quirrell,ASSOCIATED_WITH,dataset,high,,as egg
+character:norberta,character:rubeus_hagrid,ASSOCIATED_WITH,dataset,high,,associated group in source
+character:norberta,org:romanian_dragon_sanctuary,MEMBER_OF,dataset,high,,
 character:mrs_norris,character:argus_filch,ASSOCIATED_WITH,dataset,high,,owner
 character:mrs_norris,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:pansy_parkinson,house:slytherin,HOUSE,dataset,high,,
 character:pansy_parkinson,org:inquisitorial_squad,MEMBER_OF,dataset,high,,
 character:pansy_parkinson,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
-character:pansy_parkinson,org:death_eaters,MEMBER_OF,dataset,high,,unofficial
 character:pansy_parkinson,org:draco_malfoy_s_gang,MEMBER_OF,dataset,high,,
-character:patil_twins_mother,family:patil_family,FAMILY_MEMBER,dataset,high,,
+character:pansy_parkinson,org:death_eaters,MEMBER_OF,dataset,high,,unofficial
 character:padma_patil,house:ravenclaw,HOUSE,dataset,high,,
-character:padma_patil,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
 character:padma_patil,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
-character:padma_patil,family:patil_family,FAMILY_MEMBER,dataset,high,,
+character:padma_patil,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
 character:parvati_patil,house:gryffindor,HOUSE,dataset,high,,
-character:parvati_patil,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
 character:parvati_patil,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
-character:parvati_patil,family:patil_family,FAMILY_MEMBER,dataset,high,,
+character:parvati_patil,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
 character:sally_anne_perks,house:gryffindor,HOUSE,dataset,high,,
 character:sally_anne_perks,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:irma_pince,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
@@ -941,16 +924,16 @@ character:poppy_pomfrey,character:albus_dumbledore,ASSOCIATED_WITH,dataset,high,
 character:poppy_pomfrey,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:euphemia_potter,family:potter_family,FAMILY_MEMBER,dataset,high,,
 character:lily_l_potter,house:gryffindor,HOUSE,dataset,high,,
-character:lily_l_potter,family:prewett_family,FAMILY_MEMBER,dataset,high,,
 character:lily_l_potter,family:potter_family,FAMILY_MEMBER,dataset,high,,
-character:lily_l_potter,family:weasley_family,FAMILY_MEMBER,dataset,high,,
 character:lily_l_potter,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:lily_l_potter,family:weasley_family,FAMILY_MEMBER,dataset,high,,
+character:lily_l_potter,family:prewett_family,FAMILY_MEMBER,dataset,high,,
 character:lily_j_potter,house:gryffindor,HOUSE,dataset,high,,
 character:lily_j_potter,family:evans_family,FAMILY_MEMBER,dataset,high,,
-character:lily_j_potter,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
 character:lily_j_potter,family:potter_family,FAMILY_MEMBER,dataset,high,,
-character:lily_j_potter,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:lily_j_potter,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
 character:lily_j_potter,org:slug_club,MEMBER_OF,dataset,high,,
+character:lily_j_potter,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:eileen_prince,house:slytherin,HOUSE,dataset,medium,,house uncertain in source
 character:eileen_prince,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:eileen_prince,family:snape_family,FAMILY_MEMBER,dataset,high,,
@@ -964,8 +947,7 @@ character:rowena_ravenclaw,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER
 character:maisy_reynolds,house:ravenclaw,HOUSE,dataset,high,,
 character:maisy_reynolds,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:mary_riddle,family:riddle_family,FAMILY_MEMBER,dataset,high,,
-character:riddles_cook,family:riddle_family,FAMILY_MEMBER,dataset,high,,formerly
-character:riddles_maid,family:riddle_family,FAMILY_MEMBER,dataset,high,,
+character:merope_riddle,family:house_of_gaunt_abandoned,FAMILY_MEMBER,dataset,high,,family named in the source's house field
 character:demelza_robins,house:gryffindor,HOUSE,dataset,high,,
 character:demelza_robins,org:gryffindor_quidditch_team,MEMBER_OF,dataset,high,,
 character:demelza_robins,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
@@ -977,92 +959,92 @@ character:sixth_year_inquisitorial_squad_member,org:hogwarts_school_of_witchcraf
 character:enid_smeek,character:rita_skeeter,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:veronica_smethley,character:gilderoy_lockhart,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:alicia_spinnet,house:gryffindor,HOUSE,dataset,high,,
-character:alicia_spinnet,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
 character:alicia_spinnet,org:gryffindor_quidditch_team,MEMBER_OF,dataset,high,,
+character:alicia_spinnet,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
 character:alicia_spinnet,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:phyllida_spore,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:pomona_sprout,house:hufflepuff,HOUSE,dataset,high,,
-character:pomona_sprout,org:dumbledore_s_army,MEMBER_OF,dataset,high,,during Battle of the Astronomy Tower and Battle of Hogwarts
 character:pomona_sprout,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,during Battle of the Astronomy Tower and Battle of Hogwarts
+character:pomona_sprout,org:dumbledore_s_army,MEMBER_OF,dataset,high,,during Battle of the Astronomy Tower and Battle of Hogwarts
 character:pomona_sprout,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:patricia_stimpson,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:miriam_strout,org:st_mungo_s_hospital_for_magical_maladies_and_injuries,MEMBER_OF,dataset,high,,
 character:andromeda_tonks,family:house_of_black_formerly,FAMILY_MEMBER,dataset,high,,family named in the source's house field
 character:nymphadora_tonks,house:hufflepuff,HOUSE,dataset,high,,
-character:nymphadora_tonks,family:lupin_family,FAMILY_MEMBER,dataset,high,,
-character:nymphadora_tonks,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
-character:nymphadora_tonks,org:auror_department,MEMBER_OF,dataset,high,,
-character:nymphadora_tonks,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:nymphadora_tonks,family:tonks_family,FAMILY_MEMBER,dataset,high,,
-character:nymphadora_tonks,org:circle_of_khanna,MEMBER_OF,dataset,high,,
+character:nymphadora_tonks,org:auror_department,MEMBER_OF,dataset,high,,
 character:nymphadora_tonks,org:advance_guard,MEMBER_OF,dataset,high,,
+character:nymphadora_tonks,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
 character:nymphadora_tonks,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:nymphadora_tonks,org:circle_of_khanna,MEMBER_OF,dataset,high,,
+character:nymphadora_tonks,family:lupin_family,FAMILY_MEMBER,dataset,high,,
+character:nymphadora_tonks,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:sybill_trelawney,house:ravenclaw,HOUSE,dataset,high,,
-character:sybill_trelawney,org:dumbledore_s_army,MEMBER_OF,dataset,high,,during the Battle of Hogwarts
 character:sybill_trelawney,org:slug_club,MEMBER_OF,dataset,high,,possibly
-character:sybill_trelawney,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,during the Battle of Hogwarts
 character:sybill_trelawney,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:sybill_trelawney,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,during the Battle of Hogwarts
+character:sybill_trelawney,org:dumbledore_s_army,MEMBER_OF,dataset,high,,during the Battle of Hogwarts
 character:trolley_witch,character:albus_dumbledore,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:lisa_turpin,house:ravenclaw,HOUSE,dataset,high,,
 character:dolores_umbridge,house:slytherin,HOUSE,dataset,high,,
-character:emmeline_vance,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
 character:emmeline_vance,org:advance_guard,MEMBER_OF,dataset,high,,
+character:emmeline_vance,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
 character:romilda_vane,house:gryffindor,HOUSE,dataset,high,,
-character:romilda_vane,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
 character:romilda_vane,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:romilda_vane,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
 character:septima_vector,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:verity,org:weasleys_wizard_wheezes,MEMBER_OF,dataset,high,,
 character:wakanda,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:celestina_warbeck,house:gryffindor,HOUSE,dataset,high,,
 character:celestina_warbeck,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:myrtle_warren,house:ravenclaw,HOUSE,dataset,high,,
-character:myrtle_warren,character:draco_malfoy,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:myrtle_warren,character:scorpius_malfoy,ASSOCIATED_WITH,dataset,high,,associated group in source
-character:myrtle_warren,character:albus_potter,ASSOCIATED_WITH,dataset,high,,associated group in source
-character:myrtle_warren,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:myrtle_warren,character:harry_potter,ASSOCIATED_WITH,dataset,high,,associated group in source
+character:myrtle_warren,character:draco_malfoy,ASSOCIATED_WITH,dataset,high,,associated group in source
+character:myrtle_warren,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:myrtle_warren,character:albus_potter,ASSOCIATED_WITH,dataset,high,,associated group in source
 character:ginny_weasley,house:gryffindor,HOUSE,dataset,high,,
-character:ginny_weasley,family:prewett_family,FAMILY_MEMBER,dataset,high,,
-character:ginny_weasley,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
-character:ginny_weasley,org:gryffindor_quidditch_team,MEMBER_OF,dataset,high,,
-character:ginny_weasley,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
-character:ginny_weasley,org:slug_club,MEMBER_OF,dataset,high,,
 character:ginny_weasley,family:potter_family,FAMILY_MEMBER,dataset,high,,
+character:ginny_weasley,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
+character:ginny_weasley,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
 character:ginny_weasley,family:weasley_family,FAMILY_MEMBER,dataset,high,,
-character:ginny_weasley,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:ginny_weasley,org:daily_prophet,MEMBER_OF,dataset,high,,
+character:ginny_weasley,org:gryffindor_quidditch_team,MEMBER_OF,dataset,high,,
+character:ginny_weasley,org:slug_club,MEMBER_OF,dataset,high,,
+character:ginny_weasley,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:ginny_weasley,family:prewett_family,FAMILY_MEMBER,dataset,high,,
 character:molly_weasley,house:gryffindor,HOUSE,dataset,high,,
-character:molly_weasley,family:prewett_family,FAMILY_MEMBER,dataset,high,,
 character:molly_weasley,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
 character:molly_weasley,family:potter_family,FAMILY_MEMBER,dataset,high,,
 character:molly_weasley,family:weasley_family,FAMILY_MEMBER,dataset,high,,
 character:molly_weasley,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:molly_weasley,family:prewett_family,FAMILY_MEMBER,dataset,high,,
 character:rose_granger_weasley,house:gryffindor,HOUSE,dataset,high,,
-character:rose_granger_weasley,family:prewett_family,FAMILY_MEMBER,dataset,high,,
-character:rose_granger_weasley,family:weasley_family,FAMILY_MEMBER,dataset,high,,
-character:rose_granger_weasley,family:potter_family,FAMILY_MEMBER,dataset,high,,
 character:rose_granger_weasley,org:gryffindor_quidditch_team,MEMBER_OF,dataset,high,,
-character:rose_granger_weasley,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:rose_granger_weasley,family:potter_family,FAMILY_MEMBER,dataset,high,,
 character:rose_granger_weasley,family:granger_family,FAMILY_MEMBER,dataset,high,,
-character:victoire_weasley,family:delacour_family,FAMILY_MEMBER,dataset,high,,
+character:rose_granger_weasley,family:weasley_family,FAMILY_MEMBER,dataset,high,,
+character:rose_granger_weasley,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:rose_granger_weasley,family:prewett_family,FAMILY_MEMBER,dataset,high,,
 character:victoire_weasley,family:weasley_family,FAMILY_MEMBER,dataset,high,,
-character:victoire_weasley,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:victoire_weasley,family:delacour_family,FAMILY_MEMBER,dataset,high,,
 character:victoire_weasley,family:prewett_family,FAMILY_MEMBER,dataset,high,,
+character:victoire_weasley,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:winky,character:bartemius_crouch_junior,ASSOCIATED_WITH,dataset,high,,associated group in source
-character:winky,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:winky,character:bartemius_crouch_senior,ASSOCIATED_WITH,dataset,high,,associated group in source
+character:winky,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:rose_zeller,house:hufflepuff,HOUSE,dataset,high,,
 character:rose_zeller,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
 character:albus_dumbledore,house:gryffindor,HOUSE,dataset,high,,
-character:albus_dumbledore,org:order_of_merlin,MEMBER_OF,dataset,high,,
-character:albus_dumbledore,org:transfiguration_department,MEMBER_OF,dataset,high,,
-character:albus_dumbledore,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
 character:albus_dumbledore,org:wizengamot,MEMBER_OF,dataset,high,,
-character:albus_dumbledore,character:harry_potter,ASSOCIATED_WITH,dataset,high,,associated group in source
+character:albus_dumbledore,org:order_of_the_phoenix,MEMBER_OF,dataset,high,,
 character:albus_dumbledore,org:dumbledore_s_army,MEMBER_OF,dataset,high,,
-character:albus_dumbledore,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
-character:albus_dumbledore,family:dumbledore_family,FAMILY_MEMBER,dataset,high,,
+character:albus_dumbledore,character:harry_potter,ASSOCIATED_WITH,dataset,high,,associated group in source
+character:albus_dumbledore,org:order_of_merlin,MEMBER_OF,dataset,high,,
 character:albus_dumbledore,org:hogwarts_school_of_witchcraft_and_wizardry,MEMBER_OF,dataset,high,,
+character:albus_dumbledore,family:dumbledore_family,FAMILY_MEMBER,dataset,high,,
+character:albus_dumbledore,org:transfiguration_department,MEMBER_OF,dataset,high,,
+character:albus_dumbledore,org:british_ministry_of_magic,MEMBER_OF,dataset,high,,
 character:james_potter_i,character:harry_potter,PARENT_OF,canon,high,1|7,
 character:lily_j_potter,character:harry_potter,PARENT_OF,canon,high,1|7,
 character:james_potter_i,character:lily_j_potter,SPOUSE_OF,canon,high,1|7,
@@ -1151,9 +1133,9 @@ character:albus_dumbledore,character:aberforth_dumbledore,SIBLING_OF,canon,high,
 character:albus_dumbledore,character:ariana_dumbledore,SIBLING_OF,canon,high,7,
 character:aberforth_dumbledore,character:ariana_dumbledore,SIBLING_OF,canon,high,7,
 character:marvolo_gaunt,character:morfin_gaunt,PARENT_OF,canon,high,6,
-character:marvolo_gaunt,character:merope_gaunt,PARENT_OF,canon,high,6,
-character:merope_gaunt,character:tom_riddle_senior,SPOUSE_OF,canon,high,6,
-character:merope_gaunt,character:lord_voldemort,PARENT_OF,canon,high,6,
+character:marvolo_gaunt,character:merope_riddle,PARENT_OF,canon,high,6,
+character:merope_riddle,character:tom_riddle_senior,SPOUSE_OF,canon,high,6,
+character:merope_riddle,character:lord_voldemort,PARENT_OF,canon,high,6,
 character:tom_riddle_senior,character:lord_voldemort,PARENT_OF,canon,high,6,
 character:frank_longbottom,character:alice_longbottom,SPOUSE_OF,canon,high,5,
 character:frank_longbottom,character:neville_longbottom,PARENT_OF,canon,high,4|5,
@@ -1327,3 +1309,181 @@ actor:warwick_davis,character:filius_flitwick,PLAYED,film,high,,films
 actor:emma_thompson,character:sybill_trelawney,PLAYED,film,high,,films 
 actor:david_bradley,character:argus_filch,PLAYED,film,high,,films 
 actor:bill_nighy,character:rufus_scrimgeour,PLAYED,film,high,,films 
+character:albus_dumbledore,org:order_of_the_phoenix,MEMBER_OF,canon,medium,5|7,member of the Order (first or second)
+character:sirius_black,org:order_of_the_phoenix,MEMBER_OF,canon,medium,5|7,member of the Order (first or second)
+character:remus_lupin,org:order_of_the_phoenix,MEMBER_OF,canon,medium,5|7,member of the Order (first or second)
+character:nymphadora_tonks,org:order_of_the_phoenix,MEMBER_OF,canon,medium,5|7,member of the Order (first or second)
+character:alastor_moody,org:order_of_the_phoenix,MEMBER_OF,canon,medium,5|7,member of the Order (first or second)
+character:kingsley_shacklebolt,org:order_of_the_phoenix,MEMBER_OF,canon,medium,5|7,member of the Order (first or second)
+character:arthur_weasley,org:order_of_the_phoenix,MEMBER_OF,canon,medium,5|7,member of the Order (first or second)
+character:molly_weasley,org:order_of_the_phoenix,MEMBER_OF,canon,medium,5|7,member of the Order (first or second)
+character:bill_weasley,org:order_of_the_phoenix,MEMBER_OF,canon,medium,5|7,member of the Order (first or second)
+character:charles_weasley,org:order_of_the_phoenix,MEMBER_OF,canon,medium,5|7,member of the Order (first or second)
+character:mundungus_fletcher,org:order_of_the_phoenix,MEMBER_OF,canon,medium,5|7,member of the Order (first or second)
+character:hestia_jones,org:order_of_the_phoenix,MEMBER_OF,canon,medium,5|7,member of the Order (first or second)
+character:elphias_doge,org:order_of_the_phoenix,MEMBER_OF,canon,medium,5|7,member of the Order (first or second)
+character:emmeline_vance,org:order_of_the_phoenix,MEMBER_OF,canon,medium,5|7,member of the Order (first or second)
+character:sturgis_podmore,org:order_of_the_phoenix,MEMBER_OF,canon,medium,5|7,member of the Order (first or second)
+character:dedalus_diggle,org:order_of_the_phoenix,MEMBER_OF,canon,medium,5|7,member of the Order (first or second)
+character:minerva_mcgonagall,org:order_of_the_phoenix,MEMBER_OF,canon,medium,5|7,member of the Order (first or second)
+character:rubeus_hagrid,org:order_of_the_phoenix,MEMBER_OF,canon,medium,5|7,member of the Order (first or second)
+character:severus_snape,org:order_of_the_phoenix,MEMBER_OF,canon,medium,5|7,member of the Order (first or second)
+character:arabella_figg,org:order_of_the_phoenix,MEMBER_OF,canon,medium,5|7,member of the Order (first or second)
+character:aberforth_dumbledore,org:order_of_the_phoenix,MEMBER_OF,canon,medium,5|7,member of the Order (first or second)
+character:fleur_delacour,org:order_of_the_phoenix,MEMBER_OF,canon,medium,5|7,member of the Order (first or second)
+character:lily_j_potter,org:order_of_the_phoenix,MEMBER_OF,canon,medium,5|7,member of the Order (first or second)
+character:james_potter_i,org:order_of_the_phoenix,MEMBER_OF,canon,medium,5|7,member of the Order (first or second)
+character:peter_pettigrew,org:order_of_the_phoenix,MEMBER_OF,canon,medium,5|7,member of the Order (first or second)
+character:frank_longbottom,org:order_of_the_phoenix,MEMBER_OF,canon,medium,5|7,member of the Order (first or second)
+character:alice_longbottom,org:order_of_the_phoenix,MEMBER_OF,canon,medium,5|7,member of the Order (first or second)
+character:harry_potter,org:order_of_the_phoenix,MEMBER_OF,canon,medium,5|7,member of the Order (first or second)
+character:ronald_weasley,org:order_of_the_phoenix,MEMBER_OF,canon,medium,5|7,member of the Order (first or second)
+character:hermione_granger,org:order_of_the_phoenix,MEMBER_OF,canon,medium,5|7,member of the Order (first or second)
+character:ginny_weasley,org:order_of_the_phoenix,MEMBER_OF,canon,medium,5|7,member of the Order (first or second)
+character:fred_weasley,org:order_of_the_phoenix,MEMBER_OF,canon,medium,5|7,member of the Order (first or second)
+character:george_weasley,org:order_of_the_phoenix,MEMBER_OF,canon,medium,5|7,member of the Order (first or second)
+character:neville_longbottom,org:order_of_the_phoenix,MEMBER_OF,canon,medium,5|7,member of the Order (first or second)
+character:luna_lovegood,org:order_of_the_phoenix,MEMBER_OF,canon,medium,5|7,member of the Order (first or second)
+character:harry_potter,org:dumbledore_s_army,MEMBER_OF,canon,high,5,named D.A. member (book 5)
+character:ronald_weasley,org:dumbledore_s_army,MEMBER_OF,canon,high,5,named D.A. member (book 5)
+character:hermione_granger,org:dumbledore_s_army,MEMBER_OF,canon,high,5,named D.A. member (book 5)
+character:neville_longbottom,org:dumbledore_s_army,MEMBER_OF,canon,high,5,named D.A. member (book 5)
+character:luna_lovegood,org:dumbledore_s_army,MEMBER_OF,canon,high,5,named D.A. member (book 5)
+character:ginny_weasley,org:dumbledore_s_army,MEMBER_OF,canon,high,5,named D.A. member (book 5)
+character:fred_weasley,org:dumbledore_s_army,MEMBER_OF,canon,high,5,named D.A. member (book 5)
+character:george_weasley,org:dumbledore_s_army,MEMBER_OF,canon,high,5,named D.A. member (book 5)
+character:lee_jordan,org:dumbledore_s_army,MEMBER_OF,canon,high,5,named D.A. member (book 5)
+character:cho_chang,org:dumbledore_s_army,MEMBER_OF,canon,high,5,named D.A. member (book 5)
+character:seamus_finnigan,org:dumbledore_s_army,MEMBER_OF,canon,high,5,named D.A. member (book 5)
+character:dean_thomas,org:dumbledore_s_army,MEMBER_OF,canon,high,5,named D.A. member (book 5)
+character:lavender_brown,org:dumbledore_s_army,MEMBER_OF,canon,high,5,named D.A. member (book 5)
+character:parvati_patil,org:dumbledore_s_army,MEMBER_OF,canon,high,5,named D.A. member (book 5)
+character:padma_patil,org:dumbledore_s_army,MEMBER_OF,canon,high,5,named D.A. member (book 5)
+character:katie_bell,org:dumbledore_s_army,MEMBER_OF,canon,high,5,named D.A. member (book 5)
+character:angelina_johnson,org:dumbledore_s_army,MEMBER_OF,canon,high,5,named D.A. member (book 5)
+character:alicia_spinnet,org:dumbledore_s_army,MEMBER_OF,canon,high,5,named D.A. member (book 5)
+character:colin_creevey,org:dumbledore_s_army,MEMBER_OF,canon,high,5,named D.A. member (book 5)
+character:dennis_creevey,org:dumbledore_s_army,MEMBER_OF,canon,high,5,named D.A. member (book 5)
+character:ernest_macmillan,org:dumbledore_s_army,MEMBER_OF,canon,high,5,named D.A. member (book 5)
+character:hannah_abbott,org:dumbledore_s_army,MEMBER_OF,canon,high,5,named D.A. member (book 5)
+character:susan_bones,org:dumbledore_s_army,MEMBER_OF,canon,high,5,named D.A. member (book 5)
+character:justin_finch_fletchley,org:dumbledore_s_army,MEMBER_OF,canon,high,5,named D.A. member (book 5)
+character:zacharias_smith,org:dumbledore_s_army,MEMBER_OF,canon,high,5,named D.A. member (book 5)
+character:terry_boot,org:dumbledore_s_army,MEMBER_OF,canon,high,5,named D.A. member (book 5)
+character:michael_corner,org:dumbledore_s_army,MEMBER_OF,canon,high,5,named D.A. member (book 5)
+character:anthony_goldstein,org:dumbledore_s_army,MEMBER_OF,canon,high,5,named D.A. member (book 5)
+character:marietta_edgecombe,org:dumbledore_s_army,MEMBER_OF,canon,high,5,named D.A. member (book 5)
+character:cormac_mclaggen,org:dumbledore_s_army,MEMBER_OF,canon,high,5,named D.A. member (book 5)
+character:lord_voldemort,org:death_eaters,MEMBER_OF,canon,high,4|7,Death Eater or close follower
+character:bellatrix_lestrange,org:death_eaters,MEMBER_OF,canon,high,4|7,Death Eater or close follower
+character:lucius_malfoy,org:death_eaters,MEMBER_OF,canon,high,4|7,Death Eater or close follower
+character:rodolphus_lestrange,org:death_eaters,MEMBER_OF,canon,high,4|7,Death Eater or close follower
+character:rabastan_lestrange,org:death_eaters,MEMBER_OF,canon,high,4|7,Death Eater or close follower
+character:antonin_dolohov,org:death_eaters,MEMBER_OF,canon,high,4|7,Death Eater or close follower
+character:corban_yaxley,org:death_eaters,MEMBER_OF,canon,high,4|7,Death Eater or close follower
+character:augustus_rookwood,org:death_eaters,MEMBER_OF,canon,high,4|7,Death Eater or close follower
+character:walden_macnair,org:death_eaters,MEMBER_OF,canon,high,4|7,Death Eater or close follower
+character:fenrir_greyback,org:death_eaters,MEMBER_OF,canon,medium,4|7,Death Eater or close follower
+character:peter_pettigrew,org:death_eaters,MEMBER_OF,canon,high,4|7,Death Eater or close follower
+character:severus_snape,org:death_eaters,MEMBER_OF,canon,high,4|7,Death Eater or close follower
+character:bartemius_crouch_junior,org:death_eaters,MEMBER_OF,canon,high,4|7,Death Eater or close follower
+character:amycus_carrow,org:death_eaters,MEMBER_OF,canon,high,4|7,Death Eater or close follower
+character:alecto_carrow,org:death_eaters,MEMBER_OF,canon,high,4|7,Death Eater or close follower
+character:draco_malfoy,org:death_eaters,MEMBER_OF,canon,medium,4|7,Death Eater or close follower
+character:vincent_crabbe,org:death_eaters,MEMBER_OF,canon,high,4|7,Death Eater or close follower
+character:gregory_goyle,org:death_eaters,MEMBER_OF,canon,high,4|7,Death Eater or close follower
+character:regulus_black,org:death_eaters,MEMBER_OF,canon,medium,4|7,Death Eater or close follower
+character:igor_karkaroff,org:death_eaters,MEMBER_OF,canon,medium,4|7,Death Eater or close follower
+character:cedric_diggory,org:triwizard_tournament,MEMBER_OF,canon,high,4,champion (book 4)
+character:fleur_delacour,org:triwizard_tournament,MEMBER_OF,canon,high,4,champion (book 4)
+character:viktor_krum,org:triwizard_tournament,MEMBER_OF,canon,high,4,champion (book 4)
+character:harry_potter,org:triwizard_tournament,MEMBER_OF,canon,high,4,champion (book 4)
+character:minerva_mcgonagall,house:gryffindor,HEAD_OF,canon,high,1|7,Head of Gryffindor
+character:severus_snape,house:slytherin,HEAD_OF,canon,high,1|7,Head of Slytherin
+character:horace_slughorn,house:slytherin,HEAD_OF,canon,high,1|7,Head of Slytherin (earlier years and book 6)
+character:pomona_sprout,house:hufflepuff,HEAD_OF,canon,high,1|7,Head of Hufflepuff
+character:filius_flitwick,house:ravenclaw,HEAD_OF,canon,high,1|7,Head of Ravenclaw
+character:godric_gryffindor,house:gryffindor,FOUNDED,canon,high,2|7,founder
+character:salazar_slytherin,house:slytherin,FOUNDED,canon,high,2|7,founder
+character:helga_hufflepuff,house:hufflepuff,FOUNDED,canon,high,2|7,founder
+character:rowena_ravenclaw,house:ravenclaw,FOUNDED,canon,high,2|7,founder
+character:nicholas_de_mimsy_porpington,house:gryffindor,GHOST_OF,canon,high,1|7,house ghost
+character:bloody_baron,house:slytherin,GHOST_OF,canon,high,1|7,house ghost
+character:fat_friar,house:hufflepuff,GHOST_OF,canon,high,1|7,house ghost
+character:helena_ravenclaw,house:ravenclaw,GHOST_OF,canon,high,1|7,house ghost
+character:agnes,relative:agnes_s_son,PARENT_OF,dataset,medium,,unnamed son in source
+relative:antioch_peverell_s_killer,character:antioch_peverell,RELATIVE_OF,dataset,medium,,killer (unnamed)
+relative:ludovic_bagman_s_father,character:ludovic_bagman,PARENT_OF,dataset,medium,,unnamed father in source
+relative:marcus_belby_s_father,character:marcus_belby,PARENT_OF,dataset,medium,,unnamed father in source
+relative:katie_bell_s_father,character:katie_bell,PARENT_OF,dataset,medium,,unnamed father in source
+relative:amelia_bones_father,character:amelia_bones,PARENT_OF,dataset,medium,,unnamed father in source
+relative:lavender_brown_s_father,character:lavender_brown,PARENT_OF,dataset,medium,,unnamed father in source
+relative:mary_cattermole_s_father,character:mary_cattermole,PARENT_OF,dataset,medium,,unnamed father in source
+relative:cho_chang_s_father,character:cho_chang,PARENT_OF,dataset,medium,,unnamed father in source
+relative:marietta_edgecombe_s_father,character:marietta_edgecombe,PARENT_OF,dataset,medium,,unnamed father in source
+relative:seamus_finnigan_s_father,character:seamus_finnigan,PARENT_OF,dataset,medium,,unnamed father in source
+relative:florence_s_boyfriend,character:florence,RELATIVE_OF,dataset,medium,,boyfriend (unnamed)
+relative:hermione_granger_s_father,character:hermione_granger,PARENT_OF,dataset,medium,,unnamed father in source
+relative:grawp_s_father,character:grawp,PARENT_OF,dataset,medium,,unnamed father in source
+relative:rubeus_hagrid_s_father,character:rubeus_hagrid,PARENT_OF,dataset,medium,,unnamed father in source
+relative:olive_hornby_s_brother,character:olive_hornby,SIBLING_OF,dataset,medium,,unnamed brother in source
+relative:lee_jordan_s_father,character:lee_jordan,PARENT_OF,dataset,medium,,unnamed father in source
+relative:viktor_krum_s_father,character:viktor_krum,PARENT_OF,dataset,medium,,unnamed father in source
+relative:viktor_krum_s_grandfather,character:viktor_krum,PARENT_OF,dataset,medium,,unnamed grandfather in source
+relative:frank_longbottom_s_father,character:frank_longbottom,PARENT_OF,dataset,medium,,unnamed father in source
+relative:olympe_maxime_s_father,character:olympe_maxime,PARENT_OF,dataset,medium,,unnamed father in source
+relative:eloise_midgen_s_father,character:eloise_midgen,PARENT_OF,dataset,medium,,unnamed father in source
+relative:graham_montague_s_father,character:graham_montague,PARENT_OF,dataset,medium,,unnamed father in source
+relative:nicholas_de_mimsy_porpington_s_executioner,character:nicholas_de_mimsy_porpington,RELATIVE_OF,dataset,medium,,executioner (unnamed)
+character:ignotus_peverell,relative:ignotus_peverell_s_son,PARENT_OF,dataset,medium,,unnamed son in source
+relative:antioch_peverell_s_enemy,character:antioch_peverell,RELATIVE_OF,dataset,medium,,enemy (unnamed)
+relative:molly_weasley_s_father,character:molly_weasley,PARENT_OF,dataset,medium,,unnamed father in source
+relative:zacharias_smith_s_father,character:zacharias_smith,PARENT_OF,dataset,medium,,unnamed father in source
+relative:dean_thomas_s_father,character:dean_thomas,PARENT_OF,dataset,medium,,unnamed father in source
+relative:dean_thomas_s_stepfather,character:dean_thomas,PARENT_OF,dataset,medium,,unnamed stepfather in source
+relative:myrtle_warren_s_father,character:myrtle_warren,PARENT_OF,dataset,medium,,unnamed father in source
+relative:molly_weasley_s_second_cousin,character:molly_weasley,RELATIVE_OF,dataset,medium,,second cousin (unnamed)
+relative:arthur_weasley_s_brothers,character:arthur_weasley,RELATIVE_OF,dataset,medium,,brothers (unnamed)
+relative:bill_weasley_s_brazilian_pen_friend,character:bill_weasley,RELATIVE_OF,dataset,medium,,brazilian pen-friend (unnamed)
+relative:oliver_wood_s_father,character:oliver_wood,PARENT_OF,dataset,medium,,unnamed father in source
+relative:hannah_abbott_s_mother,character:hannah_abbott,PARENT_OF,dataset,medium,,unnamed mother in source
+relative:alastor_moody_s_spiders,character:alastor_moody,RELATIVE_OF,dataset,medium,,spiders (unnamed)
+relative:katie_bell_s_mother,character:katie_bell,PARENT_OF,dataset,medium,,unnamed mother in source
+relative:amelia_bones_mother,character:amelia_bones,PARENT_OF,dataset,medium,,unnamed mother in source
+relative:edgar_bones_wife,character:edgar_bones,SPOUSE_OF,dataset,medium,,unnamed wife in source
+relative:lavender_brown_s_mother,character:lavender_brown,PARENT_OF,dataset,medium,,unnamed mother in source
+relative:mary_cattermole_s_mother,character:mary_cattermole,PARENT_OF,dataset,medium,,unnamed mother in source
+relative:cho_chang_s_mother,character:cho_chang,PARENT_OF,dataset,medium,,unnamed mother in source
+relative:dirk_cresswell_s_wife,character:dirk_cresswell,SPOUSE_OF,dataset,medium,,unnamed wife in source
+relative:roger_davies_s_girlfriend,character:roger_davies,RELATIVE_OF,dataset,medium,,girlfriend (unnamed)
+relative:apolline_delacour_s_mother,character:apolline_delacour,PARENT_OF,dataset,medium,,unnamed mother in source
+relative:cedric_diggory_s_mother,character:cedric_diggory,PARENT_OF,dataset,medium,,unnamed mother in source
+relative:vernon_dursley_s_secretary,character:vernon_dursley,RELATIVE_OF,dataset,medium,,secretary (unnamed)
+relative:justin_finch_fletchley_s_mother,character:justin_finch_fletchley,PARENT_OF,dataset,medium,,unnamed mother in source
+relative:seamus_finnigan_s_mother,character:seamus_finnigan,PARENT_OF,dataset,medium,,unnamed mother in source
+relative:ambrosius_flume_s_wife,character:ambrosius_flume,SPOUSE_OF,dataset,medium,,unnamed wife in source
+relative:cornelius_fudge_s_wife,character:cornelius_fudge,SPOUSE_OF,dataset,medium,,unnamed wife in source
+relative:gregory_goyle_s_mother,character:gregory_goyle,PARENT_OF,dataset,medium,,unnamed mother in source
+relative:hermione_granger_s_mother,character:hermione_granger,PARENT_OF,dataset,medium,,unnamed mother in source
+relative:hermione_granger_s_sister,character:hermione_granger,SIBLING_OF,dataset,medium,,unnamed sister in source
+relative:bertha_jorkins_s_aunt,character:bertha_jorkins,RELATIVE_OF,dataset,medium,,aunt (unnamed)
+relative:kreacher_s_mother,character:kreacher,PARENT_OF,dataset,medium,,unnamed mother in source
+relative:viktor_krum_s_mother,character:viktor_krum,PARENT_OF,dataset,medium,,unnamed mother in source
+relative:mafalda_s_mother,character:mafalda,PARENT_OF,dataset,medium,,unnamed mother in source
+relative:olympe_maxime_s_mother,character:olympe_maxime,PARENT_OF,dataset,medium,,unnamed mother in source
+relative:graham_montague_s_mother,character:graham_montague,PARENT_OF,dataset,medium,,unnamed mother in source
+relative:muriel_s_mother,character:muriel,PARENT_OF,dataset,medium,,unnamed mother in source
+relative:pansy_parkinson_s_gang,character:pansy_parkinson,RELATIVE_OF,dataset,medium,,gang (unnamed)
+relative:peter_pettigrew_s_mother,character:peter_pettigrew,PARENT_OF,dataset,medium,,unnamed mother in source
+relative:cadmus_peverell_s_fianc_e,character:cadmus_peverell,RELATIVE_OF,dataset,medium,,fiancée (unnamed)
+relative:piers_polkiss_s_mother,character:piers_polkiss,PARENT_OF,dataset,medium,,unnamed mother in source
+relative:molly_weasley_s_mother,character:molly_weasley,PARENT_OF,dataset,medium,,unnamed mother in source
+relative:theodore_nott_s_mother,character:theodore_nott,PARENT_OF,dataset,medium,,unnamed mother in source
+relative:dean_thomas_s_mother,character:dean_thomas,PARENT_OF,dataset,medium,,unnamed mother in source
+relative:donaghan_tremlett_s_wife,character:donaghan_tremlett,SPOUSE_OF,dataset,medium,,unnamed wife in source
+relative:romilda_vane_s_grandmother,character:romilda_vane,PARENT_OF,dataset,medium,,unnamed grandmother in source
+relative:myrtle_warren_s_mother,character:myrtle_warren,PARENT_OF,dataset,medium,,unnamed mother in source
+relative:winky_s_grandmother,character:winky,PARENT_OF,dataset,medium,,unnamed grandmother in source
+relative:winky_s_mother,character:winky,PARENT_OF,dataset,medium,,unnamed mother in source
+relative:oliver_wood_s_mother,character:oliver_wood,PARENT_OF,dataset,medium,,unnamed mother in source
+relative:blaise_zabini_s_mother,character:blaise_zabini,PARENT_OF,dataset,medium,,unnamed mother in source

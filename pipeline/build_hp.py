@@ -3,10 +3,10 @@ Sources: (1) 'harry.json' character dataset from GitHub (Laboratoria/BOG005-data
 (2) curated.py: our own typed canon layer. Evidence classes: dataset | canon | film | derived."""
 import json,re,sys,hashlib,collections,os,csv
 import networkx as nx
-sys.path.insert(0,os.path.dirname(__file__));import curated as C
+sys.path.insert(0,os.path.dirname(__file__));import curated as C,story as ST
 SRC=sys.argv[1] if len(sys.argv)>1 else "data/source_harry.json";OUT=sys.argv[2] if len(sys.argv)>2 else "data"
 raw=json.load(open(SRC,encoding="utf-8"))["characters"]
-ALIAS={"Voldemort":"Lord Voldemort","Tom Marvolo Riddle":"Lord Voldemort","Tom Riddle (Voldemort)":"Lord Voldemort","Ginevra Weasley":"Ginny Weasley","Ron Weasley":"Ronald Weasley","Lily Potter":"Lily J. Potter","James Potter":"James Potter I","Wormtail":"Peter Pettigrew"}
+ALIAS={"Voldemort":"Lord Voldemort","Tom Marvolo Riddle":"Lord Voldemort","Tom Riddle (Voldemort)":"Lord Voldemort","Ginevra Weasley":"Ginny Weasley","Ron Weasley":"Ronald Weasley","Lily Potter":"Lily J. Potter","James Potter":"James Potter I","Wormtail":"Peter Pettigrew","Merope Gaunt":"Merope Riddle","Teddy Lupin":"Edward Lupin","Mad-Eye Moody":"Alastor Moody","Lily Evans":"Lily J. Potter","Moaning Myrtle":"Myrtle Warren","Nearly Headless Nick":"Nicholas de Mimsy-Porpington","Madam Rosmerta":"Rosmerta","Sir Cadogan":"Cadogan","Ernie Macmillan":"Ernest Macmillan","Stan Shunpike":"Stanley Shunpike","Scabbers":"Peter Pettigrew","The Grey Lady":"Helena Ravenclaw","Yaxley":"Corban Yaxley","Charlie Weasley":"Charles Weasley","Ted Tonks":"Edward Tonks"}
 HOUSES=["Gryffindor","Slytherin","Hufflepuff","Ravenclaw"]
 slug=lambda s:re.sub(r'[^a-z0-9]+','_',s.lower()).strip('_')
 canon=lambda n:ALIAS.get(n,n)
@@ -15,11 +15,13 @@ def anc(a):
     for k,v in (("pure","Pure-blood"),("half","Half-blood"),("muggle-born","Muggle-born"),("muggleborn","Muggle-born"),("squib","Squib"),("muggle","Muggle")):
         if k in a:return v
     return "Unknown"
-chars={}
+chars={};junk=[];relraw=[];rawcount=collections.Counter()
 for x in raw:
     n=x["name"]
-    if n.startswith("User:") or re.search(r"'s(\s|$)",n) or "(Potter-era)" in n:continue
-    n=canon(n);e=chars.setdefault(n,{"name":n,"house":None,"hu":False,"species":"Unknown","ancestry":"Unknown","gender":None,"hair":None,"eye":None,"wand":None,"patronus":None,"birth":None,"death":None,"fam":None,"books":set(),"groups":set()})
+    if n.startswith("User:"):junk.append(n);continue
+    if re.match(r"^.+?'s?\s+\S",n):relraw.append(x);continue
+    n=n.replace(" (Potter-era)","");rawcount[canon(n)]+=1;n=canon(n)
+    e=chars.setdefault(n,{"name":n,"house":None,"hu":False,"species":"Unknown","ancestry":"Unknown","gender":None,"hair":None,"eye":None,"wand":None,"patronus":None,"birth":None,"death":None,"fam":None,"books":set(),"groups":set()})
     h=x.get("house") or ""
     for hh in HOUSES:
         if h.startswith(hh):e["house"]=hh;e["hu"]="possibly" in h
@@ -88,8 +90,38 @@ def fset(f):
         if "-" in p:x,y=p.split("-");out|=set(range(int(x),int(y)+1))
         elif p:out.add(int(p))
     return out
+def hv(n):return nid("character",canon(n)) in nodes
+def org(n):return node("org",n)
+for n in C.ORDER:
+    if hv(n):edge(char(n),org("Order of the Phoenix"),"MEMBER_OF","canon","member of the Order (first or second)",[5,7],"medium")
+for n in C.DA:
+    if hv(n):edge(char(n),org("Dumbledore's Army"),"MEMBER_OF","canon","named D.A. member (book 5)",[5])
+for n in C.DE:
+    if hv(n):edge(char(n),org("Death Eaters"),"MEMBER_OF","canon","Death Eater or close follower",[4,7],"medium" if n in("Regulus Black","Igor Karkaroff","Draco Malfoy","Fenrir Greyback") else "high")
+for n in C.TRI:
+    if hv(n):edge(char(n),org("Triwizard Tournament"),"MEMBER_OF","canon","champion (book 4)",[4])
+for n,h,t in C.HEADS:
+    if hv(n):edge(char(n),node("house",h),"HEAD_OF","canon",t,[1,7])
+for n,h in C.FOUND:
+    if hv(n):edge(char(n),node("house",h),"FOUNDED","canon","founder",[2,7])
+for n,h in C.GHOSTS:
+    if hv(n):edge(char(n),node("house",h),"GHOST_OF","canon","house ghost",[1,7])
+# unnamed relatives: nothing dropped
+RELMAP={"father":"up","mother":"up","stepfather":"up","stepmother":"up","grandfather":"up","grandmother":"up","great-grandfather":"up","son":"down","daughter":"down","alleged son":"down","brother":"sib","sister":"sib","wife":"sp","husband":"sp"}
+relatives=[]
+for x in relraw:
+    n=x["name"];m=re.match(r"^(.+?)'s?\s+(.+)$",n);person=canon(m.group(1).strip());word=m.group(2).strip().lower();i=nid("relative",n)
+    nodes[i]={"id":i,"l":n,"k":"relative","src":"dataset"};pid=nid("character",person) if person in chars else None
+    kind=RELMAP.get(word)
+    if pid:
+        if kind=="up":edge(i,pid,"PARENT_OF","dataset",f"unnamed {word} in source",[],"medium")
+        elif kind=="down":edge(pid,i,"PARENT_OF","dataset",f"unnamed {word} in source",[],"medium")
+        elif kind=="sib":edge(i,pid,"SIBLING_OF","dataset",f"unnamed {word} in source",[],"medium")
+        elif kind=="sp":edge(i,pid,"SPOUSE_OF","dataset",f"unnamed {word} in source",[],"medium")
+        else:edge(i,pid,"RELATIVE_OF","dataset",f"{word} (unnamed)",[],"medium")
+    relatives.append({"x":x,"id":i,"of":person if pid else None,"word":word})
 # ---- metrics ----
-W={"PARENT_OF":4,"SPOUSE_OF":4,"SIBLING_OF":3,"PARTNER_OF":2,"GODPARENT_OF":2,"MENTOR_OF":2,"FRIEND_OF":1.5,"ENEMY_OF":1.5,"KILLED":1.5,"HOUSE":.6,"MEMBER_OF":.5,"FAMILY_MEMBER":2,"ASSOCIATED_WITH":1,"PLAYED":.3}
+W={"PARENT_OF":4,"SPOUSE_OF":4,"SIBLING_OF":3,"PARTNER_OF":2,"GODPARENT_OF":2,"MENTOR_OF":2,"FRIEND_OF":1.5,"ENEMY_OF":1.5,"KILLED":1.5,"HOUSE":.6,"MEMBER_OF":.5,"FAMILY_MEMBER":2,"ASSOCIATED_WITH":1,"PLAYED":.3,"HEAD_OF":2,"FOUNDED":2,"GHOST_OF":1.5,"RELATIVE_OF":1}
 G=nx.Graph()
 for e in edges:
     w=W.get(e["t"],1)
@@ -119,7 +151,9 @@ for b in range(1,8):
 CH={e["a"]:(nodes[e["b"]]["l"],e["conf"]=="medium") for e in edges if e["t"]=="HOUSE" and e["ev"]=="canon"}
 directory=[]
 for n,e in sorted(chars.items()):
-    i=nid("character",n);directory.append({"id":i,"name":n,"house":e["house"] or CH.get(i,(None,))[0],"hu":e["hu"] or (not e["house"] and CH.get(i,(0,False))[1]),"species":e["species"],"ancestry":e["ancestry"],"gender":e["gender"],"hair":e["hair"],"eye":e["eye"],"wand":e["wand"],"patronus":e["patronus"],"birth":e["birth"],"death":e["death"],"books":sorted(e["books"]),"groups":sorted(e["groups"]),"actors":actors.get(i,[]),"inGraph":i in G})
+    i=nid("character",n);directory.append({"id":i,"name":n,"house":e["house"] or CH.get(i,(None,))[0],"hu":e["hu"] or (not e["house"] and CH.get(i,(0,False))[1]),"species":e["species"],"ancestry":e["ancestry"],"gender":e["gender"],"hair":e["hair"],"eye":e["eye"],"wand":e["wand"],"patronus":e["patronus"],"birth":e["birth"],"death":e["death"],"books":sorted(e["books"]),"groups":sorted(e["groups"]),"actors":actors.get(i,[]),"inGraph":i in G,"role":C.ROLES.get(n),"aka":C.AKA.get(n,[])})
+for r_ in relatives:
+    x=r_["x"];directory.append({"id":r_["id"],"name":x["name"],"unnamed":True,"of":r_["of"],"rel":r_["word"],"house":None,"hu":False,"species":(x.get("species") or "Unknown").split(" (")[0],"ancestry":anc(x.get("ancestry")),"gender":x.get("gender"),"hair":x.get("hair_color"),"eye":x.get("eye_color"),"wand":x.get("wand"),"patronus":x.get("patronus"),"birth":x.get("birth"),"death":x.get("death"),"books":sorted(x.get("books_featured_in") or []),"groups":sorted(x.get("associated_groups") or []),"actors":[],"inGraph":r_["id"] in G,"aka":[]})
 for i,n in nodes.items():
     if n["k"]=="character" and n["src"]=="canon":directory.append({"id":i,"name":n["l"],"house":None,"hu":False,"species":"Unknown","ancestry":"Unknown","books":[],"groups":[],"actors":actors.get(i,[]),"inGraph":i in G,"canonOnly":True})
 # ---- missing-name report ----
@@ -131,9 +165,23 @@ ev=collections.Counter(e["ev"] for e in edges);et=collections.Counter(e["t"] for
 house_anc=collections.Counter((e["house"],e["ancestry"]) for e in chars.values() if e["house"])
 vis=[n for n in nodes.values() if "p" in n];ek=[e for e in edges if e["a"] in G and e["b"] in G]
 top=sorted([n for n in vis if n["k"]=="character"],key=lambda n:-n["pr"])[:20]
-DATA={"meta":{"title":"HPArchive","version":"1.0.0","chars":len(directory),"nodes":len(vis),"edges":len(ek),"evidence":dict(ev),"types":dict(et),"canonOnly":canon_only,"note":"Unofficial fan archive. No book or film text, images or scripts are included."},
+DATA={"meta":{"title":"HPArchive","version":"2.0.0","chars":len(directory),"nodes":len(vis),"edges":len(ek),"evidence":dict(ev),"types":dict(et),"canonOnly":canon_only,"note":"Unofficial fan archive. No book or film text, scripts or official artwork are included."},
 "nodes":vis,"edges":ek,"dir":directory,"books":[{"n":n,"t":t,"y":y,"chars":bookn[n],"new":newper[n]} for n,t,y in C.BOOKS],"films":[{"n":n,"t":t,"y":y,"dir":d,"book":bk,"cast":[f"{a} as {c.replace(' (Voldemort)','')} (films {f})" for a,c,f in C.CAST if f and n in fset(f)],"other":[f"{a} as {c}" for a,c,f in C.CAST if not f]} for n,t,y,d,bk in C.FILMS],
 "events":events,"tours":tours,"comm":{str(k):v for k,v in cname.items()},"top":[{"id":n["id"],"l":n["l"],"pr":n["pr"],"bt":n["bt"],"deg":n["deg"]} for n in top],"houseAnc":{f"{h}|{a}":c for (h,a),c in house_anc.items()},"houses":HOUSES}
+def clip(t,n):
+    t=(t or "").strip()
+    if len(t)<=n:return t
+    c=t[:n];k=max(c.rfind(". "),c.rfind("; "));return c[:k+1] if k>n*.5 else c.rstrip()+"…"
+srcj=json.load(open(SRC,encoding="utf-8"))
+spells=[{"n":s["name"],"o":s.get("other_name"),"t":s.get("spell_type")} for s in srcj["spells"]]
+potions=[{"n":p["name"]} for p in srcj["potions"]]
+panels=[];mp=[]
+for b_,bt,ps in ST.STORY:
+    for k,p in enumerate(ps):
+        ids=[nid("character",canon(x)) for x in p["ch"] if nid("character",canon(x)) in nodes];mp+=[x for x in p["ch"] if nid("character",canon(x)) not in nodes]
+        panels.append({"b":b_,"bt":bt,"i":k,"t":p["t"],"w":p["w"],"sky":p["sky"],"it":p["it"],"tx":p["tx"],"ch":ids,"fx":p["fx"],"theme":p.get("theme","")})
+recon={"source_records":len(raw),"junk":junk,"unnamed":len(relraw),"unnamed_linked":sum(1 for r in relatives if r["of"]),"merged":[[n,c] for n,c in rawcount.items() if c>1],"unique_named":len(chars),"dir":len(directory)}
+DATA.update({"spells":spells,"potions":potions,"panels":panels,"recon":recon,"houseInfo":C.HOUSE_INFO,"missingPanel":sorted(set(mp))});DATA["meta"].update({"spells":len(spells),"potions":len(potions),"panels":len(panels),"named":recon["unique_named"],"unnamed":len(relraw)})
 s=json.dumps(DATA,ensure_ascii=False,separators=(',',':'));open(f"{OUT}/hp.json","w",encoding="utf-8").write(s)
 man={"hp.json":hashlib.sha256(s.encode()).hexdigest(),"source_harry.json":hashlib.sha256(open(SRC,"rb").read()).hexdigest()}
 with open(f"{OUT}/nodes.csv","w",newline="",encoding="utf-8") as f:
@@ -149,4 +197,4 @@ cy=["CREATE CONSTRAINT IF NOT EXISTS FOR (n:Node) REQUIRE n.id IS UNIQUE;"]+[f"M
 open(f"{OUT}/hp-cypher-seed.cypher","w",encoding="utf-8").write("\n".join(cy))
 for fn in("nodes.csv","edges.csv","hp.graphml","hp-cypher-seed.cypher"):man[fn]=hashlib.sha256(open(f"{OUT}/{fn}","rb").read()).hexdigest()
 json.dump(man,open(f"{OUT}/MANIFEST.sha256.json","w"),indent=1)
-print("directory",len(directory),"graph nodes",len(vis),"edges",len(ek),"evidence",dict(ev));print("types",dict(et));print("canon-only (not in dataset):",canon_only[:40]);print("communities",len(comm),list(cname.values())[:10]);print("top",[n["l"] for n in top[:12]])
+print("recon",recon["source_records"],"junk",len(junk),"unnamed",recon["unnamed"],recon["unnamed_linked"],"merged",recon["merged"][:12],"missing-in-panels",sorted(set(mp)));print("directory",len(directory),"graph nodes",len(vis),"edges",len(ek),"evidence",dict(ev));print("types",dict(et));print("canon-only (not in dataset):",canon_only[:40]);print("communities",len(comm),list(cname.values())[:10]);print("top",[n["l"] for n in top[:12]])
